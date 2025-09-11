@@ -5,6 +5,6 @@
 
   # schofield-lab's Website
 
-  Visit **[schofield-lab.github.io/schofield-lab-website](https://schofield-lab.github.io/schofield-lab-website)** 🚀
+  Visit **[schofield-lab.github.io](https://schofield-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
