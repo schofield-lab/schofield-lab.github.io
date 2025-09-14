@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .portrait-wrapper {
   display: contents;
 }
@@ -64,13 +65,62 @@
 }
 
 .portrait-name {
-  font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 0.75rem;
+}
+
+.portrait-affiliation {
+  color: #555;
+  font-size: 0.98rem;
+  line-height: 1.3;
+  margin-top: 0.25rem;
+  /* Keep it on 1–2 neat lines */
+  text-wrap: balance; /* modern browsers */
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  max-width: 22ch; /* stop over-wide wrapping */
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .portrait[data-style=tiny] .portrait-description,
 .portrait[data-style=tiny] .portrait-affiliation {
   display: none;
+}
+
+/* Make link buttons less gappy and more compact */
+.button--bare {
+  font-size: 1rem;
+  line-height: 1.2;
+  padding: 0.25rem 0;
+  gap: 0.5rem;
+}
+
+.portrait-wrapper + div a { /* your link list under the portrait */
+  display: inline-flex;
+  align-items: center;
+  margin: 0rem 0;
+}
+
+.contact-box {
+  clear: left;
+  margin: 1.25rem 0;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 5px;
+  background: var(--background-alt, #f9f9f9);
+  text-align: left;
+  max-width: 500px; /* keeps long address lines tidy */
+}
+
+.contact-box p {
+  margin: 0.25rem 0; /* reduce space between lines/paragraphs */
+}
+
+.contact-box strong {
+  display: inline-block;
+  min-width: 4.5rem; /* keeps labels (Email, Office…) aligned */
 }
 
 /*# sourceMappingURL=portrait.css.map */
