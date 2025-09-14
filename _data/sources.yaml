@@ -1,25 +1,57 @@
-- id: doi.org/10.1038/ncomms2679
-
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1021/acs.nanolett.5c02675
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  description: This paper presents the first STM imaging and spectroscopy of hydrogenic acceptor wave functions in silicon, with effective-mass and tight-binding theory confirming their square-ring-like symmetry and acceptor character.
+  image: /images/publications/images_large_nl5c02675_0004.jpg
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1038/ncomms2679
+  type: paper
+  description: This paper reports the unanticipated discovery of a new atomic-scale quantum dot state in silicon, created by atomic manipulation on a hydrogen-terminated surface, providing key insights into atomic-scale quantum dot behaviour.
+  date: 2013-04-03
+  image: /images/publications/41467_2013_Article_BFncomms2679_Fig6_HTML.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1002/anie.202213982
+  type: paper
+  description: This paper reports that arsenic incorporates into Ge(001) at room temperature, addressing a key challenge for scalable donor-based quantum devices.
+  image: /images/publications/anie202213982-toc-0001-m.jpg
+
+- id: doi:10.1002/advs.202302101
+  type: paper
+  description: This study demonstrates, for the first time, a non-destructive method to probe two-dimensional electron liquids in silicon, revealing their properties—including quantum confinement thickness—and showcasing the thinnest technological electron liquid to date (0.45 nm).
+  image: /images/publications/advs6137-fig-0003-m.jpg
+
+
+- id: doi:10.1021/acs.nanolett.1c00677
+  type: paper
+  description: This paper reports the first observation of a charge density wave ground state in a semiconducting transition metal dichalcogenide, providing new insight into CDW formation mechanisms.
+  image: /images/publications/images_large_nl1c00677_0005.jpg
+
+
+- id: doi:10.1103/PhysRevLett.91.136104
+  type: paper
+  description: This seminal paper presents the first demonstration of atomically precise dopant placement in a semiconductor, laying the foundation for modern atomic-scale quantum electronic devices.
+  image: /images/publications/PRL_schofield_2003.png
+
+
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
+
+# - id: doi:10.1016/j.csbj.2020.05.017
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+# - id: doi:10.7554/eLife.32822
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
