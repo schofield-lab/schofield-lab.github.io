@@ -1,193 +1,1539 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1021/acs.nanolett.5c02675
+  title: Imaging the Acceptor Wave Function Anisotropy in Silicon
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Manuel Siegl
+  - Julian Zanon
+  - Joseph Sink
+  - Adonai Rodrigues da Cruz
+  - Holly Hedgeland
+  - Neil J. Curson
+  - "Michael E. Flatt\xE9"
+  - Steven R. Schofield
+  publisher: Nano Letters
+  date: '2025-08-21'
+  link: https://doi.org/g93mkt
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1088/2399-1984/ada901
+  title: Roadmap on atomic-scale semiconductor devices
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Steven R Schofield
+  - Andrew J Fisher
+  - Eran Ginossar
+  - Joseph W Lyding
+  - Richard Silver
+  - Fan Fei
+  - Pradeep Namboodiri
+  - Jonathan Wyrick
+  - Mateus G Masteghin
+  - David C Cox
+  - Benedict N Murdin
+  - Steven K Clowes
+  - Joris G Keizer
+  - Michelle Y Simmons
+  - Holly G Stemp
+  - Andrea Morello
+  - Benoit Voisin
+  - Sven Rogge
+  - Robert A Wolkow
+  - Lucian Livadaru
+  - Jason Pitters
+  - Taylor J Z Stock
+  - Neil J Curson
+  - Robert E Butera
+  - Tatiana V Pavlova
+  - A M Jakob
+  - D Spemann
+  - "P R\xE4cke"
+  - F Schmidt-Kaler
+  - D N Jamieson
+  - Utkarsh Pratiush
+  - Gerd Duscher
+  - Sergei V Kalinin
+  - Dimitrios Kazazis
+  - Procopios Constantinou
+  - Gabriel Aeppli
+  - Yasin Ekinci
+  - James H G Owen
+  - Emma Fowler
+  - S O Reza Moheimani
+  - John Randall
+  - Shashank Misra
+  - Jeffrey A Ivie
+  - Christopher R Allemang
+  - Evan M Anderson
+  - Ezra Bussmann
+  - Quinn Campbell
+  - Xujiao Gao
+  - Tzu-Ming Lu
+  - Scott W Schmucker
+  publisher: Nano Futures
+  date: '2025-03-31'
+  link: https://doi.org/g93mkv
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1002/adma.202312282
+  title: "Single\u2010Atom Control of Arsenic Incorporation in Silicon for High\u2010\
+    Yield Artificial Lattice Fabrication"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Taylor J. Z. Stock
+  - Oliver Warschkow
+  - Procopios C. Constantinou
+  - David R. Bowler
+  - Steven R. Schofield
+  - Neil J. Curson
+  publisher: Advanced Materials
+  date: '2024-03-22'
+  link: https://doi.org/g8kwxh
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41467-024-44790-6
+  title: EUV-induced hydrogen desorption as a step towards large-scale silicon quantum
+    device patterning
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Procopios Constantinou
+  - Taylor J. Z. Stock
+  - Li-Ting Tseng
+  - Dimitrios Kazazis
+  - Matthias Muntwiler
+  - Carlos A. F. Vaz
+  - Yasin Ekinci
+  - Gabriel Aeppli
+  - Neil J. Curson
+  - Steven R. Schofield
+  publisher: Nature Communications
+  date: '2024-01-24'
+  link: https://doi.org/g93mkw
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1002/advs.202302101
+  title: "Momentum\u2010Space Imaging of Ultra\u2010Thin Electron Liquids in \u03B4\
+    \u2010Doped Silicon"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Procopios Constantinou
+  - Taylor J. Z. Stock
+  - Eleanor Crane
+  - "Alexander K\xF6lker"
+  - Marcel van Loon
+  - Juerong Li
+  - Sarah Fearn
+  - Henric Bornemann
+  - "Nicol\xF2 D'Anna"
+  - Andrew J. Fisher
+  - Vladimir N. Strocov
+  - Gabriel Aeppli
+  - Neil J. Curson
+  - Steven R. Schofield
+  publisher: Advanced Science
+  date: '2023-07-19'
+  link: https://doi.org/g93mkx
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1021/acs.jpcc.3c03916
+  title: Adsorption and Thermal Decomposition of Triphenyl Bismuth on Silicon (001)
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Eric A. S. Lundgren
+  - Carly Byron
+  - Procopios Constantinou
+  - Taylor J. Z. Stock
+  - Neil J. Curson
+  - Lars Thomsen
+  - Oliver Warschkow
+  - Andrew V. Teplyakov
+  - Steven R. Schofield
+  publisher: The Journal of Physical Chemistry C
+  date: '2023-08-14'
+  link: https://doi.org/g93mkz
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1126/sciadv.adf5997
+  title: 'Resistless EUV lithography: Photon-induced oxide patterning on silicon'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Li-Ting Tseng
+  - Prajith Karadan
+  - Dimitrios Kazazis
+  - Procopios C. Constantinou
+  - "Taylor J.\_Z. Stock"
+  - Neil J. Curson
+  - Steven R. Schofield
+  - Matthias Muntwiler
+  - Gabriel Aeppli
+  - Yasin Ekinci
+  publisher: Science Advances
+  date: '2023-04-21'
+  link: https://doi.org/g93mk2
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1063/5.0145772
+  title: Bismuth trichloride as a molecular precursor for silicon doping
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Eric A. S. Lundgren
+  - Rebecca Conybeare
+  - Taylor J. Z. Stock
+  - Neil J. Curson
+  - Oliver Warschkow
+  - Steven R. Schofield
+  publisher: Applied Physics Letters
+  date: '2023-04-10'
+  link: https://doi.org/g93mk3
+  orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/anie.202213982
+  title: Room Temperature Incorporation of Arsenic Atoms into the Germanium (001)
+    Surface**
+  authors:
+  - Emily V. S. Hofmann
+  - Taylor J. Z. Stock
+  - Oliver Warschkow
+  - Rebecca Conybeare
+  - Neil J. Curson
+  - Steven R. Schofield
+  publisher: Angewandte Chemie International Edition
+  date: '2023-01-10'
+  link: https://doi.org/g93mk4
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ange.202213982
+  title: Room Temperature Incorporation of Arsenic Atoms into the Germanium (001)
+    Surface**
+  authors:
+  - Emily V. S. Hofmann
+  - Taylor J. Z. Stock
+  - Oliver Warschkow
+  - Rebecca Conybeare
+  - Neil J. Curson
+  - Steven R. Schofield
+  publisher: Angewandte Chemie
+  date: '2023-01-10'
+  link: https://doi.org/g93mk5
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1361-648X/ac5a24
+  title: 'Atomic and molecular functionalisation of technological materials: an introduction
+    to nanoscale processes on semiconductor surfaces'
+  authors:
+  - Steven R Schofield
+  - Andrew V Teplyakov
+  - Talat S Rahman
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2022-03-25'
+  link: https://doi.org/g93mk6
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.1c07115
+  title: Substitutional Tin Acceptor States in Black Phosphorus
+  authors:
+  - Mark Wentink
+  - Julian Gaberle
+  - Martik Aghajanian
+  - Arash A. Mostofi
+  - Neil J. Curson
+  - Johannes Lischner
+  - Steven R. Schofield
+  - Alexander L. Shluger
+  - Anthony J. Kenyon
+  publisher: The Journal of Physical Chemistry C
+  date: '2021-10-11'
+  link: https://doi.org/g69xwn
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.nanolett.1c00677
+  title: Charge Density Waves in Electron-Doped Molybdenum Disulfide
+  authors:
+  - Mohammed K. Bin Subhan
+  - Asif Suleman
+  - Gareth Moore
+  - Peter Phu
+  - Moritz Hoesch
+  - Hidekazu Kurebayashi
+  - Christopher A. Howard
+  - Steven R. Schofield
+  publisher: Nano Letters
+  date: '2021-07-06'
+  link: https://doi.org/gk8hdf
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1361-648X/abe6dd
+  title: Determination of the preferred reaction pathway of acetophenone on Si(001)
+    using photoelectron diffraction
+  authors:
+  - Paula L Lalaguna
+  - Holly Hedgeland
+  - Paul T P Ryan
+  - Oliver Warschkow
+  - Matthias K Muntwiler
+  - Andrew V Teplyakov
+  - Steven R Schofield
+  - David A Duncan
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2021-05-04'
+  link: https://doi.org/g93mk7
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsnano.9b08943
+  title: Atomic-Scale Patterning of Arsenic in Silicon by Scanning Tunneling Microscopy
+  authors:
+  - Taylor J. Z. Stock
+  - Oliver Warschkow
+  - Procopios C. Constantinou
+  - Juerong Li
+  - Sarah Fearn
+  - Eleanor Crane
+  - Emily V. S. Hofmann
+  - "Alexander K\xF6lker"
+  - David R. McKenzie
+  - Steven R. Schofield
+  - Neil J. Curson
+  publisher: ACS Nano
+  date: '2020-03-06'
+  link: https://doi.org/g93mk8
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.9b04954
+  title: "Dissociation of CH<sub>3</sub>\u2013O as a Driving Force for Methoxyacetophenone\
+    \ Adsorption on Si(001)"
+  authors:
+  - "Kane M. O\u2019Donnell"
+  - Carly Byron
+  - Gareth Moore
+  - Lars Thomsen
+  - Oliver Warschkow
+  - Andrew Teplyakov
+  - Steven R. Schofield
+  publisher: The Journal of Physical Chemistry C
+  date: '2019-08-19'
+  link: https://doi.org/g93mk9
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apsusc.2017.11.058
+  title: Higher order reconstructions of the Ge(001) surface induced by a Ba layer
+  authors:
+  - W. Koczorowski
+  - T. Grzela
+  - A. Puchalska
+  - M.W. Radny
+  - L. Jurczyszyn
+  - S.R. Schofield
+  - R. Czajka
+  - N.J. Curson
+  publisher: Applied Surface Science
+  date: '2018-03-01'
+  link: https://doi.org/gc4hbg
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.97.155306
+  title: Two- to three-dimensional crossover in a dense electron liquid in silicon
+  authors:
+  - Guy Matmon
+  - Eran Ginossar
+  - Byron J. Villis
+  - "Alex K\xF6lker"
+  - Tingbin Lim
+  - Hari Solanki
+  - Steven R. Schofield
+  - Neil J. Curson
+  - Juerong Li
+  - Ben N. Murdin
+  - Andrew J. Fisher
+  - Gabriel Aeppli
+  publisher: Physical Review B
+  date: '2018-04-23'
+  link: https://doi.org/gkmjn6
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.95.075408
+  title: Exact location of dopants below the Si(001):H surface from scanning tunneling
+    microscopy and density functional theory
+  authors:
+  - "Veronika Br\xE1zdov\xE1"
+  - David R. Bowler
+  - Kitiphat Sinthiptharakoon
+  - Philipp Studer
+  - Adam Rahnejat
+  - Neil J. Curson
+  - Steven R. Schofield
+  - Andrew J. Fisher
+  publisher: Physical Review B
+  date: '2017-02-07'
+  link: https://doi.org/gksz75
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.1602586
+  title: Nondestructive imaging of atomically thin nanostructures buried in silicon
+  authors:
+  - Georg Gramse
+  - "Alexander K\xF6lker"
+  - Tingbin Lim
+  - Taylor J. Z. Stock
+  - Hari Solanki
+  - Steven R. Schofield
+  - Enrico Brinciotti
+  - Gabriel Aeppli
+  - Ferry Kienberger
+  - Neil J. Curson
+  publisher: Science Advances
+  date: '2017-06-02'
+  link: https://doi.org/gbq5c6
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.6b10485
+  title: "Adsorption and Dissociation of a Bicyclic Tertiary Diamine, Triethylenediamine,\
+    \ on a Si(100)-2 \xD7 1 Surface"
+  authors:
+  - Jing Zhao
+  - Mark R. Madachik
+  - "Kane M. O\u2019Donnell"
+  - Gareth Moore
+  - L. Thomsen
+  - Oliver Warschkow
+  - Steven R. Schofield
+  - Andrew Teplyakov
+  publisher: The Journal of Physical Chemistry C
+  date: '2016-12-07'
+  link: https://doi.org/f9jf59
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6cp04328c
+  title: Orientation and stability of a bi-functional aromatic organic molecular adsorbate
+    on silicon
+  authors:
+  - K. M. O'Donnell
+  - H. Hedgeland
+  - G. Moore
+  - A. Suleman
+  - M. Siegl
+  - L. Thomsen
+  - O. Warschkow
+  - S. R. Schofield
+  publisher: Physical Chemistry Chemical Physics
+  date: '2016-01-01'
+  link: https://doi.org/g93mmb
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4939124
+  title: Reaction paths of phosphine dissociation on silicon (001)
+  authors:
+  - O. Warschkow
+  - N. J. Curson
+  - S. R. Schofield
+  - N. A. Marks
+  - H. F. Wilson
+  - M. W. Radny
+  - P. V. Smith
+  - T. C. G. Reusch
+  - D. R. McKenzie
+  - M. Y. Simmons
+  publisher: The Journal of Chemical Physics
+  date: '2016-01-07'
+  link: https://doi.org/g93mmc
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.93.195304
+  title: STM and DFT study on formation and characterization of Ba-incorporated phases
+    on a Ge(001) surface
+  authors:
+  - W. Koczorowski
+  - A. Puchalska
+  - T. Grzela
+  - L. Jurczyszyn
+  - S. R. Schofield
+  - R. Czajka
+  - N. J. Curson
+  - M. W. Radny
+  publisher: Physical Review B
+  date: '2016-05-09'
+  link: https://doi.org/g93mmd
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0957-4484/26/15/155701
+  title: Ba termination of Ge(001) studied with STM
+  authors:
+  - W Koczorowski
+  - T Grzela
+  - M W Radny
+  - S R Schofield
+  - G Capellini
+  - R Czajka
+  - T Schroeder
+  - N J Curson
+  publisher: Nanotechnology
+  date: '2015-03-23'
+  link: https://doi.org/g93mmf
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.91.235319
+  title: 'Initial growth of Ba on<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>Ge</mml:mi><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:math>:
+    An STM and DFT study'
+  authors:
+  - W. Koczorowski
+  - A. Puchalska
+  - T. Grzela
+  - M. W. Radny
+  - L. Jurczyszyn
+  - S. R. Schofield
+  - R. Czajka
+  - N. J. Curson
+  publisher: Physical Review B
+  date: '2015-06-29'
+  link: https://doi.org/g93mmg
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0953-8984/27/5/054002
+  title: "Manipulating the orientation of an organic adsorbate on silicon: a NEXAFS\
+    \ study of acetophenone on Si(0\u20090\u20091)"
+  authors:
+  - Kane M O'Donnell
+  - Oliver Warschkow
+  - Asif Suleman
+  - Adam Fahy
+  - Lars Thomsen
+  - Steven R Schofield
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2014-11-21'
+  link: https://doi.org/g93mmh
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0953-8984/27/5/050301
+  title: Organic molecules on inorganic surfaces
+  authors:
+  - Steven R Schofield
+  - "Veronika Br\xE1zdov\xE1"
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2014-11-21'
+  link: https://doi.org/g93mmj
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0953-8984/27/15/150301
+  title: Single dopants in semiconductors
+  authors:
+  - Steven R Schofield
+  - Sven Rogge
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2015-03-18'
+  link: https://doi.org/g93mmk
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcc.5b01493
+  title: Water-Induced, Spin-Dependent Defects on the Silicon (001) Surface
+  authors:
+  - Phillip V. Smith
+  - Daniel R. Belcher
+  - Marian W. Radny
+  - Leszek Jurczyszyn
+  - Steven R. Schofield
+  - Oliver Warschkow
+  publisher: The Journal of Physical Chemistry C
+  date: '2015-05-13'
+  link: https://doi.org/f7fpjh
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4884654
+  title: Imaging of buried phosphorus nanostructures in silicon using scanning tunneling
+    microscopy
+  authors:
+  - Lars Oberbeck
+  - Thilo C. G. Reusch
+  - Toby Hallam
+  - Steven R. Schofield
+  - Neil J. Curson
+  - Michelle Y. Simmons
+  publisher: Applied Physics Letters
+  date: '2014-06-23'
+  link: https://doi.org/g93mmn
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4865955
+  title: Interface and nanostructure evolution of cobalt germanides on Ge(001)
+  authors:
+  - T. Grzela
+  - W. Koczorowski
+  - G. Capellini
+  - R. Czajka
+  - M. W. Radny
+  - N. Curson
+  - S. R. Schofield
+  - M. A. Schubert
+  - T. Schroeder
+  publisher: Journal of Applied Physics
+  date: '2014-02-21'
+  link: https://doi.org/g93mmp
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0953-8984/26/1/012001
+  title: Investigating individual arsenic dopant atoms in silicon using low-temperature
+    scanning tunnelling microscopy
+  authors:
+  - Kitiphat Sinthiptharakoon
+  - Steven R Schofield
+  - Philipp Studer
+  - "Veronika Br\xE1zdov\xE1"
+  - Cyrus F Hirjibehedin
+  - David R Bowler
+  - Neil J Curson
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2013-12-04'
+  link: https://doi.org/g93mmq
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.88.205203
+  title: Magnetic anisotropy of single Mn acceptors in GaAs in an external magnetic
+    field
+  authors:
+  - M. Bozkurt
+  - M. R. Mahani
+  - P. Studer
+  - J.-M. Tang
+  - S. R. Schofield
+  - N. J. Curson
+  - "M. E. Flatt\xE9"
+  - A. Yu. Silov
+  - C. F. Hirjibehedin
+  - C. M. Canali
+  - P. M. Koenraad
+  publisher: Physical Review B
+  date: '2013-11-12'
+  link: https://doi.org/f23xj9
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jp311261r
+  title: Phenyl Attachment to Si(001) via STM Manipulation of Acetophenone
+  authors:
+  - Steven R. Schofield
+  - Oliver Warschkow
+  - Daniel R. Belcher
+  - K. Adam Rahnejat
+  - Marian W. Radny
+  - Philip V. Smith
+  publisher: The Journal of Physical Chemistry C
+  date: '2013-03-07'
+  link: https://doi.org/f4sn8x
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms2679
+  title: Quantum engineering at the silicon surface using dangling bonds
+  authors:
+  - S. R. Schofield
+  - P. Studer
+  - C. F. Hirjibehedin
+  - N. J. Curson
+  - G. Aeppli
+  - D. R. Bowler
+  publisher: Nature Communications
+  date: '2013-04-03'
+  link: https://doi.org/pt5
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4772508
+  title: Studying atomic scale structural and electronic properties of ion implanted
+    silicon samples using cross-sectional scanning tunneling microscopy
+  authors:
+  - Philipp Studer
+  - Steven R. Schofield
+  - Cyrus F. Hirjibehedin
+  - Neil J. Curson
+  publisher: Applied Physics Letters
+  date: '2013-01-07'
+  link: https://doi.org/g93mmr
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ja3026399
+  title: Guided Self-Assembly of Metal Atoms on Silicon Using Organic-Molecule Templating
+  authors:
+  - Daniel R. Belcher
+  - Marian W. Radny
+  - Steven R. Schofield
+  - Phillip V. Smith
+  - Oliver Warschkow
+  publisher: Journal of the American Chemical Society
+  date: '2012-09-05'
+  link: https://doi.org/g93mms
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/nn3039484
+  title: Site-Dependent Ambipolar Charge States Induced by Group V Atoms in a Silicon
+    Surface
+  authors:
+  - Philipp Studer
+  - "Veronika Br\xE1zdov\xE1"
+  - Steven R. Schofield
+  - David R. Bowler
+  - Cyrus F. Hirjibehedin
+  - Neil J. Curson
+  publisher: ACS Nano
+  date: '2012-11-27'
+  link: https://doi.org/f94hn7
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jp208247m
+  title: Slab Thickness Effects for the Clean and Adsorbed Ge(001) Surface with Comparison
+    to Si(001)
+  authors:
+  - G. Ali Shah
+  - Marian W. Radny
+  - Phillip V. Smith
+  - Steven R. Schofield
+  publisher: The Journal of Physical Chemistry C
+  date: '2012-03-08'
+  link: https://doi.org/fxknwh
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.84.153302
+  title: 'Acetic acid on silicon (001): An exercise in chemical analogy'
+  authors:
+  - O. Warschkow
+  - D. R. Belcher
+  - M. W. Radny
+  - S. R. Schofield
+  - P. V. Smith
+  publisher: Physical Review B
+  date: '2011-10-04'
+  link: https://doi.org/d37q6k
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms1574
+  title: Charge density waves in the graphene sheets of the superconductor CaC6
+  authors:
+  - K.C. Rahnejat
+  - C.A. Howard
+  - N.E. Shuttleworth
+  - S.R. Schofield
+  - K. Iwaya
+  - C.F. Hirjibehedin
+  - Ch. Renner
+  - G. Aeppli
+  - M. Ellerby
+  publisher: Nature Communications
+  date: '2011-11-29'
+  link: https://doi.org/cfdms7
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3551618
+  title: "Dimer pinning and the assignment of semiconductor\u2013adsorbate surface\
+    \ structures"
+  authors:
+  - Phillip V. Smith
+  - Oliver Warschkow
+  - Marian W. Radny
+  - Steven R. Schofield
+  - Daniel R. Belcher
+  publisher: The Journal of Chemical Physics
+  date: '2011-02-10'
+  link: https://doi.org/d48cqn
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.84.041306
+  title: Model system for controlling strain in silicon at the atomic scale
+  authors:
+  - Philipp Studer
+  - Steven R. Schofield
+  - Greg Lever
+  - David R. Bowler
+  - Cyrus F. Hirjibehedin
+  - Neil J. Curson
+  publisher: Physical Review B
+  date: '2011-07-22'
+  link: https://doi.org/dp2tbq
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.susc.2009.10.028
+  title: "Comment on \u201CTransformation of C-type defects on surface at room temperature\
+    \ STM/STS study [Surf. Sci. 602 (2008) 2835]\u201D"
+  authors:
+  - Oliver Warschkow
+  - Nigel A. Marks
+  - Steven R. Schofield
+  - Marian W. Radny
+  - Phillip V. Smith
+  - David R. McKenzie
+  publisher: Surface Science
+  date: '2010-01-01'
+  link: https://doi.org/bfqq6b
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3456736
+  title: Electronic effects of single H atoms on Ge(001) revisited
+  authors:
+  - G. A. Shah
+  - M. W. Radny
+  - P. V. Smith
+  - S. R. Schofield
+  - N. J. Curson
+  publisher: The Journal of Chemical Physics
+  date: '2010-07-07'
+  link: https://doi.org/btnjr6
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/b815542a
+  title: 'Acetone on silicon (001): ambiphilic molecule meets ambiphilic surface'
+  authors:
+  - Oliver Warschkow
+  - Irene Gao
+  - Steven R. Schofield
+  - Daniel R. Belcher
+  - Marian W. Radny
+  - Sherin A. Saraireh
+  - Phillip V. Smith
+  publisher: Physical Chemistry Chemical Physics
+  date: '2009-01-01'
+  link: https://doi.org/d88bwd
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3224174
+  title: 'Carbonyl mediated attachment to silicon: Acetaldehyde on Si(001)'
+  authors:
+  - Daniel R. Belcher
+  - Steven R. Schofield
+  - Oliver Warschkow
+  - Marian W. Radny
+  - Phillip V. Smith
+  publisher: The Journal of Chemical Physics
+  date: '2009-09-14'
+  link: https://doi.org/fdqqjk
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.103.189702
+  title: "Radny<i>et\_al.</i>Reply:"
+  authors:
+  - M. W. Radny
+  - G. A. Shah
+  - S. R. Schofield
+  - P. V. Smith
+  - N. J. Curson
+  publisher: Physical Review Letters
+  date: '2009-10-30'
+  link: https://doi.org/bk6hrx
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.2938091
+  title: Electronic effects induced by single hydrogen atoms on the Ge(001) surface
+  authors:
+  - M. W. Radny
+  - G. A. Shah
+  - P. V. Smith
+  - S. R. Schofield
+  - N. J. Curson
+  publisher: The Journal of Chemical Physics
+  date: '2008-06-24'
+  link: https://doi.org/bxgrmq
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.susc.2008.08.027
+  title: Interaction of acetone with the Si(001) surface
+  authors:
+  - S.A. Saraireh
+  - P.V. Smith
+  - M.W. Radny
+  - S.R. Schofield
+  - B.V. King
+  publisher: Surface Science
+  date: '2008-11-01'
+  link: https://doi.org/d76cgc
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.100.246807
+  title: Valence Surface Electronic States on Ge(001)
+  authors:
+  - M. W. Radny
+  - G. A. Shah
+  - S. R. Schofield
+  - P. V. Smith
+  - N. J. Curson
+  publisher: Physical Review Letters
+  date: '2008-06-20'
+  link: https://doi.org/dc6545
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.77.201305
+  title: Water on silicon (001):<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    display="inline"><mml:mi>C</mml:mi></mml:math>defects and initial steps of surface
+    oxidation
+  authors:
+  - O. Warschkow
+  - S. R. Schofield
+  - N. A. Marks
+  - M. W. Radny
+  - P. V. Smith
+  - D. R. McKenzie
+  publisher: Physical Review B
+  date: '2008-05-22'
+  link: https://doi.org/cx259p
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000261434900202
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000261434900202
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ja0719069
+  title: "Organic Bonding to Silicon via a Carbonyl Group:\u2009 New Insights from\
+    \ Atomic-Scale Images"
+  authors:
+  - Steven R. Schofield
+  - Sherin A. Saraireh
+  - Phillip V. Smith
+  - Marian W. Radny
+  - Bruce V. King
+  publisher: Journal of the American Chemical Society
+  date: '2007-08-24'
+  link: https://doi.org/cpzv2m
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.2786991
+  title: Single P and As dopants in the Si(001) surface
+  authors:
+  - M. W. Radny
+  - P. V. Smith
+  - T. C. G. Reusch
+  - O. Warschkow
+  - N. A. Marks
+  - H. Q. Shi
+  - D. R. McKenzie
+  - S. R. Schofield
+  - N. J. Curson
+  - M. Y. Simmons
+  publisher: The Journal of Chemical Physics
+  date: '2007-11-13'
+  link: https://doi.org/c62qr9
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.76.155302
+  title: Single hydrogen atoms on the Si(001) surface
+  authors:
+  - M. W. Radny
+  - P. V. Smith
+  - T. C. G. Reusch
+  - O. Warschkow
+  - N. A. Marks
+  - H. F. Wilson
+  - S. R. Schofield
+  - N. J. Curson
+  - D. R. McKenzie
+  - M. Y. Simmons
+  publisher: Physical Review B
+  date: '2007-10-02'
+  link: https://doi.org/bc44w8
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.susc.2007.06.054
+  title: 'Towards hybrid silicon-organic molecular electronics: The stability of acetone
+    on the Si(001) surface'
+  authors:
+  - S.A. Saraireh
+  - S.R. Schofield
+  - P.V. Smith
+  - M.W. Radny
+  - B.V. King
+  publisher: Surface Science
+  date: '2007-12-01'
+  link: https://doi.org/c55htd
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000249051500094
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000249051500094
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.74.113311
+  title: 'Importance of charging in atomic resolution scanning tunneling microscopy:
+    Study of a single phosphorus atom in a<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    display="inline"><mml:mrow><mml:mi>Si</mml:mi><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:math>surface'
+  authors:
+  - M. W. Radny
+  - P. V. Smith
+  - T. C. G. Reusch
+  - O. Warschkow
+  - N. A. Marks
+  - H. F. Wilson
+  - N. J. Curson
+  - S. R. Schofield
+  - D. R. McKenzie
+  - M. Y. Simmons
+  publisher: Physical Review B
+  date: '2006-09-27'
+  link: https://doi.org/dvhw38
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jp054646v
+  title: Phosphine Dissociation and Diffusion on Si(001) Observed at the Atomic Scale
+  authors:
+  - Steven R. Schofield
+  - Neil J. Curson
+  - Oliver Warschkow
+  - Nigel A. Marks
+  - Hugh F. Wilson
+  - Michelle Y. Simmons
+  - Phillip V. Smith
+  - Marian W. Radny
+  - David R. McKenzie
+  - Robert G. Clark
+  publisher: The Journal of Physical Chemistry B
+  date: '2006-02-01'
+  link: https://doi.org/bb8zbs
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.susc.2005.10.031
+  title: 'Phosphorus and hydrogen atoms on the (001) surface of silicon: A comparative
+    scanning tunnelling microscopy study of surface species with a single dangling
+    bond'
+  authors:
+  - T.C.G. Reusch
+  - N.J. Curson
+  - S.R. Schofield
+  - T. Hallam
+  - M.Y. Simmons
+  publisher: Surface Science
+  date: '2006-01-01'
+  link: https://doi.org/bwz6cf
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.74.195310
+  title: 'Thermal dissociation and desorption of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
+    display="inline"><mml:mrow><mml:mi mathvariant="normal">P</mml:mi><mml:msub><mml:mi
+    mathvariant="normal">H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>on
+    Si(001): A reinterpretation of spectroscopic data'
+  authors:
+  - H. F. Wilson
+  - O. Warschkow
+  - N. A. Marks
+  - N. J. Curson
+  - S. R. Schofield
+  - T. C. G. Reusch
+  - M. W. Radny
+  - P. V. Smith
+  - D. R. McKenzie
+  - M. Y. Simmons
+  publisher: Physical Review B
+  date: '2006-11-08'
+  link: https://doi.org/dw8cv8
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.72.195323
+  title: "Observation of substitutional and interstitial phosphorus on clean<mml:math\
+    \ xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi\
+    \ mathvariant=\"normal\">Si</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>100</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mtext>\u2212\
+    </mml:mtext><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>\xD7</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math>with\
+    \ scanning tunneling microscopy"
+  authors:
+  - Geoffrey W. Brown
+  - Blas P. Uberuaga
+  - Holger Grube
+  - Marilyn E. Hawley
+  - Steven R. Schofield
+  - Neil J. Curson
+  - Michelle Y. Simmons
+  - Robert G. Clark
+  publisher: Physical Review B
+  date: '2005-11-14'
+  link: https://doi.org/fh9qdp
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.72.125328
+  title: 'Phosphine adsorption and dissociation on the Si(001) surface: An<i>ab initio</i>survey
+    of structures'
+  authors:
+  - O. Warschkow
+  - H. F. Wilson
+  - N. A. Marks
+  - S. R. Schofield
+  - N. J. Curson
+  - P. V. Smith
+  - M. W. Radny
+  - D. R. McKenzie
+  - M. Y. Simmons
+  publisher: Physical Review B
+  date: '2005-09-19'
+  link: https://doi.org/bd83jh
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/08927020500035580
+  title: Scanning probe microscopy for silicon device fabrication
+  authors:
+  - M.Y. Simmons
+  - F.J. Ruess
+  - K.E.J. Goh
+  - T. Hallam
+  - S.R. Schofield
+  - L. Oberbeck
+  - N.J. Curson
+  - A.R. Hamilton
+  - M.J. Butcher
+  - R.G. Clark
+  - T.C.G. Reusch
+  publisher: Molecular Simulation
+  date: '2005-05-01'
+  link: https://doi.org/dhxxh4
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000231500500024
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000231500500024
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.93.226102
+  title: Phosphine Dissociation on the Si(001) Surface
+  authors:
+  - H. F. Wilson
+  - O. Warschkow
+  - N. A. Marks
+  - S. R. Schofield
+  - N. J. Curson
+  - P. V. Smith
+  - M. W. Radny
+  - D. R. McKenzie
+  - M. Y. Simmons
+  publisher: Physical Review Letters
+  date: '2004-11-23'
+  link: https://doi.org/bqxkjf
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.69.195303
+  title: STM characterization of the Si-P heterodimer
+  authors:
+  - N. J. Curson
+  - S. R. Schofield
+  - M. Y. Simmons
+  - L. Oberbeck
+  - "J. L. O\u2019Brien"
+  - R. G. Clark
+  publisher: Physical Review B
+  date: '2004-05-13'
+  link: https://doi.org/b94v69
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.69.085312
+  title: "Split-off dimer defects on the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"\
+    \ display=\"inline\"><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mn/><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo><mml:mn>2</mml:mn><mml:mo>\xD7\
+    </mml:mo><mml:mn>1</mml:mn></mml:math>surface"
+  authors:
+  - S. R. Schofield
+  - N. J. Curson
+  - "J. L. O\u2019Brien"
+  - M. Y. Simmons
+  - R. G. Clark
+  - N. A. Marks
+  - H. F. Wilson
+  - G. W. Brown
+  - M. E. Hawley
+  publisher: Physical Review B
+  date: '2004-02-19'
+  link: https://doi.org/bsg9tk
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/nl048808v
+  title: Toward Atomic-Scale Device Fabrication in Silicon Using Scanning Probe Microscopy
+  authors:
+  - Frank J. Ruess
+  - Lars Oberbeck
+  - Michelle Y. Simmons
+  - Kuan Eng J. Goh
+  - Alex R. Hamilton
+  - Toby Hallam
+  - Steven R. Schofield
+  - Neil J. Curson
+  - Robert G. Clark
+  publisher: Nano Letters
+  date: '2004-09-28'
+  link: https://doi.org/bprw8n
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000223045900018
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000223045900018
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.91.136104
+  title: Atomically Precise Placement of Single Dopants in Si
+  authors:
+  - S. R. Schofield
+  - N. J. Curson
+  - M. Y. Simmons
+  - "F. J. Rue\xDF"
+  - T. Hallam
+  - L. Oberbeck
+  - R. G. Clark
+  publisher: Physical Review Letters
+  date: '2003-09-25'
+  link: https://doi.org/fp3vdw
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0218625X03005098
+  title: "Challenges in Surface Science for a P-in-Si Quantum Computer \u2014 Phosphine\
+    \ Adsorption/Incorporation and Epitaxial  Si Encapsulation"
+  authors:
+  - Lars Oberbeck
+  - Neil J. Curson
+  - Steven R. Schofield
+  - Toby Hallam
+  - Michelle Y. Simmons
+  - Robert G. Clark
+  publisher: Surface Review and Letters
+  date: '2003-04-01'
+  link: https://doi.org/b5m24z
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0039-6028(03)00206-1
+  title: Critical issues in the formation of atomic arrays of phosphorus in silicon
+    for the fabrication of a solid-state quantum computer
+  authors:
+  - N.J. Curson
+  - S.R. Schofield
+  - M.Y. Simmons
+  - L. Oberbeck
+  - R.G. Clark
+  publisher: Surface Science
+  date: '2003-06-01'
+  link: https://doi.org/c7542g
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsta.2003.1221
+  title: Progress in silicon-based quantum computing
+  authors:
+  - R. G. Clark
+  - R. Brenner
+  - T. M. Buehler
+  - V. Chan
+  - N. J. Curson
+  - A. S. Dzurak
+  - E. Gauja
+  - H. S. Goan
+  - A. D. Greentree
+  - T. Hallam
+  - A. R. Hamilton
+  - L. C. L. Hollenberg
+  - D. N. Jamieson
+  - J. C. McCallum
+  - G. J. Milburn
+  - J. L. O'Brien
+  - L. Oberbeck
+  - C. I. Pakes
+  - S. D. Prawer
+  - D. J. Reilly
+  - F. J. Ruess
+  - S. R. Schofield
+  - M. Y. Simmons
+  - F. E. Stanley
+  - R. P. Starrett
+  - C. Wellard
+  - C. Yang
+  publisher: 'Philosophical Transactions of the Royal Society of London. Series A:
+    Mathematical, Physical and Engineering Sciences'
+  date: '2003-07-15'
+  link: https://doi.org/d4jxx4
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1116/1.1566973
+  title: "Scanning tunneling microscopy imaging of charged defects on clean Si(100)-(2\xD7\
+    1)"
+  authors:
+  - G. W. Brown
+  - H. Grube
+  - M. E. Hawley
+  - S. R. Schofield
+  - N. J. Curson
+  - M. Y. Simmons
+  - R. G. Clark
+  publisher: 'Journal of Vacuum Science &amp; Technology A: Vacuum, Surfaces, and
+    Films'
+  date: '2003-07-01'
+  link: https://doi.org/dw7pt6
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0039-6028(03)00485-0
+  title: Towards the atomic-scale fabrication of a silicon-based solid state quantum
+    computer
+  authors:
+  - Michelle Y. Simmons
+  - Steven R. Schofield
+  - "Jeremy L. O\u2019Brien"
+  - Neil J. Curson
+  - Lars Oberbeck
+  - T. Hallam
+  - Robert G. Clark
+  publisher: Surface Science
+  date: '2003-06-01'
+  link: https://doi.org/btm5db
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.1516859
+  title: Encapsulation of phosphorus dopants in silicon for the fabrication of a quantum
+    computer
+  authors:
+  - L. Oberbeck
+  - N. J. Curson
+  - M. Y. Simmons
+  - R. Brenner
+  - A. R. Hamilton
+  - S. R. Schofield
+  - R. G. Clark
+  publisher: Applied Physics Letters
+  date: '2002-10-21'
+  link: https://doi.org/dc7j9p
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.1486047
+  title: "Imaging charged defects on clean Si(100)-(2\xD71) with scanning tunneling\
+    \ microscopy"
+  authors:
+  - G. W. Brown
+  - H. Grube
+  - M. E. Hawley
+  - S. R. Schofield
+  - N. J. Curson
+  - M. Y. Simmons
+  - R. G. Clark
+  publisher: Journal of Applied Physics
+  date: '2002-07-15'
+  link: https://doi.org/bqvdcp
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/COMMAD.2002.1237241
+  title: Minimisation of P surface segregation during epitaxial silicon growth for
+    the fabrication of a silicon-based quantum computer
+  authors:
+  - L. Oberbeck
+  - N.J. Curson
+  - T. Hallam
+  - M.Y. Simmons
+  - K.E.J. Goh
+  - S.R. Schofield
+  - F.J. Ruess
+  - R.G. Clark
+  publisher: 2002 Conference on Optoelectronic and Microelectronic Materials and Devices.
+    COMMAD 2002. Proceedings (Cat. No.02EX601)
+  date: ''
+  link: https://doi.org/brnbww
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0964-1726/11/5/318
+  title: Scanning tunnelling microscope fabrication of arrays of phosphorus atom qubits
+    for a silicon quantum computer
+  authors:
+  - "J L O\_Brien"
+  - S R Schofield
+  - M Y Simmons
+  - R G Clark
+  - A S Dzurak
+  - N J Curson
+  - B E Kane
+  - N S McAlpine
+  - M E Hawley
+  - G W Brown
+  publisher: Smart Materials and Structures
+  date: '2002-09-20'
+  link: https://doi.org/cjn6rd
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000208901800008
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000208901800008
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.454617
+  title: '&lt;title&gt;Nanoscale phosphorous atom arrays created using STM for the
+    fabricaton of a silicon-based quantum computer&lt;/title&gt;'
+  authors:
+  - J. L. O'Brien
+  - S. R. Schofield
+  - M. Y. Simmons
+  - Robert G. Clark
+  - Andrew S. Dzurak
+  - N. J. Curson
+  - Bruce E. Kane
+  - N. S. McAlpine
+  - Marilyn E. Hawley
+  - Geoffrey W. Brown
+  publisher: SPIE Proceedings
+  date: '2001-11-19'
+  link: https://doi.org/chknw5
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000183080000043
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000183080000043
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000183080000022
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000183080000022
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000183080000046
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000183080000046
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NANO.2001.966469
+  title: The atomic fabrication of a silicon based quantum computer
+  authors:
+  - M.Y. Simmons
+  - S.R. Schofield
+  - J.L. O'Brien
+  - N.J. Curson
+  - R.G. Clark
+  - T.M. Buehler
+  - R.P. McKinnon
+  - R. Brenner
+  - D.J. Reilly
+  - A.S. Dzurak
+  - A.R. Hamilton
+  publisher: Proceedings of the 2001 1st IEEE Conference on Nanotechnology. IEEE-NANO
+    2001 (Cat. No.01EX516)
+  date: ''
+  link: https://doi.org/d8cnj6
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.64.161401
+  title: Towards the fabrication of phosphorus qubits for a silicon quantum computer
+  authors:
+  - "J. L. O\u2019Brien"
+  - S. R. Schofield
+  - M. Y. Simmons
+  - R. G. Clark
+  - A. S. Dzurak
+  - N. J. Curson
+  - B. E. Kane
+  - N. S. McAlpine
+  - M. E. Hawley
+  - G. W. Brown
+  publisher: Physical Review B
+  date: '2001-09-21'
+  link: https://doi.org/cf3qbh
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevB.62.10199
+  title: "Energetics of single- and double-layer steps on the<mml:math xmlns:mml=\"\
+    http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"\
+    normal\">Si</mml:mi><mml:mn/><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo><mml:mn>2</mml:mn><mml:mo>\xD7\
+    </mml:mo><mml:mn>1</mml:mn></mml:math>surface calculated using the extended Brenner\
+    \ empirical potential"
+  authors:
+  - S. R. Schofield
+  - M. W. Radny
+  - P. V. Smith
+  publisher: Physical Review B
+  date: '2000-10-15'
+  link: https://doi.org/bkj2bc
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi.org/10.1038/ncomms2679
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -201,9 +1547,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -220,21 +1563,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

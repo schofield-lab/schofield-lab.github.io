@@ -1,19 +1,26 @@
 # site properties and page defaults
-title: Schofield Research Group - Atomic Frontiers in Quantum Nanoscience
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Steven R. Schofield Research Group
+subtitle: University College London
+description: The Schofield Group at UCL explores quantum properties of matter using scanning tunnelling microscopy and related techniques.
+show-title: true
+show-subtitle: true
 header: images/background.jpg
 footer: images/background.jpg
+header-dark: true
+footer-dark: true
+
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@schofield-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: schofield-lab
-  twitter: schofield-lab
-  youtube: schofield-lab
+  email: s.schofield@ucl.ac.uk
+  orcid: 0000-0002-0727-3015
+  google-scholar: -wb-YDkAAAAJ
+  github: srschofield
+  linkedin: steven-schofield
+#  external: https://profiles.ucl.ac.uk/11379-steven-r-schofield
+#  twitter: schofield-lab
+#  youtube: schofield-lab
 
 ### jekyll settings
 

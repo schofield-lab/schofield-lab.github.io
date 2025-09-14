@@ -33,19 +33,23 @@
     {% if member.name %}
       <span class="portrait-name">
         {{ member.name }}
-      </span>
+      </span>      
     {% endif %}
+    
+    {% assign type  = site.data.types[member.role] %}
+    {% assign desc  = member.description | default: type.description %}
 
-    {% if member.description or type %}
-      <span class="portrait-description">
-        {{ member.description | default: type.description }}
-      </span>
-    {% endif %}
-
-    {% if member.affiliation %}
+    {% if member.department or member.affiliation or desc %}
       <span class="portrait-affiliation">
-        {{ member.affiliation }}
+        {%- assign parts = "" | split:"|" -%}
+        {%- if desc %}{% assign parts = parts | push: desc %}{% endif -%}
+        {%- if member.department %}{% assign parts = parts | push: member.department %}{% endif -%}
+        {%- if member.affiliation %}{% assign parts = parts | push: member.affiliation %}{% endif -%}
+        {{ parts | join: " · " }}
       </span>
     {% endif %}
+
+
+
   </a>
 </div>

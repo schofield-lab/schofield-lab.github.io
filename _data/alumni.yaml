@@ -1,0 +1,239 @@
+postdoctoral:
+  - name: Holly Hedgeland	
+    years: "2014 – 2015"
+    destination: Leverhulme Trust Early Career Fellowship (UCL) and Senior Tutor at Clare Hall, University of Cambridge
+
+phd:
+
+  - name: Rebecca Conybeare
+    years: "2019 – 2025"
+    supervision: "Primary supervisor"
+    thesis: "Germanium-based donor systems"
+
+  - name: Kieran Spruce
+    years: "2020 – 2025"
+    supervision: "Secondary supervisor"
+    thesis: "Donor devices in silicon"
+
+  - name: Jamie Bragg
+    years: "2019 – 2025"
+    supervision: "Secondary supervisor"
+    thesis: "Reduced dimensional dopant systems in silicon"
+
+
+  - name: Eric Lundgren
+    years: "2017 – 2022"
+    supervision: "Primary supervisor"
+    thesis: "Toward atomic-scale doping of bismuth in silicon: the study of bismuth precursor molecules on silicon (100)"
+
+  - name: Procopios Constantinou
+    years: "2016 – 2020"
+    supervision: "Primary supervisor"
+    thesis: "Fabrication and characterization of metallic, two-dimensional dopant δ-layers in silicon"
+    destination: "Postdoctoral research associate, Paul Scherrer Institute, Switzerland."
+
+  - name: Emily Hofmann
+    years: "2016 – 2022"
+    supervision: "Secondary supervisor"
+    thesis: "Chemistry and structural properties of adsorbates on germanium for optoelectronics and quantum computing"
+    destination: "Patent attorney, Venner Shipley, London, UK."
+
+  - name: Alexander Koelker
+    years: "2014 – 2018"
+    supervision: "Secondary supervisor"
+    thesis: "Fabrication and characterization of nanoscale dopant devices in silicon"
+    destination: "Development engineer, Fritz-Haber-Institut der Max-Planck-Gesellschaft, Germany."
+
+  - name: Elijah Lator
+    years: "2014 – 2018"
+    supervision: "Secondary supervisor"
+    thesis: "Superconductivity in layered transition metal (di)chalcogenides: iron selenide and niobium diselenide"
+    destination: "ONRG post-doctoral fellow at IESL-FORTH, Greece."
+
+  - name: Manuel Siegl
+    years: "2013 – 2017"
+    supervision: "Primary supervisor"
+    thesis: "Atomic-scale investigation of point defect interactions in semiconductors"
+    destination: "Consultant/manager at d-fine, a European consulting firm specialising in scientific innovation and future-proof solutions for technological sustainability."
+
+  - name: Asif Suleman
+    years: "2012 – 2016"
+    supervision: "Primary supervisor"
+    thesis: "Atomic-scale studies of confined & correlated electron states on semiconductor surfaces"
+    destination: "Physics high school teacher at Ark Elvin Academy, Wembley, UK."
+
+  - name: Kitiphat Sinthiptharakoon
+    years: "2010 – 2014"
+    supervision: "Secondary supervisor"
+    thesis: "Investigation of individual donors in silicon at cryogenic temperature with atomic-scale resolution for atomic electronic devices"
+    destination: "Research Scientist at National Science and Technology Development Agency (NSTDA) and National Nanotechnology Center (NANOTEC), Thailand."
+
+  - name: Adam Rahnejat
+    years: "2010 – 2014"
+    supervision: "Primary supervisor"
+    thesis: "Capturing complex reaction pathways step by step: organic molecules on the Si(001) surface"
+    destination: "Associate Consultant at Capco, a global technology and management consultancy specializing in driving digital transformation."
+
+
+
+visitors:
+  - name: Piotr Ciochoń
+    years: "2019 (Feb. – May)"
+    affiliation: "Jagiellonian University, Krakow, Poland"
+
+  - name: Kim Akius
+    years: "2018 (Aug. – Dec.)"
+    affiliation: "Leiden University, Leiden, The Netherlands"
+
+  - name: Mark Wentink
+    years: "2017 – 2019"
+    affiliation: "UCL Department of Electronic and Electrical Engineering"
+
+  - name: Michael Sear
+    years: "2017 – 2018"
+    affiliation: "La Trobe University"
+    note: "Now at: Helmholtz-Zentrum Berlin für Materialien und Energie."
+
+
+masters:
+  - name: Zeyu Cheng
+    years: "2024 – 2025"
+    degree: "MSc (Research Masters)"
+    thesis: "Molecular adsorption for atomic-scale device fabrication."
+
+  - name: Jay Patel
+    years: "2024 – 2025"
+    degree: "MSci (Integrated Masters)"
+    thesis: "Machine learning for scanning tunnelling microscopy image recognition."
+
+  - name: Adam Klička
+    years: "2024 – 2025"
+    degree: "Natural Sciences"
+    thesis: "Solid-state quantum computation (Review Topic)"
+
+  - name: Daniel Waisman
+    years: "2023 – 2024"
+    degree: "MSci"
+    thesis: "Machine Learning for Atom and Molecule Recognition"
+
+  - name: Michael Ben Shem
+    years: "2023 – 2024"
+    degree: "MSci"
+    thesis: "Atomic Placement of arsenic in germanium"
+
+  - name: Luca Dell Antonio
+    years: "2022 – 2023"
+    degree: "MSci"
+    thesis: "Machine Learning for Atom and Molecule Recognition"
+
+  - name: Harry Youel
+    years: "2022 – 2023"
+    degree: "MSci"
+    thesis: "Using Convolutional Neural Networks for Atom and Molecule Recognition from STM Imaged Surfaces"
+
+  - name: Farah Sheikh
+    years: "2021 – 2022"
+    degree: "MSci"
+    thesis: "Molecular Functionalisation of Molybdenum Disulfide"
+
+  - name: Sulayman Desai
+    years: "2020 – 2021"
+    degree: "MSci"
+    thesis: "Using Machine Learning to Identify Atomic Features on Scanning Tunnelling Microscope Images of the Si(001) Surface"
+
+  - name: Yunqin Zhang
+    years: "2020 – 2021"
+    degree: "MSci"
+    thesis: "Dissociation of Bismuth Chloride on the Si(001) surface"
+
+  - name: Martyna Sienkiewicz
+    years: "2019 – 2020"
+    degree: "MSci"
+    thesis: "Triphenyl Bismuth on Silicon"
+
+  - name: Irene Micco
+    years: "2019 – 2020"
+    degree: "MSci"
+    thesis: "Analysing Surfaces of MnBi4Te7 with STM"
+
+  - name: Lily Pagano
+    years: "2018 – 2019"
+    degree: "MSci"
+
+  - name: Calvin Tran
+    years: "2018 – 2019"
+    degree: "MSci"
+
+  - name: Ernesto Zoffmann
+    years: "2017 – 2018"
+    degree: "MSci"
+
+  - name: Max Kirsch
+    years: "2017 – 2018"
+    degree: "MSci"
+
+  - name: Jack Trent
+    years: "2016 – 2017"
+    degree: "MSci"
+
+  - name: Lydia Gascoigne
+    years: "2016 – 2017"
+    degree: "MSci"
+
+  - name: Gabriel Warren
+    years: "2016 – 2017"
+    degree: "MSc"
+
+  - name: Akseyen Sellvarajah
+    years: "2015 – 2016"
+    degree: "MSci"
+
+  - name: Miguel Rivera
+    years: "2015 – 2016"
+    degree: "MSci"
+
+  - name: Rogel Aaron Regala
+    years: "2013 – 2014"
+    degree: "MSci"
+
+  - name: Muhammad Kamaludin
+    years: "2013 – 2014"
+    degree: "MSci"
+
+  - name: Maryam Abdur-Rahman
+    years: "2012 – 2013"
+    degree: "MSci"
+
+  - name: Mikaela Bryant-Meisner
+    years: "2012 – 2013"
+    degree: "MSc"
+
+
+summer:
+  - name: Adam Klička
+    years: "2025"
+    program: "CMMP Bursary (4 weeks)"
+  - name: Janos Revesz
+    years: "2022"
+    program: "CMMP Bursary (8 weeks)"
+  - name: Sebastian Gorgon
+    years: "2019"
+    program: "CMMP Bursary (8 weeks)"
+  - name: Jakub Mrozek
+    years: "2016"
+    program: "EPSRC Bursary (10 weeks)"
+  - name: Nellie Marangou
+    years: "2015"
+    program: "EPSRC Bursary (10 weeks)"
+  - name: Eric Lundgren
+    years: "2014"
+    program: "EPSRC Bursary (10 weeks)"
+  - name: Andrew Hallam
+    years: "2013"
+    program: "CMMP Bursary (8 weeks)"
+  - name: Noah Waterfield Price
+    years: "2012"
+    program: "CMMP Bursary (10 weeks)"
+  - name: Charlotte Stokes
+    years: "2012"
+    program: "CMMP Bursary (10 weeks)"

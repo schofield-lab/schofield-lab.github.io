@@ -2,7 +2,7 @@
 ---
 
 $page: 1000px;
-$padding: 40px;
+$padding: 0px;
 
 section {
   padding: $padding max($padding, calc((100% - $page) / 2));
@@ -37,3 +37,5 @@ main > section:nth-of-type(odd) {
 main > section:nth-of-type(even) {
   background: var(--background-alt);
 }
+
+

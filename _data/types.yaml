@@ -3,7 +3,6 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-microscope
   description: Principal Investigator
 
 postdoc:
@@ -11,9 +10,12 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+
+visitor:
+  description: Visiting Researcher
+  
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -46,6 +48,11 @@ external:
 home-page:
   icon: fa-solid fa-house-user
   text: Home Page
+  tooltip: Home page
+
+ucl-profile:
+  icon: fa-solid fa-university
+  text: UCL Profile
   tooltip: Home page
 
 email:
