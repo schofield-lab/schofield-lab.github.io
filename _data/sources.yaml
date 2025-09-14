@@ -3,6 +3,12 @@
   description: This paper presents the first STM imaging and spectroscopy of hydrogenic acceptor wave functions in silicon, with effective-mass and tight-binding theory confirming their square-ring-like symmetry and acceptor character.
   image: /images/publications/images_large_nl5c02675_0004.jpg
 
+- id: doi:10.1002/adma.202312282
+  type: paper
+  description: This work demonstrates deterministic placement of single arsenic dopants in silicon with 97 ± 2% yield, advancing the scalable assembly of atomically precise quantum devices.
+  image: /images/publications/adma202312282-fig-0001-m.jpg
+
+
 - id: doi:10.1038/ncomms2679
   type: paper
   description: This paper reports the unanticipated discovery of a new atomic-scale quantum dot state in silicon, created by atomic manipulation on a hydrogen-terminated surface, providing key insights into atomic-scale quantum dot behaviour.
@@ -31,6 +37,15 @@
   description: This seminal paper presents the first demonstration of atomically precise dopant placement in a semiconductor, laying the foundation for modern atomic-scale quantum electronic devices.
   image: /images/publications/PRL_schofield_2003.png
 
+- id: doi:10.1088/2399-1984/ada901
+  type: paper
+  image: /images/publications/nanofada901f15_lr.jpg
+  description: This roadmap reviews 25 years of progress since Kane’s proposal for donor-based qubits in silicon, charting advances, challenges, and future directions in atomic-scale semiconductor quantum technologies.
+
+- id: doi:10.1038/s41467-024-44790-6
+  type: paper
+  description: This work demonstrates resist-free EUV-induced hydrogen desorption on Si(001):H, bridging atomic-precision STM lithography with scalable semiconductor manufacturing techniques.
+  image: /images/publications/41467_2024_44790_Fig5_HTML.png.webp
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper

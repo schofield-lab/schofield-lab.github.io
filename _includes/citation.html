@@ -8,6 +8,7 @@
   {% assign citation = include %}
 {% endif %}
 
+{% unless citation.id contains "wosuid" %}
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
@@ -108,3 +109,4 @@
     </div>
   </div>
 </div>
+{% endunless %}

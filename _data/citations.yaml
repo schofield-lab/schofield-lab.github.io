@@ -79,8 +79,13 @@
   date: '2025-03-31'
   link: https://doi.org/g93mkv
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/nanofada901f15_lr.jpg
+  description: "This roadmap reviews 25 years of progress since Kane\u2019s proposal\
+    \ for donor-based qubits in silicon, charting advances, challenges, and future\
+    \ directions in atomic-scale semiconductor quantum technologies."
 - id: doi:10.1002/adma.202312282
   title: "Single\u2010Atom Control of Arsenic Incorporation in Silicon for High\u2010\
     Yield Artificial Lattice Fabrication"
@@ -95,8 +100,13 @@
   date: '2024-03-22'
   link: https://doi.org/g8kwxh
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: "This work demonstrates deterministic placement of single arsenic dopants\
+    \ in silicon with 97 \xB1 2% yield, advancing the scalable assembly of atomically\
+    \ precise quantum devices."
+  image: /images/publications/adma202312282-fig-0001-m.jpg
 - id: doi:10.1038/s41467-024-44790-6
   title: EUV-induced hydrogen desorption as a step towards large-scale silicon quantum
     device patterning
@@ -115,8 +125,13 @@
   date: '2024-01-24'
   link: https://doi.org/g93mkw
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: This work demonstrates resist-free EUV-induced hydrogen desorption
+    on Si(001):H, bridging atomic-precision STM lithography with scalable semiconductor
+    manufacturing techniques.
+  image: /images/publications/41467_2024_44790_Fig5_HTML.png.webp
 - id: doi:10.1002/advs.202302101
   title: "Momentum\u2010Space Imaging of Ultra\u2010Thin Electron Liquids in \u03B4\
     \u2010Doped Silicon"

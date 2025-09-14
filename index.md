@@ -5,14 +5,9 @@
 
 We probe semiconductors and 2D materials atom-by-atom, combining experiment and theory to uncover new quantum phenomena.  Through this work, we are defining new frontiers in the field of quantum nanotechnology, driving innovation at the edge of atomic-scale science.
 
-
-
-
-
 {% include section.html %}
 
-## News & announcements
-
+{% capture text %}
 <ul>
 {% for item in site.data.updates %}
   <li>
@@ -23,9 +18,44 @@ We probe semiconductors and 2D materials atom-by-atom, combining experiment and 
   </li>
 {% endfor %}
 </ul>
+{% endcapture %}
 
-{% include section.html %}
+{%
+  include feature_text.html
+  title="News & announcements"
+  text=text
+  flip=false
+%}
 
+---
+
+{% capture text %}
+
+We investigate atomic and nanoscale structure in semiconductors and 2D materials using surface-sensitive probes and simulation. Our aim is to understand—and ultimately control—quantum behaviour in these systems, enabling future electronic and quantum technologies.
+{%
+  include button.html
+  link="publications"
+  text="Read our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/teaser/teaser_publications.jpg"
+  link="publications"
+  title="Publications"
+  text=text
+  flip=true
+%}
+
+---
+
+
+<!-- 
 {% capture text %}
 
 We investigate atomic and nanoscale structure in semiconductors and 2D materials using surface-sensitive probes and simulation. Our aim is to understand—and ultimately control—quantum behaviour in these systems, enabling future electronic and quantum technologies.
@@ -50,38 +80,6 @@ We investigate atomic and nanoscale structure in semiconductors and 2D materials
 %}
 
 
-{% include section.html %}
-
-{% capture text %}
-
-We investigate atomic and nanoscale structure in semiconductors and 2D materials using surface-sensitive probes and simulation. Our aim is to understand—and ultimately control—quantum behaviour in these systems, enabling future electronic and quantum technologies.
-{%
-  include button.html
-  link="publications"
-  text="Read our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/teaser/teaser_publications.jpg"
-  link="publications"
-  title="Publications"
-  text=text
-  flip=true
-%}
-
-
-
-
-
-
-
-{% include section.html %}
 
 {% capture text %}
 
@@ -106,15 +104,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
-%}
+%} -->
 
-
-
-{% include section.html %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a research group at University College London working at the atomic scale. Our team shares an interest in quantum materials and nanoscience, and we aim to provide a collaborative environment where students develop expertise while contributing to cutting-edge research.
 
 {%
   include button.html
@@ -129,7 +124,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/team-ella.jpg"
   link="team"
   title="Our Team"
   text=text
