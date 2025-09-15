@@ -17,7 +17,7 @@ We are a research group at University College London working at the atomic scale
 
 {% include section.html %}
 
-TWe also host long- and short-term visiting PhD students, who contribute to specific projects and collaborations.
+We also host long- and short-term visiting PhD students, who contribute to specific projects and collaborations.
 
 
 {% include section.html %}
