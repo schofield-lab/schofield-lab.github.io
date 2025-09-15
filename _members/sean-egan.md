@@ -1,6 +1,6 @@
 ---
 name: Sean Egan
-image: images/team/phd.png
+image: images/team/seanegan.png
 role: phd
 department: London Centre for Nanotechnology and Department of Physics & Astronomy
 affiliation: UCL

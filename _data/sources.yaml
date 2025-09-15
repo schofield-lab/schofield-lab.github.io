@@ -8,7 +8,6 @@
   description: This work demonstrates deterministic placement of single arsenic dopants in silicon with 97 ± 2% yield, advancing the scalable assembly of atomically precise quantum devices.
   image: /images/publications/adma202312282-fig-0001-m.jpg
 
-
 - id: doi:10.1038/ncomms2679
   type: paper
   description: This paper reports the unanticipated discovery of a new atomic-scale quantum dot state in silicon, created by atomic manipulation on a hydrogen-terminated surface, providing key insights into atomic-scale quantum dot behaviour.
@@ -25,12 +24,10 @@
   description: This study demonstrates, for the first time, a non-destructive method to probe two-dimensional electron liquids in silicon, revealing their properties—including quantum confinement thickness—and showcasing the thinnest technological electron liquid to date (0.45 nm).
   image: /images/publications/advs6137-fig-0003-m.jpg
 
-
 - id: doi:10.1021/acs.nanolett.1c00677
   type: paper
   description: This paper reports the first observation of a charge density wave ground state in a semiconducting transition metal dichalcogenide, providing new insight into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
-
 
 - id: doi:10.1103/PhysRevLett.91.136104
   type: paper
@@ -46,6 +43,83 @@
   type: paper
   description: This work demonstrates resist-free EUV-induced hydrogen desorption on Si(001):H, bridging atomic-precision STM lithography with scalable semiconductor manufacturing techniques.
   image: /images/publications/41467_2024_44790_Fig5_HTML.png.webp
+
+- id: doi:10.1021/acs.jpcc.3c03916
+  type: paper
+  image: /images/publications/images_large_jp3c03916_0006.jpeg
+
+- id:  doi:10.1126/sciadv.adf5997
+  type: paper
+  image: /images/publications/sciadv.adf5997-f1.jpg
+
+- id: doi:10.1063/5.0145772
+  type: paper
+  image: /images/publications/151601_1_5.0145772.figures.online.f2.jpg
+
+- id: doi:10.1021/acs.jpcc.1c07115
+  type: paper
+  image: /images/publications/jp1c07115_0005.webp
+
+- id: doi:10.1088/1361-648X/abe6dd
+  type: paper
+  image: /images/publications/cmabe6ddf2_online.jpg
+
+- id: doi:10.1088/1361-648X/ac5a24
+  type: paper
+  image: /images/publications/jpcm_special_issue_functionalisation.jpg
+
+- id: doi:10.1021/acsnano.9b08943
+  type: paper
+  image: /images/publications/nn9b08943_0005.webp
+
+- id: doi:10.1038/ncomms1574
+  type: paper
+  image: /images/publications/41467_2011_Article_BFncomms1574_Fig3_HTML.jpg.webp
+
+- id: doi:10.1063/1.4884654
+  type: paper
+  image: /images/publications/253102_1_f3.jpeg
+- id: doi:10.1021/nl048808v
+  type: paper
+  image: /images/publications/images_medium_nl048808vn00001.gif
+
+- id: doi:10.1021/ja3026399
+  type: paper
+  image: /images/publications/images_medium_ja-2012-026399_0004.gif
+
+- id: doi:10.1021/ja0719069
+  type: paper
+  image: /images/publications/images_medium_ja0719069n00001.gif
+
+- id: doi:10.1103/PhysRevLett.93.226102
+  type: paper
+  image: /images/publications/PhysRevLett.93.226102.png
+
+- id: doi:10.1103/PhysRevLett.100.246807
+  type: paper
+  image: /images/publications/PhysRevLett.100.246807.png
+
+- id: doi:10.1126/sciadv.1602586  
+  type: paper
+  image: /images/publications/1602586-f1.jpeg
+
+- id: doi:10.1021/acs.jpcc.9b04954
+  type: paper
+  image: /images/publications/images_medium_jp9b04954_0006.gif
+
+- id: doi:10.1103/PhysRevB.97.155306
+  type: paper
+  image: /images/publications/PhysRevB.97.155306.png
+
+- id:  doi:10.1016/j.apsusc.2017.11.058
+  type: paper
+  image: /images/publications/1-s2.0-S0169433217333019-gr1.jpg
+
+- id: doi:10.1103/PhysRevB.95.075408
+  type: paper
+  image: /images/publications/PhysRevB.95.075408.png
+
+
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper

@@ -34,9 +34,39 @@ Office: Room 4.C1, LCN Building
   text="+44-(0)20-7679-9965"
   link="+44-(0)20-7679-9965"
 %}
+
+
+{%
+  include button.html
+  type="linkedin"
+  text="steven-schofield"
+  link="steven-schofield"
+%}
+
+
+<!-- 
+{%
+  include button.html
+  type="orcid"
+  text="0000-0002-0727-3015"
+  link="0000-0002-0727-3015"
+%}
+
+{%
+  include button.html
+  type="google-scholar"
+  text="-wb-YDkAAAAJ"
+  link="-wb-YDkAAAAJ"
+%}
+
+{%
+  include button.html
+  type="github"
+  text="srschofield"
+  link="srschofield"
+%} -->
+
 {% endcapture %}
-
-
 
 {% capture col2 %}
 <figure class="figure">
@@ -64,12 +94,10 @@ Office: Room 4.C1, LCN Building
 {% include section.html dark=true %}
 
 {% capture col1 %}
-**Nearest Underground Stations** 
-
-**Euston Square** 
+**Nearest Underground Stations:** 
+- **Euston Square** 
 (Circle line, Metropolitan line, Hammersmith & City line) 
-
-**Warren Street** (Northern line, Victoria line)  
+- **Warren Street** (Northern line, Victoria line)  
 {% endcapture %}
 
 
@@ -79,5 +107,5 @@ Office: Room 4.C1, LCN Building
 {% capture col3 %}
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
 

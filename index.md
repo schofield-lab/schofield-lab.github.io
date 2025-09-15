@@ -45,7 +45,7 @@ We investigate atomic and nanoscale structure in semiconductors and 2D materials
 
 {%
   include feature.html
-  image="images/teaser/teaser_publications.jpg"
+  image="images/teaser/teaser-publications.jpg"
   link="publications"
   title="Publications"
   text=text
@@ -53,6 +53,31 @@ We investigate atomic and nanoscale structure in semiconductors and 2D materials
 %}
 
 ---
+
+
+
+{% capture text %}
+
+We are a research group at University College London working at the atomic scale. Our team shares an interest in quantum materials and nanoscience, and we aim to provide a collaborative environment where students develop expertise while contributing to cutting-edge research.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/teaser/teaser-team.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
 
 
 <!-- 
@@ -106,26 +131,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %} -->
 
-
-{% capture text %}
-
-We are a research group at University College London working at the atomic scale. Our team shares an interest in quantum materials and nanoscience, and we aim to provide a collaborative environment where students develop expertise while contributing to cutting-edge research.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/team/team-ella.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
