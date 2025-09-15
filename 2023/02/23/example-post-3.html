@@ -66,10 +66,10 @@
 
   <meta name="author" content="john-doe">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2025-09-15T09:49:43+00:00">
+  <meta property="og:updated_time" content="2025-09-15T12:05:42+00:00">
   <meta property="article:published_time" content="2023-02-23T00:00:00+00:00">
-  <meta property="article:modified_time" content="2025-09-15T09:49:43+00:00">
-  <meta name="revised" content="2025-09-15T09:49:43+00:00">
+  <meta property="article:modified_time" content="2025-09-15T12:05:42+00:00">
+  <meta name="revised" content="2025-09-15T12:05:42+00:00">
 
 
 <script type="application/ld+json">
@@ -79,7 +79,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Example post 3" },
       "datePublished": "2023-02-23T00:00:00+00:00",
-      "dateModified": "2025-09-15T09:49:43+00:00",
+      "dateModified": "2025-09-15T12:05:42+00:00",
     
     "name": "Example post 3",
     "description": "University College London. The Schofield Group at UCL explores quantum properties of matter using scanning tunnelling microscopy and related techniques.",
@@ -669,8 +669,88 @@
     </a>
   </div>
 
+  <div class="footer-links">
+    <a href="#" onclick="revokeCookieChoice(); return false;">Manage cookies</a>
+    <span class="footer-sep" aria-hidden="true">  |  </span>
+    <a href="/privacy/">Privacy &amp; cookies</a>
+  </div>
+
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+
+
+
 </footer>
 
+
+    <!-- Minimal cookie banner (opt-in) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js"></script>
+
+<script>
+(function () {
+  // ONE-TIME INIT GUARD
+  if (window.__cookieBannerInit) return;
+  window.__cookieBannerInit = true;
+
+  // Turn deferred iframes into live ones (maps, youtube, etc.)
+  function enableEmbeds() {
+    var iframes = document.querySelectorAll('iframe[data-consent-src]');
+    for (var i = 0; i < iframes.length; i++) {
+      if (!iframes[i].src) iframes[i].src = iframes[i].getAttribute('data-consent-src');
+    }
+  }
+
+  // Helpers you can call from links/buttons
+  window.openCookieSettings = function () {
+    if (window.cookieBanner && typeof window.cookieBanner.open === 'function') {
+      window.cookieBanner.open();
+    } else {
+      window.__cc_pending_open = true; // queue until init completes
+    }
+  };
+  window.revokeCookieChoice = function () {
+    if (window.cookieBanner && typeof window.cookieBanner.revokeChoice === 'function') {
+      window.cookieBanner.revokeChoice(); // re-show banner and reset consent
+    } else {
+      document.cookie = "cookieconsent_status=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+      location.reload();
+    }
+  };
+
+  // Initialise once page loads
+  window.addEventListener('load', function () {
+    window.cookieBanner = window.cookieconsent.initialise({
+      type: 'opt-in',
+      revokable: true,
+      palette: {
+        popup:  { background: '#111', text: '#fff' },
+        button: { background: '#ffd000', text: '#111' }
+      },
+      content: {
+        message: 'We use non-essential cookies for embedded content (e.g. Google Maps, YouTube).',
+        dismiss: 'Decline',
+        allow:   'Accept',
+        link:    'Privacy',
+        href:    '/privacy.html'
+      },
+      onInitialise: function () { if (this.hasConsented()) enableEmbeds(); },
+      onStatusChange: function () { if (this.hasConsented()) enableEmbeds(); }
+    });
+
+    // Honour any early "open settings" clicks
+    if (window.__cc_pending_open) {
+      window.cookieBanner.open();
+      window.__cc_pending_open = false;
+    }
+  });
+})();
+</script>
+
+<style>
+  /* Keep banner/reopen tab above everything */
+  .cc-window, .cc-revoke { z-index: 2147483647 !important; }
+</style>
+
+    
   </body>
 </html>
