@@ -57,7 +57,7 @@ Office: Room 4.C1, LCN Building
     </iframe>
   </div>
   <figcaption class="figure-caption">
-    Map showing location of the London Centre for Nanotechnology
+    Google map for London Centre for Nanotechnology (must have cookies enabled)
     <!-- Optional: a link to reopen the banner -->
     · <a href="#" onclick="revokeCookieChoice(); return false;">Manage cookies</a>
   </figcaption>
