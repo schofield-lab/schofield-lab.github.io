@@ -35,7 +35,7 @@ Our work is centred on the ultrahigh vacuum low-temperature scanning tunnelling 
 {% capture content %}
 
 {% include figure.html image="images/team/team-becky-graduation.jpg" caption="Becky and her PhD examiner, Sam Jarvis" %}
-{% include figure.html image="images/team/team-ltstm.jpg" caption="Emma and Procopi working on the LT-STM" %}
+{% include figure.html image="images/team/team-desy.jpg" caption="Members of the group at Petra III/DESY" %}
 {% include figure.html image="images/team/team-ltstm-santa.jpg" caption="LT-STM getting the Christmas spirit" %}
 
 {% endcapture %}

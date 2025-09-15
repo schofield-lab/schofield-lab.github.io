@@ -43,43 +43,23 @@ Office: Room 4.C1, LCN Building
   link="steven-schofield"
 %}
 
-
-<!-- 
-{%
-  include button.html
-  type="orcid"
-  text="0000-0002-0727-3015"
-  link="0000-0002-0727-3015"
-%}
-
-{%
-  include button.html
-  type="google-scholar"
-  text="-wb-YDkAAAAJ"
-  link="-wb-YDkAAAAJ"
-%}
-
-{%
-  include button.html
-  type="github"
-  text="srschofield"
-  link="srschofield"
-%} -->
-
 {% endcapture %}
+
 
 {% capture col2 %}
 <figure class="figure">
   <div class="figure-image">
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1241.1644036080222!2d-0.1334133294025219!3d51.52552876270976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2f7dbba21f%3A0xec138f9cd57d252!2sLondon%20Centre%20for%20Nanotechnology!5e0!3m2!1sen!2suk!4v1757878773838!5m2!1sen!2suk"
-      style="width:100%; height:350px; border:0;" 
+      data-consent-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1241.1644036080222!2d-0.1334133294025219!3d51.52552876270976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2f7dbba21f%3A0xec138f9cd57d252!2sLondon%20Centre%20for%20Nanotechnology!5e0!3m2!1sen!2suk!4v1757878773838!5m2!1sen!2suk"
+      style="width:100%; height:350px; border:0;"
       loading="lazy" allowfullscreen
       referrerpolicy="no-referrer-when-downgrade">
     </iframe>
   </div>
   <figcaption class="figure-caption">
     Map showing location of the London Centre for Nanotechnology
+    <!-- Optional: a link to reopen the banner -->
+    · <a href="#" onclick="revokeCookieChoice(); return false;">Manage cookies</a>
   </figcaption>
 </figure>
 {% endcapture %}
