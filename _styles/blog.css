@@ -1,0 +1,36 @@
+figure.blog-image {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+figure.blog-image img {
+  width: 500px;
+  height: auto;
+}
+
+figure.blog-image figcaption {
+  font-style: italic;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+.post-info {
+  display: flex;
+  align-items: center; /* vertical centering across the row */
+  flex-wrap: wrap; /* allows tags to wrap under if needed */
+  gap: 1rem; /* space between author, dates, tags */
+}
+
+.post-author {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.post-author img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+/*# sourceMappingURL=blog.css.map */
