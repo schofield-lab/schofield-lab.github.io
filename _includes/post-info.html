@@ -1,45 +1,36 @@
 <div class="post-info">
   {% if include.author %}
-    {% assign authors = include.author
-      | join: ","
-      | downcase
-      | split: ","
-      | array_filter
-    %}
-    {% for author in authors %}
-      {% assign member = site.members
-        | where_exp: "member", "member.slug == author"
-        | first
-      %}
-      {% if member %}
-        {% include portrait.html lookup=author style="tiny" %}
-      {% else %}
-        <span data-tooltip="Author">
-          {% include icon.html icon="fa-solid fa-feather-pointed" %}
-          <span>{{ author }}</span>
-        </span>
-      {% endif %}
-    {% endfor %}
+    {% assign a = site.data.authors[include.author] %}
+    {% if a %}
+      <div class="post-author">
+        {% if a.image %}
+          <img src="{{ a.image | relative_url }}" alt="{{ a.name }}">
+        {% endif %}
+        <span>{{ a.name }}</span>
+      </div>
+    {% else %}
+      <div class="post-author">
+        {{ include.author }}
+      </div>
+    {% endif %}
   {% endif %}
 
-  {% assign published = include.published | date: "%B %d, %Y" %}
-  {% assign updated = include.updated | date: "%B %d, %Y" %}
-
-  {% if published %}
-    <span data-tooltip="Originally published on">
-      {% include icon.html icon="fa-regular fa-calendar" %}
-      <span>{{ published }}</span>
+  <div class="post-meta">
+    <span class="post-date">
+      <i class="fa fa-calendar"></i> {{ include.published | date: "%B %e, %Y" }}
     </span>
-  {% endif %}
+    {% if include.updated %}
+      <span class="post-updated">
+        <i class="fa fa-sync"></i> {{ include.updated | date: "%B %e, %Y" }}
+      </span>
+    {% endif %}
+  </div>
 
-  {% if updated and updated != "" and updated != published %}
-    <span data-tooltip="Last updated on">
-      {% include icon.html icon="fa-solid fa-clock-rotate-left" %}
-      <span>{{ updated }}</span>
-    </span>
+  {% if include.tags %}
+    <div class="post-tags">
+      {% for tag in include.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
   {% endif %}
 </div>
-
-{% if include.tags %}
-  {% include tags.html tags=include.tags link="blog" %}
-{% endif %}

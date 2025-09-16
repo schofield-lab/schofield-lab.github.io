@@ -49,7 +49,17 @@
 
 <title>{{ fulltitle }}</title>
 
-<link rel="icon" href="{{ icon }}">
+<!-- <link rel="icon" href="{{ icon }}"> -->
+
+<!-- Favicons -->
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/icon-16x16.png?v=2' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/icon-32x32.png?v=2' | relative_url }}">
+<link rel="icon" type="image/png" sizes="48x48" href="{{ '/images/icon-48x48.png?v=2' | relative_url }}">
+<link rel="icon" type="image/png" sizes="512x512" href="{{ '/images/icon.png?v=2' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png?v=2' | relative_url }}">
+
+<!-- Apple / Safari icons -->
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png?v=1' | relative_url }}">
 
 <meta name="title" content="{{ title }}">
 <meta name="description" content="{{ description }}">

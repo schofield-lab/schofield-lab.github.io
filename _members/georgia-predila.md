@@ -1,8 +1,7 @@
 ---
 name: Georgia Predila
-image: images/team/georgiapredila.jpg
+image: images/team/georgia-predila.jpg
 role: phd
-department: London Centre for Nanotechnology and Department of Physics & Astronomy
 affiliation: UCL
 links:
   email: georgia.predila.17@ucl.ac.uk
