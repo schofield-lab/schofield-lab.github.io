@@ -19,7 +19,7 @@ We probe semiconductors and 2D materials atom-by-atom, combining experiment and 
 <ul class="updates">
   <li>
     <em>2025-09-17</em> — 
-    <a href="/join"><strong>PhD studentships are now available -- click here for more information</strong></a>
+    <a href="/join"><strong>PhD studentships are now available → click for more information.</strong></a> 
   </li>
   {% for post in updates limit:6 %}
     <li>

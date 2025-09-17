@@ -1,5 +1,5 @@
 ---
-title: "New website launched"
+title: "New group website launched"
 description: "Our first post introducing the group blog."
 tags: [website]
 image: /images/blog/2025-09-12_2.jpg
