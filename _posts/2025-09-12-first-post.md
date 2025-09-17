@@ -6,7 +6,7 @@ image: /images/blog/2025-09-12_2.jpg
 author: steven-schofield
 ---
 
-We’re pleased to launch our new group website — and with it, our group blog!   
+We’re pleased to launch our new group website --- [schofield-lab.github.io](https://schofield-lab.github.io) --- and with it, our group blog!
 
 Until now, our pages were hosted within the main UCL website. Ongoing changes to location, styling, and the content management system made it increasingly difficult to keep that site up to date. At the same time, a number of excellent free hosting options for academic websites have become available.  
 
