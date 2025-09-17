@@ -7,6 +7,41 @@ We probe semiconductors and 2D materials atom-by-atom, combining experiment and 
 
 {% include section.html %}
 
+
+{% comment %} Pull latest posts tagged 'news' and render a short list {% endcomment %}
+{% assign updates = site.posts
+  | where_exp: "p", "p.tags contains 'news'"
+  | sort: "date"
+  | reverse %}
+
+{% capture text %}
+
+<ul class="updates">
+  <li>
+    <em>2025-09-17</em> — 
+    <a href="/join"><strong>PhD studentships are now available -- click here for more information</strong></a>
+  </li>
+  {% for post in updates limit:6 %}
+    <li>
+      <em>{{ post.date | date: "%Y-%m-%d" }}</em> —
+      <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
+      {% if post.excerpt %}
+        — {{ post.excerpt | strip_html | truncate: 120 }} 
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% endcapture %}
+
+{%
+  include feature_text.html
+  title="News & announcements"
+  text=text
+%}
+
+
+
+<!-- 
 {% capture text %}
 <ul>
 {% for item in site.data.updates %}
@@ -25,7 +60,7 @@ We probe semiconductors and 2D materials atom-by-atom, combining experiment and 
   title="News & announcements"
   text=text
   flip=false
-%}
+%} -->
 
 ---
 

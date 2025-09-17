@@ -47,14 +47,21 @@
         | default: ""
         | strip_html
       %}
+  
       {% assign search = post.content
         | strip_html
         | strip_newlines
         | regex_strip
-      %}
+      %} 
+
       <p data-search="{{ search }}">
         {{ excerpt }}
+        {% if post.content != post.excerpt %}
+          &nbsp;<a class="read-more" href="{{ url }}">more&nbsp;→</a>
+        {% endif %}
       </p>
+
+
     </div>
   </div>
 </div>
