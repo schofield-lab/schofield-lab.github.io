@@ -1,9 +1,12 @@
 ---
+title: "UCL Schofield — Steven R. Schofield Research Group"
+description: "UCL Schofield research group at University College London: quantum nanoscience using scanning tunnelling microscopy (STM) and related techniques."
+image: /images/share.jpg
 ---
 
 # Atomic Frontiers in Quantum Nanoscience
 
-We probe semiconductors and 2D materials atom-by-atom, combining experiment and theory to uncover new quantum phenomena.  Through this work, we are defining new frontiers in the field of quantum nanotechnology, driving innovation at the edge of atomic-scale science.
+The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Research Group explores quantum nanoscience with scanning tunnelling microscopy (STM) and complementary techniques. We study semiconductors and 2D materials atom by atom, combining experiment and theory to reveal new quantum behaviour and enable future technologies.
 
 {% include section.html %}
 

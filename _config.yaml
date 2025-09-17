@@ -80,3 +80,41 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+
+# Optimisations for SEO
+
+url: "https://schofield-lab.github.io"
+baseurl: ""
+lang: en-GB
+timezone: Europe/London
+permalink: pretty
+
+logo: /images/site/logo.png
+image: /images/share-2400x1260
+
+author:
+  name: "Steven R. Schofield"
+  avatar: /images/team/steven-schofield.jpg
+  links:
+    - "https://profiles.ucl.ac.uk/11379-steven-r-schofield"
+    - "https://scholar.google.com/citations?user=-wb-YDkAAAAJ"
+    - "https://orcid.org/0000-0002-0727-3015"
+    - "https://github.com/srschofield"
+    - "https://www.linkedin.com/in/steven-schofield/"
+
+social:
+  name: "Steven R. Schofield Research Group"
+  links:
+    - "https://profiles.ucl.ac.uk/11379-steven-r-schofield"
+    - "https://scholar.google.com/citations?user=-wb-YDkAAAAJ"
+    - "https://orcid.org/0000-0002-0727-3015"
+    - "https://github.com/srschofield"
+    - "https://www.linkedin.com/in/steven-schofield/"
+
+webmaster_verifications:
+  # Fill these when you verify the site
+  google: "Q6M6w0NTyh9pF1Gg-OopoeE-7ePicR7uYyAUn95Vbv0"
+  bing: ""
+
+title_separator: " | "
