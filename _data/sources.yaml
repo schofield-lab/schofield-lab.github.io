@@ -119,7 +119,29 @@
   type: paper
   image: /images/publications/PhysRevB.95.075408.png
 
+- id: doi:10.1021/acs.jpcc.6b10485
+  type: paper
+  image: /images/publications/images_medium_jp-2016-104854_0008.gif
 
+- id: doi:10.1103/PhysRevB.93.195304
+  type: paper
+  image: /images/publications/PhysRevB.93.195304.png
+
+- id: doi:10.1063/1.4939124
+  type: paper
+  image: /images/publications/014705_1_f4.jpeg
+
+- id: doi:10.1039/c6cp04328c
+  type: paper
+  image: /images/publications/c6cp04328c.jpeg
+
+- id: doi:10.1021/acs.jpcc.5b01493
+  type: paper
+  image: /images/publications/images_medium_jp-2015-01493w_0011.gif
+
+- id: doi:10.1088/0953-8984/27/5/054002
+  type: paper
+  image: /images/publications/cm501155f06_online.jpg
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper

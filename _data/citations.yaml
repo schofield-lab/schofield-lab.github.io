@@ -473,8 +473,10 @@
   date: '2016-12-07'
   link: https://doi.org/f9jf59
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/images_medium_jp-2016-104854_0008.gif
 - id: doi:10.1039/c6cp04328c
   title: Orientation and stability of a bi-functional aromatic organic molecular adsorbate
     on silicon
@@ -491,8 +493,10 @@
   date: '2016-01-01'
   link: https://doi.org/g93mmb
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/c6cp04328c.jpeg
 - id: doi:10.1063/1.4939124
   title: Reaction paths of phosphine dissociation on silicon (001)
   authors:
@@ -510,8 +514,10 @@
   date: '2016-01-07'
   link: https://doi.org/g93mmc
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/014705_1_f4.jpeg
 - id: doi:10.1103/PhysRevB.93.195304
   title: STM and DFT study on formation and characterization of Ba-incorporated phases
     on a Ge(001) surface
@@ -528,8 +534,10 @@
   date: '2016-05-09'
   link: https://doi.org/g93mmd
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/PhysRevB.93.195304.png
 - id: doi:10.1088/0957-4484/26/15/155701
   title: Ba termination of Ge(001) studied with STM
   authors:
@@ -579,8 +587,10 @@
   date: '2014-11-21'
   link: https://doi.org/g93mmh
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/cm501155f06_online.jpg
 - id: doi:10.1088/0953-8984/27/5/050301
   title: Organic molecules on inorganic surfaces
   authors:
@@ -616,8 +626,10 @@
   date: '2015-05-13'
   link: https://doi.org/f7fpjh
   orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/images_medium_jp-2015-01493w_0011.gif
 - id: doi:10.1063/1.4884654
   title: Imaging of buried phosphorus nanostructures in silicon using scanning tunneling
     microscopy
