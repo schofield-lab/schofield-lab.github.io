@@ -1,1 +1,4 @@
-Sitemap: https://schofield-lab.github.io/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
