@@ -9,26 +9,30 @@ We probe semiconductors and 2D materials atom-by-atom, combining experiment and 
 
 
 {% comment %} Pull latest posts tagged 'news' and render a short list {% endcomment %}
-{% assign updates = site.posts
-  | where_exp: "p", "p.tags contains 'news'"
-  | sort: "date"
-  | reverse %}
+{% assign updates = site.tags['news'] | default: empty %}
+{% assign updates = updates | sort: 'date' | reverse %}
+
 
 {% capture text %}
-
 <ul class="updates">
   <li>
-    <em>2025-09-17</em> — 
-    <a href="/join"><strong>PhD studentships are now available → click for more information.</strong></a> 
+    <em>2025-09-17</em> —
+    <a href="/join"><strong>PhD studentships are now available → click for more information.</strong></a>
   </li>
-  {% for post in updates limit:6 %}
-    <li>
-      <em>{{ post.date | date: "%Y-%m-%d" }}</em> —
-      <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
-      {% if post.excerpt %}
-        — {{ post.excerpt | strip_html | truncate: 120 }} 
-      {% endif %}
-    </li>
+
+  {% assign shown = 0 %}
+  {% for post in updates %}
+    {% if post.tags contains 'news' %}
+      <li>
+        <em>{{ post.date | date: "%Y-%m-%d" }}</em> —
+        <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a>
+        {% if post.excerpt %}
+          — {{ post.excerpt | strip_html | truncate: 120 }}
+        {% endif %}
+      </li>
+      {% assign shown = shown | plus: 1 %}
+      {% if shown == 6 %}{% break %}{% endif %}
+    {% endif %}
   {% endfor %}
 </ul>
 {% endcapture %}
