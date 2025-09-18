@@ -15,9 +15,9 @@ We are always looking for motivated students and researchers to join our group. 
 ## PhD Studentships
 
 {% capture text %}
-We welcome strong applications through the  [China Scholarship Council – UCL Joint Research Scholarship](https://www.ucl.ac.uk/scholarships/china-scholarship-council-ucl-joint-research-scholarship).  [Deadline TBD --- likely early Jan 2026.]
+We welcome applications through the  [China Scholarship Council – UCL Joint Research Scholarship](https://www.ucl.ac.uk/scholarships/china-scholarship-council-ucl-joint-research-scholarship).  [Deadline TBD --- likely early Jan 2026.]
 
-This scheme supports outstanding PhD candidates from China to undertake research at UCL. If you are interested in applying, please get in touch with us well in advance of the CSC deadline so we can discuss potential research projects.  Further information about the China Scholarship Council for Chinese applicants can be found on the [CSC main website](https://sa.csc.edu.cn/student/#/login?redirect=%2Fhome).
+This scheme supports outstanding PhD candidates from China to undertake research at UCL. If you are interested in applying, please get in touch with us well in advance of the CSC deadline so we can discuss potential research projects.  Further information about the China Scholarship Council can be found on the [CSC main website](https://sa.csc.edu.cn/student/#/login?redirect=%2Fhome).
 {% endcapture %}
 
 {%
