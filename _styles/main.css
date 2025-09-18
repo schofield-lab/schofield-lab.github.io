@@ -12,6 +12,32 @@ main {
   display: none !important;
 }
 
+/* Ensure the page background is solid everywhere (no inherited hero image) */
+html,
+body,
+main,
+.page,
+.page-content {
+  background-color: #fff !important;
+  background-image: none !important;
+}
+
+/* Keep the hero image scoped to the header only (no parallax bleed) */
+header,
+.site-header,
+.header {
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-attachment: scroll !important; /* critical */
+}
+
+header::before,
+.site-header::before,
+.header::before {
+  background-attachment: scroll !important;
+}
+
 /* Add breathing room for text on small screens */
 body {
   padding-left: 1rem;
@@ -35,18 +61,6 @@ body {
   }
   body {
     padding-top: 0 !important;
-  }
-}
-/* Add padding to text so it doesn't touch the edges on mobile */
-body {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-@media (min-width: 768px) {
-  body {
-    padding-left: 0;
-    padding-right: 0;
   }
 }
 
