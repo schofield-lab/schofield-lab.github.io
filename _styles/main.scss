@@ -7,3 +7,53 @@ main {
   flex-grow: 1;
 }
 
+
+
+/* Remove floating cookie button entirely */
+.cc-revoke,
+.osano-cm-widget,
+#ot-sdk-btn,
+.ot-floating-button {
+  display: none !important;
+}
+
+/* Add breathing room for text on small screens */
+body {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Disable sticky header on small screens */
+@media (max-width: 768px) {
+  header,
+  .site-header,
+  .navbar,
+  .header {
+    position: static !important;
+    top: auto !important;
+  }
+
+  body {
+    padding-top: 0 !important;
+  }
+}
+
+/* Add padding to text so it doesn't touch the edges on mobile */
+body {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 768px) {
+  body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
