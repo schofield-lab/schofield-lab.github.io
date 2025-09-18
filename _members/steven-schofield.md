@@ -9,7 +9,7 @@ aliases:
   - S R Schofield
   - S Schofield
 links:
-#  email: s.schofield@ucl.ac.uk
+  email: s.schofield@ucl.ac.uk
   ucl-profile: https://profiles.ucl.ac.uk/11379-steven-r-schofield
   orcid: 0000-0002-0727-3015
   linkedin: steven-schofield
