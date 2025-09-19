@@ -29,7 +29,7 @@
 <meta name="google-site-verification" content="Q6M6w0NTyh9pF1Gg-OopoeE-7ePicR7uYyAUn95Vbv0">
 <meta name="msvalidate.01" content="">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Steven R. Schofield"},"dateModified":"2025-09-19T11:23:46+01:00","description":"The Schofield Group at UCL, led by Professor Steven R. Schofield, studies quantum nanoscience using scanning tunnelling microscopy and related techniques.","headline":"Blog","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://schofield-lab.github.io/images/site/logo.png"},"name":"Steven R. Schofield"},"url":"https://schofield-lab.github.io/blog/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Steven R. Schofield"},"dateModified":"2025-09-19T12:52:38+01:00","description":"The Schofield Group at UCL, led by Professor Steven R. Schofield, studies quantum nanoscience using scanning tunnelling microscopy and related techniques.","headline":"Blog","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://schofield-lab.github.io/images/site/logo.png"},"name":"Steven R. Schofield"},"url":"https://schofield-lab.github.io/blog/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -640,7 +640,7 @@
   
        
 
-      <p data-search="We re pleased to launch our new group website schofield-lab.github.io and with it, our group blog Until now, our pages were hosted within the main UCL website. Ongoing changes to location, styling, and the content management system made it increasingly difficult to keep that site up to date. At the same time, a number of excellent free hosting options for academic websites have become available.After looking around, we decided that GitHub Pages would be a good fit, and that the Lab Website Template provided an ideal starting point. The Lab Website TemplateThe template makes it easy to add our own content without worrying too much about style and layout. Features such as automatic import of citations from the ORCID database are a delight and save a lot of time while simultaneously increasing the visibility of our research. The new group website">
+      <p data-search="We re pleased to launch our new group website schofield-lab.github.io and with it, our group blog Until now, our pages were hosted within the main UCL website. Ongoing changes to location, styling, and the content management system made it increasingly difficult to keep that site up to date. At the same time, a number of excellent free hosting options for academic websites have become available.After looking around, we decided that GitHub Pages would be a good fit, and that the Lab Website Template provided an ideal starting point. The Lab Website TemplateThe template makes it easy to add our own content without worrying too much about style and layout. Features such as automatic import of citations from the ORCID database are a delight and save a lot of time while simultaneously increasing the visibility of our research. The new group websiteFor anyone interested in setting up a similar page, the Lab Website Template comes with detailed and extremely helpful instructions and with just some basic knowledge of github functionality these should be enough to get you started. We have some some modifications, including adding jekyll-seo-tag search engine optimisation. Some comments on getting that running are below.Here s the minimal, working recipe to add jekyll-seo-tag to an LWT site and confirm it s installed in your Docker container.1 Add the gem to your Gemfile Gemfilegem jekyll-seo-tag , gt; 2.8 2 Rebuild the Docker image no cache Run this from the repo root:docker build --no-cache -f .docker Dockerfile -t lab-website-renderer .3 Sanity check should print a gem path .docker run.sh bundle show jekyll-seo-tag4 Re launch the site. .docker run.sh5 Enable the plugin in config.ymlAdd to your existing plugins: list:plugins: - jekyll-seo-tag6 Insert the tag in your head includeAdd this inside includes head.html: seo">
         We’re pleased to launch our new group website — schofield-lab.github.io — and with it, our group blog! Until now, our pages were hosted within the main UCL website. Ongoing changes to location, styling, and the content management system made it increasingly difficult to keep that site up to date. At the same time, a number of excellent free hosting options for academic websites have become available.
 
         
@@ -779,7 +779,7 @@
 
     
     
-      <p class="footer-bg-caption" id="footer-bg-caption">Background image: a scanning tunnelling microscope view of silicon, where rows of paired silicon atoms appear as vertical stripes. The bright specks are single acetophenone molecules we placed on the surface, each bonding in one of several possible ways.
+      <p class="footer-bg-caption" id="footer-bg-caption">Background image: a scanning tunnelling microscope view of silicon, where rows of paired silicon atoms appear as vertical stripes. Dark regions are where silicon atoms are missing from the top layer of the silicon crystal. The bright specks are single acetophenone molecules we placed on the surface, each bonding in one of several possible ways.
 </p>
     
 </footer>
