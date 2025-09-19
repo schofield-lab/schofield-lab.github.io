@@ -15,53 +15,33 @@ main {
   display: none !important;
 }
 
-/* Ensure the page background is solid everywhere (no inherited hero image) */
-html,
-body,
-main,
-.page,
-.page-content {
-  background-color: #fff !important;
-  background-image: none !important;
-}
-
-/* Keep the hero image scoped to the header only (no parallax bleed) */
-header,
-.site-header,
-.header {
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
-  background-size: cover !important;
-  background-attachment: scroll !important; /* critical */
-}
-header::before,
-.site-header::before,
-.header::before {
-  background-attachment: scroll !important;
-}
-
-/* Add breathing room for text on small screens */
-body {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-@media (min-width: 768px) {
-  body {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-
-/* Disable sticky header on small screens */
+/* MOBILE FIXES */
 @media (max-width: 768px) {
-  header,
-  .site-header,
+  /* 1) Stop ONLY the nav from being sticky/fixed (leave hero/header logic intact) */
   .navbar,
-  .header {
+  .site-nav,
+  nav[role="navigation"] {
     position: static !important;
     top: auto !important;
   }
-  body {
-    padding-top: 0 !important;
+
+  /* 2) Keep the hero image + dark overlay confined to the header box */
+  header,
+  .site-header,
+  .header {
+    position: relative !important;          /* anchor ::before overlay */
+    overflow: hidden !important;            /* clip bg/overlay to header */
+    background-attachment: scroll !important; /* prevent parallax bleed */
   }
+
+  /* If the overlay is implemented with ::before, make sure it stays inside */
+  header::before,
+  .site-header::before,
+  .header::before {
+    position: absolute !important;
+    inset: 0 !important;                    /* top/right/bottom/left: 0 */
+  }
+
+  /* Some themes add body top padding for sticky headers — remove it */
+  body { padding-top: 0 !important; }
 }
