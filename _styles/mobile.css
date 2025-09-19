@@ -10,8 +10,8 @@
 
 /* Add breathing room for text on small screens */
 body {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
 }
 
 @media (min-width: 1025px) {
