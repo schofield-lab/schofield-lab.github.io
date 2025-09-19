@@ -23,3 +23,21 @@ footer a:hover {
 footer .icon {
   font-size: var(--xl);
 }
+
+.footer-bg-caption {
+  margin-top: 1rem;
+  font-size: 0.8125rem;   /* ~13px */
+  line-height: 1.4;
+  max-width: 72ch;        /* keep line length comfortable */
+  margin-left: auto;
+  margin-right: auto;
+  color: currentColor;    /* follows footer text color */
+  opacity: 0.85;
+}
+
+/* Slightly smaller on narrow phones, a touch larger on big screens */
+@media (max-width: 380px) { .footer-bg-caption { font-size: 0.75rem; } }
+@media (min-width: 1200px) { .footer-bg-caption { font-size: 0.875rem; } }
+
+/* If your footer uses a dark theme via data-dark, keep it legible */
+footer[data-dark="true"] .footer-bg-caption { opacity: 0.9; }

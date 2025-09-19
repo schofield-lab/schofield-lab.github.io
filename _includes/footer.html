@@ -46,6 +46,12 @@
     oninput="onDarkToggleChange(event)"
   >
 
+    {% assign caption = page.footer_bg_caption | default: site.footer_bg_caption %}
+    {% if caption %}
+      <p class="footer-bg-caption" id="footer-bg-caption">{{ caption }}</p>
+    {% endif %}
+</footer>
+
 
 
 </footer>
