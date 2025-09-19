@@ -6,12 +6,3 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
-
-/* Remove floating cookie button entirely */
-.cc-revoke,
-.osano-cm-widget,
-#ot-sdk-btn,
-.ot-floating-button {
-  display: none !important;
-}
-
