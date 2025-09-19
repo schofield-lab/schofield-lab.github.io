@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://schofield-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://schofield-lab.github.io/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2025-09-19T12:55:40+01:00</updated><id>https://schofield-lab.github.io/feed.xml</id><title type="html">Steven R. Schofield Research Group</title><subtitle>The Schofield Group at UCL, led by Professor Steven R. Schofield, studies quantum nanoscience using scanning tunnelling microscopy and related techniques.</subtitle><author><name>Steven R. Schofield</name></author><entry><title type="html">Our research highlighted at PNAS Journal Club</title><link href="https://schofield-lab.github.io/2025/09/15/PNAS-coverage/" rel="alternate" type="text/html" title="Our research highlighted at PNAS Journal Club" /><published>2025-09-15T00:00:00+01:00</published><updated>2025-09-19T12:52:38+01:00</updated><id>https://schofield-lab.github.io/2025/09/15/PNAS-coverage</id><content type="html" xml:base="https://schofield-lab.github.io/2025/09/15/PNAS-coverage/"><![CDATA[<p>``First-of-its-kind image may suggest new ways to use silicon defects in quantum devices.’’ We are delighted that <strong>PNAS Journal Club</strong> has written about our latest publication, highlighting the significance of our work on imaging acceptor wave functions in silicon.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://schofield-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://schofield-lab.github.io/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2025-09-19T13:22:45+01:00</updated><id>https://schofield-lab.github.io/feed.xml</id><title type="html">Steven R. Schofield Research Group</title><subtitle>The Schofield Group at UCL, led by Professor Steven R. Schofield, studies quantum nanoscience using scanning tunnelling microscopy and related techniques.</subtitle><author><name>Steven R. Schofield</name></author><entry><title type="html">Our research highlighted at PNAS Journal Club</title><link href="https://schofield-lab.github.io/2025/09/15/PNAS-coverage/" rel="alternate" type="text/html" title="Our research highlighted at PNAS Journal Club" /><published>2025-09-15T00:00:00+01:00</published><updated>2025-09-19T13:19:33+01:00</updated><id>https://schofield-lab.github.io/2025/09/15/PNAS-coverage</id><content type="html" xml:base="https://schofield-lab.github.io/2025/09/15/PNAS-coverage/"><![CDATA[<p>``First-of-its-kind image may suggest new ways to use silicon defects in quantum devices.’’ We are delighted that <strong>PNAS Journal Club</strong> has written about our latest publication, highlighting the significance of our work on imaging acceptor wave functions in silicon.</p>
 
 <p>The article provides a clear and accessible discussion of how our experimental approach reveals new insight into optically active defects.  This feature is an exciting recognition of our group’s efforts to combine atomic-resolution scanning tunnelling microscopy with theoretical modelling. It underscores the potential of engineered defects as building blocks for future quantum technologies.</p>
 
@@ -7,7 +7,9 @@
 <figure class="blog-image">
   <img src="/images/blog/2025-09-15_pnas.jpg" alt="PNAS Journal Club screenshot" />
   <figcaption>PNAS Journal Club article on our work</figcaption>
-</figure>]]></content><author><name>Steven Schofield</name></author><category term="research" /><category term="publications" /><category term="news" /><summary type="html"><![CDATA[Our research highlighted at PNAS Journal Club]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://schofield-lab.github.io/images/blog/2025-09-15_pnas.jpg" /><media:content medium="image" url="https://schofield-lab.github.io/images/blog/2025-09-15_pnas.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New group website launched</title><link href="https://schofield-lab.github.io/2025/09/12/first-post/" rel="alternate" type="text/html" title="New group website launched" /><published>2025-09-12T00:00:00+01:00</published><updated>2025-09-19T12:52:38+01:00</updated><id>https://schofield-lab.github.io/2025/09/12/first-post</id><content type="html" xml:base="https://schofield-lab.github.io/2025/09/12/first-post/"><![CDATA[<p>We’re pleased to launch our new group website — <a href="https://schofield-lab.github.io">schofield-lab.github.io</a> — and with it, our group blog! Until now, our pages were hosted within the main UCL website. Ongoing changes to location, styling, and the content management system made it increasingly difficult to keep that site up to date. At the same time, a number of excellent free hosting options for academic websites have become available.</p>
+</figure>]]></content><author><name>Steven Schofield</name></author><category term="research" /><category term="publications" /><category term="news" /><summary type="html"><![CDATA[Our research highlighted at PNAS Journal Club]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://schofield-lab.github.io/images/blog/2025-09-15_pnas.jpg" /><media:content medium="image" url="https://schofield-lab.github.io/images/blog/2025-09-15_pnas.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New group website launched</title><link href="https://schofield-lab.github.io/2025/09/12/first-post/" rel="alternate" type="text/html" title="New group website launched" /><published>2025-09-12T00:00:00+01:00</published><updated>2025-09-19T13:19:33+01:00</updated><id>https://schofield-lab.github.io/2025/09/12/first-post</id><content type="html" xml:base="https://schofield-lab.github.io/2025/09/12/first-post/"><![CDATA[<p>We’re pleased to launch our new group website — <a href="https://schofield-lab.github.io">schofield-lab.github.io</a> — and with it, our group blog!</p>
+
+<p>Until now, our pages were hosted within the main UCL website. Ongoing changes to location, styling, and the content management system made it increasingly difficult to keep that site up to date. At the same time, a number of excellent free hosting options for academic websites have become available.</p>
 
 <p>After looking around, we decided that GitHub Pages would be a good fit, and that the <a href="https://github.com/greenelab/lab-website-template">Lab Website Template</a> provided an ideal starting point.</p>
 
@@ -16,51 +18,122 @@
   <figcaption>The Lab Website Template</figcaption>
 </figure>
 
-<p>The template makes it easy to add our own content without worrying too much about style and layout. Features such as automatic import of citations from the ORCID database are a delight and save a lot of time while simultaneously increasing the visibility of our research.</p>
+<p>The template makes it easy to add our own content without worrying too much about style and layout. Features such as automatic import of citations from the ORCID database are a delight — saving time while increasing the visibility of our research.</p>
+
 <figure class="blog-image">
   <img src="/images/blog/2025-09-12_2.jpg" alt="The new group website" />
   <figcaption>The new group website</figcaption>
 </figure>
 
 <hr />
-<p>For anyone interested in setting up a similar page, the <a href="https://greenelab.github.io/lab-website-template/">Lab Website Template</a> comes with detailed and extremely helpful instructions and with just some basic knowledge of github functionality these should be enough to get you started. We have some some modifications, including adding `jekyll-seo-tag’ search engine optimisation. Some comments on getting that running are below.</p>
 
-<p>Here’s the minimal, working recipe to add <code class="language-plaintext highlighter-rouge">jekyll-seo-tag</code> to an LWT site and confirm it’s installed in your Docker container.</p>
+<h3 id="customisations">Customisations</h3>
 
-<h6 id="1-add-the-gem-to-your-gemfile">1) Add the gem to your Gemfile</h6>
+<p>For anyone interested in setting up a similar page, the <a href="https://greenelab.github.io/lab-website-template/">Lab Website Template</a> comes with detailed instructions. With basic GitHub and Markdown/HTML knowledge, plus Docker if you want to run the site locally, it should be enough to get you started, and the final result is an attractive and easy to maintain and update website.</p>
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Gemfile</span>
-<span class="n">gem</span> <span class="s2">"jekyll-seo-tag"</span><span class="p">,</span> <span class="s2">"~&gt; 2.8"</span>
-</code></pre></div></div>
+<p>Having said that, we have made a few modifications to suit our needs:</p>
 
-<h6 id="2-rebuild-the-docker-image-no-cache">2) Rebuild the Docker image (no cache)</h6>
+<ul>
+  <li><strong>Search engine optimisation</strong> — added jekyll-seo-tag.</li>
+  <li><strong>Cookie management</strong> — included a lightweight JavaScript banner that asks visitors to accept cookies and remembers their choice.</li>
+  <li><strong>Mobile styling</strong> — tweaked the CSS so the site looks cleaner on phones and tablets. Images resize automatically, text has more breathing space, and the navigation menu stacks neatly on smaller screens.</li>
+</ul>
 
-<p>Run this from the <strong>repo root</strong>:</p>
+<hr />
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker build <span class="nt">--no-cache</span> <span class="nt">-f</span> .docker/Dockerfile <span class="nt">-t</span> lab-website-renderer <span class="nb">.</span>
-</code></pre></div></div>
+<h3 id="adding-jekyll-seo-tag">Adding jekyll-seo-tag</h3>
 
-<h5 id="3-sanity-check-should-print-a-gem-path">3) Sanity check (should print a gem path)</h5>
+<p>Here’s the minimal working recipe to add <a href="https://github.com/jekyll/jekyll-seo-tag"><code class="language-plaintext highlighter-rouge">jekyll-seo-tag</code></a> in your Docker container:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.docker/run.sh bundle show jekyll-seo-tag
-</code></pre></div></div>
+<ol>
+  <li>
+    <p>Add the gem to your Gemfile:</p>
 
-<h6 id="4-relaunch-the-site">4) (Re)launch the site</h6>
+    <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s2">"jekyll-seo-tag"</span><span class="p">,</span> <span class="s2">"~&gt; 2.8"</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Rebuild the Docker image (no cache):</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./.docker/run.sh
-</code></pre></div></div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker build <span class="nt">--no-cache</span> <span class="nt">-f</span> .docker/Dockerfile <span class="nt">-t</span> lab-website-renderer <span class="nb">.</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Sanity check (should print a gem path):</p>
 
-<h6 id="5-enable-the-plugin-in-_configyml">5) Enable the plugin in <code class="language-plaintext highlighter-rouge">_config.yml</code></h6>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.docker/run.sh bundle show jekyll-seo-tag
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>(Re)launch the site:</p>
 
-<p>Add to your existing <code class="language-plaintext highlighter-rouge">plugins:</code> list:</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./.docker/run.sh
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Enable the plugin in <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
 
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">plugins</span><span class="pi">:</span>
+    <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">plugins</span><span class="pi">:</span>
   <span class="pi">-</span> <span class="s">jekyll-seo-tag</span>
-</code></pre></div></div>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Insert the tag in your head include:</p>
 
-<h5 id="6-insert-the-tag-in-your-head-include">6) Insert the tag in your head include</h5>
+    <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">seo</span><span class="w"> </span><span class="p">%}</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>You will also then want to tidy up by removing the hard-coded SEO information in <code class="language-plaintext highlighter-rouge">_includes/meta.html</code>.</p>
+  </li>
+</ol>
 
-<p>Add this inside <code class="language-plaintext highlighter-rouge">_includes/head.html</code>:</p>
+<hr />
 
-<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">seo</span><span class="w"> </span><span class="p">%}</span>
+<h3 id="adding-a-cookie-banner">Adding a Cookie Banner</h3>
+
+<p>To handle cookies, we used the open-source <a href="https://github.com/osano/cookieconsent">CookieConsent</a> library (via CDN) together with a small amount of custom JavaScript. This allows us to run in opt-in mode, defer embedded content such as YouTube or Google Maps until consent is given, and give visitors the option to revoke or reopen settings at any time.</p>
+
+<hr />
+
+<h3 id="mobile-styling-tweaks">Mobile Styling Tweaks</h3>
+
+<p>A couple of CSS adjustments helped make the site look better on phones and tablets. Add these rules to your main stylesheet, or create a new <code class="language-plaintext highlighter-rouge">mobile.scss</code> under <code class="language-plaintext highlighter-rouge">_styles/</code></p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c">/* Add breathing room for text on small screens */</span>
+<span class="nt">body</span> <span class="p">{</span>
+  <span class="nl">padding-left</span><span class="p">:</span> <span class="m">0.75rem</span><span class="p">;</span>
+  <span class="nl">padding-right</span><span class="p">:</span> <span class="m">0.75rem</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="k">@media</span> <span class="p">(</span><span class="n">min-width</span><span class="p">:</span> <span class="m">1025px</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nt">body</span> <span class="p">{</span>
+    <span class="nl">padding-left</span><span class="p">:</span> <span class="m">0</span><span class="p">;</span>
+    <span class="nl">padding-right</span><span class="p">:</span> <span class="m">0</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="k">@media</span> <span class="p">(</span><span class="n">max-width</span><span class="p">:</span> <span class="m">768px</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nc">.navbar</span><span class="o">,</span>
+  <span class="nc">.site-nav</span><span class="o">,</span>
+  <span class="nt">nav</span><span class="o">[</span><span class="nt">role</span><span class="o">=</span><span class="s1">"navigation"</span><span class="o">]</span> <span class="p">{</span>
+    <span class="nl">position</span><span class="p">:</span> <span class="nb">static</span> <span class="cp">!important</span><span class="p">;</span>
+    <span class="nl">top</span><span class="p">:</span> <span class="nb">auto</span> <span class="cp">!important</span><span class="p">;</span>
+  <span class="p">}</span>
+
+  <span class="nt">header</span><span class="o">,</span>
+  <span class="nc">.site-header</span><span class="o">,</span>
+  <span class="nc">.header</span> <span class="p">{</span>
+    <span class="nl">position</span><span class="p">:</span> <span class="nb">relative</span> <span class="cp">!important</span><span class="p">;</span>          <span class="c">/* anchor ::before overlay */</span>
+    <span class="nl">overflow</span><span class="p">:</span> <span class="nb">hidden</span> <span class="cp">!important</span><span class="p">;</span>            <span class="c">/* clip bg/overlay to header */</span>
+    <span class="nl">background-attachment</span><span class="p">:</span> <span class="nb">scroll</span> <span class="cp">!important</span><span class="p">;</span> <span class="c">/* prevent parallax bleed */</span>
+  <span class="p">}</span>
+
+  <span class="nt">header</span><span class="nd">::before</span><span class="o">,</span>
+  <span class="nc">.site-header</span><span class="nd">::before</span><span class="o">,</span>
+  <span class="nc">.header</span><span class="nd">::before</span> <span class="p">{</span>
+    <span class="nl">position</span><span class="p">:</span> <span class="nb">absolute</span> <span class="cp">!important</span><span class="p">;</span>
+    <span class="py">inset</span><span class="p">:</span> <span class="m">0</span> <span class="cp">!important</span><span class="p">;</span>                    <span class="c">/* top/right/bottom/left: 0 */</span>
+  <span class="p">}</span>
+
 </code></pre></div></div>]]></content><author><name>Steven Schofield</name></author><category term="website" /><category term="news" /><summary type="html"><![CDATA[Our first post introducing the group blog.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://schofield-lab.github.io/images/blog/2025-09-12_2.jpg" /><media:content medium="image" url="https://schofield-lab.github.io/images/blog/2025-09-12_2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
