@@ -15,33 +15,3 @@ main {
   display: none !important;
 }
 
-/* MOBILE FIXES */
-@media (max-width: 768px) {
-  /* 1) Stop ONLY the nav from being sticky/fixed (leave hero/header logic intact) */
-  .navbar,
-  .site-nav,
-  nav[role="navigation"] {
-    position: static !important;
-    top: auto !important;
-  }
-
-  /* 2) Keep the hero image + dark overlay confined to the header box */
-  header,
-  .site-header,
-  .header {
-    position: relative !important;          /* anchor ::before overlay */
-    overflow: hidden !important;            /* clip bg/overlay to header */
-    background-attachment: scroll !important; /* prevent parallax bleed */
-  }
-
-  /* If the overlay is implemented with ::before, make sure it stays inside */
-  header::before,
-  .site-header::before,
-  .header::before {
-    position: absolute !important;
-    inset: 0 !important;                    /* top/right/bottom/left: 0 */
-  }
-
-  /* Some themes add body top padding for sticky headers — remove it */
-  body { padding-top: 0 !important; }
-}
