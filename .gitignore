@@ -12,3 +12,8 @@ package-lock.json
 yarn.lock
 node_modules
 _cite/.cache/
+
+.DS_Store
+
+/images 2/
+/_cite 2/
