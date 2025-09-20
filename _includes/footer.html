@@ -15,8 +15,6 @@
     </div>
   -->
 
-  <p><em>Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</em></p>
-
   <div>
     {% for link in site.links %}
       {% assign key = link[0] %}
@@ -52,8 +50,7 @@
     {% if caption %}
       <p class="footer-bg-caption" id="footer-bg-caption">{{ caption }}</p>
     {% endif %}
-</footer>
 
-
+    <p><em>Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</em></p>
 
 </footer>
