@@ -20,12 +20,12 @@ phd:
     supervision: "Secondary supervisor"
     thesis: "Reduced dimensional dopant systems in silicon"
 
-
   - name: Eric Lundgren
     years: "2017 – 2022"
     supervision: "Primary supervisor"
     thesis: "Toward atomic-scale doping of bismuth in silicon: the study of bismuth precursor molecules on silicon (100)"
-
+    destination: "Postdoctoral research associate, University of Bath, UK."
+    
   - name: Procopios Constantinou
     years: "2016 – 2020"
     supervision: "Primary supervisor"

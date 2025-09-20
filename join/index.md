@@ -11,6 +11,8 @@ We welcome motivated students and researchers to join our group. Our research co
 
 If you’re interested in joining, please [email us](/contact) with your CV, transcript, and research interests so we can explore the best route together.
 
+{% include section.html %}
+
 ## PhD Opportunities at a Glance
 
 - **[UCL Research Excellence Scholarship (RES)](#res)** — Fully funded (fees + stipend, 4 years). Open to outstanding candidates from any country. Deadline: January.  
@@ -22,19 +24,14 @@ If you’re interested in joining, please [email us](/contact) with your CV, tra
 
 ➡️ *Interested? [Contact us](/contact) with your **CV, transcript and research interests** to discuss the best pathway.*
 
-{% include section.html %}
-
 ---
-
 {% capture text %}
 We encourage applications to the [UCL Research Excellence Scholarship (RES)](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship), which supports outstanding PhD students from any country.  
-
 - **Funding:** Full tuition fees + stipend for 4 years  
 - **Eligibility:** First-class (or expected first-class) undergraduate degree or equivalent, with strong potential for research excellence  
 - **Application timeline:** Usually **January** (check official page for current deadline)  
 - **How to apply:** [Contact us](/contact) well ahead of the deadline to discuss project options and support for your application  
 {% endcapture %}
-
 {%
   include feature_text.html
   id="res"
@@ -42,7 +39,6 @@ We encourage applications to the [UCL Research Excellence Scholarship (RES)](htt
   text=text
   flip=false
 %}
-
 ---
 
 {% capture text %}
@@ -61,6 +57,7 @@ We welcome applications through the [China Scholarship Council – UCL Joint Res
   text=text
   flip=false
 %}
+
 
 ---
 
@@ -88,7 +85,7 @@ We encourage eligible candidates to consider the [UCL Research Opportunity Schol
 
 - **Funding:** Full tuition fees + stipend  
 - **Eligibility:** Applicants from **Black, Asian and minority ethnic backgrounds** who are eligible for UK/Home fees and are UK-permanent residents  
-- **Application timeline:** Usually **January** (some faculties may have earlier internal nomination dates; check the official page)  
+- **Application timeline:**  Usually **January** (check official page for current deadline)  
 - **How to apply:** [Contact us](/contact) well ahead of the deadline to discuss suitable projects and nomination steps  
 {% endcapture %}
 
@@ -105,8 +102,8 @@ We encourage eligible candidates to consider the [UCL Research Opportunity Schol
 {% capture text %}
 We also welcome enquiries about other funding sources or self-funding.  
 
-- **Funding:** External schemes, self-funding, or other opportunities  
-- **Application timeline:** Varies — additional funded PhD studentships may be advertised here from time to time  
+- **Funding:** External schemes, self-funding, or other opportunities may be advertised here in future.
+- **Application timeline:** Semi-flexible 
 - **How to apply:** Please [get in touch](/contact) with us to discuss possible options  
 {% endcapture %}
 
