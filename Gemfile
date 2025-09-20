@@ -14,4 +14,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
   gem "jekyll-seo-tag", "~> 2.8" 
+  gem 'jekyll-last-modified-at'
 end

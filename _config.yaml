@@ -59,6 +59,7 @@ plugins:
   - jekyll-feed
   - jekyll-last-modified-at
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 # code block syntax highlighting
 highlighter: rouge

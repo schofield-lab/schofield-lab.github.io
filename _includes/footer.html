@@ -15,6 +15,8 @@
     </div>
   -->
 
+  <p><em>Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</em></p>
+
   <div>
     {% for link in site.links %}
       {% assign key = link[0] %}
