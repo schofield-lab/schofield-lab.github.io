@@ -1,4 +1,4 @@
-<div class="feature">
+<div class="feature" {% if include.id %}id="{{ include.id }}"{% endif %}>
   <div class="feature-text">
     {% if include.title %}
       <p class="feature-title">{{ include.title }}</p>
