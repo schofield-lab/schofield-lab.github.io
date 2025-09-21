@@ -7,9 +7,24 @@ nav:
 
 # Join Our Team
 
+{% capture text %}
+
 We welcome motivated students and researchers to join our group. Our research combines experiment and theory at the atomic scale to understand semiconductors and 2D materials. We provide a collaborative environment where you’ll develop strong expertise while contributing to cutting-edge research.
 
 If you’re interested in joining, please [email us](/contact) with your CV, transcript, and research interests so we can explore the best route together.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/teaser/teaser-join.jpg"
+  link="publications"
+  title=""
+  text=text
+  flip=false
+%}
+
+
 
 {% include section.html %}
 
