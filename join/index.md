@@ -18,7 +18,6 @@ If you’re interested in joining, please [email us](/contact) with your CV, tra
 {%
   include feature.html
   image="images/teaser/teaser-join.jpg"
-  link="publications"
   title=""
   text=text
   flip=false
