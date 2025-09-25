@@ -1,9 +1,13 @@
 ---
 title: Team
+description: "Meet the Schofield Group at UCL — a collaborative team of researchers and students exploring atomic-scale quantum nanoscience with STM, ARPES, and theory."
+image: /images/share.jpg
+image_alt: "The Schofield Group research team at UCL"
 nav:
   order: 3
   tooltip: About our team
 ---
+
 
 # {% include icon.html icon="fa-solid fa-people-group" %}Team
 
