@@ -2,6 +2,7 @@
 title: "UCL Schofield — Steven R. Schofield Research Group"
 description: "UCL Schofield research group at University College London: quantum nanoscience using scanning tunnelling microscopy (STM) and related techniques."
 image: /images/share.jpg
+image_alt: "Schofield Group — atomic-scale research at UCL"
 ---
 
 # Atomic Frontiers in Quantum Nanoscience
