@@ -1,3 +1,7 @@
+- id: doi:10.1088/1361-648X/ae0be1
+  type: paper
+  image: /images/publications/ae0be1.gif
+
 - id: doi:10.1021/acs.nanolett.5c02675
   type: paper
   description: This paper presents the first STM imaging and spectroscopy of hydrogenic acceptor wave functions in silicon, with effective-mass and tight-binding theory confirming their square-ring-like symmetry and acceptor character.
@@ -142,6 +146,19 @@
 - id: doi:10.1088/0953-8984/27/5/054002
   type: paper
   image: /images/publications/cm501155f06_online.jpg
+
+- id: doi:10.1021/nn3039484
+  type: paper
+  image: /images/publications/images_medium_nn-2012-039484_0006.gif
+
+- id: doi:10.1021/jp311261r
+  type: paper
+  image: /images/publications/images_medium_jp-2012-11261r_0006.gif
+
+- id: doi:10.1063/1.4772508
+  type: paper
+  image: /images/publications/m_012107_1_f1.jpeg
+
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
