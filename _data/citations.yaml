@@ -23,7 +23,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: /images/publications/ae0be1.gif
+  image: /images/publications/future_of_CMP.jpg
 - id: doi:10.1021/acs.nanolett.5c02675
   title: Imaging the Acceptor Wave Function Anisotropy in Silicon
   authors:
@@ -294,7 +294,6 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: /images/publications/jpcm_special_issue_functionalisation.jpg
 - id: doi:10.1021/acs.jpcc.1c07115
   title: Substitutional Tin Acceptor States in Black Phosphorus
   authors:

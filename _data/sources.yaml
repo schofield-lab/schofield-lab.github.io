@@ -1,6 +1,6 @@
 - id: doi:10.1088/1361-648X/ae0be1
   type: paper
-  image: /images/publications/ae0be1.gif
+  image: /images/publications/future_of_CMP.jpg
 
 - id: doi:10.1021/acs.nanolett.5c02675
   type: paper
@@ -70,7 +70,6 @@
 
 - id: doi:10.1088/1361-648X/ac5a24
   type: paper
-  image: /images/publications/jpcm_special_issue_functionalisation.jpg
 
 - id: doi:10.1021/acsnano.9b08943
   type: paper
