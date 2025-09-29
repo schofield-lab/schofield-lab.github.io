@@ -1,5 +1,6 @@
 ---
 title: Blog
+permalink: /blog/
 nav:
   order: 4
   tooltip: Musings and miscellany

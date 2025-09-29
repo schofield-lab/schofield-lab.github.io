@@ -1,5 +1,6 @@
 ---
 title: Contact
+permalink: /contact/
 description: "Get in touch with the Schofield Group at UCL. Find our email, postal address, office location, and links for enquiries about research and PhD opportunities."
 image: /images/share.jpg
 image_alt: "Contact the Schofield Group at UCL"

@@ -1,5 +1,6 @@
 ---
 title: Publications
+permalink: /publications/
 description: "Selected publications from the Schofield Group at UCL on atomic-scale quantum nanoscience, STM imaging, ARPES studies, and theory of defects and dopants in semiconductors."
 image: /images/share.jpg
 image_alt: "Cover collage of Schofield Group publications"

@@ -1,5 +1,6 @@
 ---
 title: Team
+permalink: /team/
 description: "Meet the Schofield Group at UCL — a collaborative team of researchers and students exploring atomic-scale quantum nanoscience with STM, ARPES, and theory."
 image: /images/share.jpg
 image_alt: "The Schofield Group research team at UCL"
