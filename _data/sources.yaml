@@ -158,6 +158,13 @@
   type: paper
   image: /images/publications/m_012107_1_f1.jpeg
 
+- id:  doi:10.1088/0953-8984/26/1/012001
+  type: paper
+  image: /images/publications/012001.jpg
+
+- id: doi:10.1103/PhysRevB.88.205203
+  type: paper
+  image: /images/publications/PhysRevB.88.205203.png
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
