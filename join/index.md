@@ -13,9 +13,9 @@ nav:
 
 {% capture text %}
 
-We welcome motivated students and researchers to join our group. Our research combines experiment and theory at the atomic scale to understand semiconductors and 2D materials. We provide a collaborative environment where you’ll develop strong expertise while contributing to cutting-edge research.
+We’re always keen to hear from motivated students and researchers who would like to join our group. Our research combines experiment and theory at the atomic scale to understand semiconductors and 2D materials, within a collaborative environment where you’ll develop strong expertise while contributing to cutting-edge research.
 
-If you’re interested in joining, please [email us](/contact) with your CV, transcript, and research interests so we can explore the best route together.
+If you’d like to join our group, please [email Professor Schofield](/contact) with your CV and transcript — and, if you wish, a brief note about any research areas that particularly interest you. Together, we can explore possible projects and identify the funding route that best fits your background and goals. A few of the main options are listed below.
 
 {% endcapture %}
 
@@ -28,10 +28,11 @@ If you’re interested in joining, please [email us](/contact) with your CV, tra
 %}
 
 
-
 {% include section.html %}
 
 ## PhD Opportunities at a Glance
+
+- **[UCL EPSRC Landscape Award (UELA)](#uela)** — *New!* Fully funded for 4 years (fees + enhanced stipend + additional research training and travel support). Open to Home & International applicants.  → Our project: **[*Mapping the Quantum Landscape of 2D Materials, One Atom at a Time*](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1677.html)** — application deadline **13:00 UK time, Monday 05-Jan-2026**.  
 
 - **[UCL Research Excellence Scholarship (RES)](#res)** — Fully funded (fees + stipend, 4 years). Open to outstanding candidates from any country. Deadline: January.  
 - **[China Scholarship Council – UCL Joint Research Scholarship](#csc)** — Fully funded (fees + stipend). For citizens of China. Deadline: early January.  
@@ -43,6 +44,27 @@ If you’re interested in joining, please [email us](/contact) with your CV, tra
 ➡️ *Interested? [Contact us](/contact) with your **CV, transcript and research interests** to discuss the best pathway.*
 
 ---
+
+{% capture text %}
+We’re excited to announce a **fully funded PhD studentship** available through the [UCL EPSRC Landscape Award (UELA)](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships), focused on **quantum properties of defects in two-dimensional (2D) materials**.  
+
+- **Project:** *Mapping the Quantum Landscape of 2D Materials, One Atom at a Time*  *(Project ID: 2531bd1677)*  
+- **Funding:** Four year studentship with full tuition fees + **enhanced stipend** (at least **£23,466** in 2026/27) + **Research Training Support Grant (RTSG)** for consumables and travel.  
+- **Eligibility:** Open to both **UK Home** and **International** applicants who meet UCL’s PhD entry requirements.  
+- **Application timeline:** Applications are open now. **Deadline 13:00 UK time, Monday 05-Jan-2026**  
+- **How to apply:** [Contact us](/contact) early to discuss your interests and supervision before [submitting your application through the main UELA page.](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships) Note, that, unlike all other UCL studentship schemes, your application to this scheme will be anonymised at the point that you submit your application and through the initial shortlisting stage.
+
+This experimental PhD will explore how individual atomic defects in 2D materials give rise to remarkable quantum behaviour — including single-photon emission and spin localisation — using **ultrahigh-vacuum cryogenic scanning tunnelling microscopy (STM)** and complementary techniques. The project offers a unique opportunity to work at the intersection of **condensed matter physics, surface science, and quantum technologies**.
+{% endcapture %}
+{%
+  include feature_text.html
+  id="uela"
+  title="UCL EPSRC Landscape Award (UELA)"
+  text=text
+  flip=false
+%}
+---
+
 {% capture text %}
 We encourage applications to the [UCL Research Excellence Scholarship (RES)](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship), which supports outstanding PhD students from any country.  
 - **Funding:** Full tuition fees + stipend for 4 years  

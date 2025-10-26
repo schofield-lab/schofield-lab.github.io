@@ -20,8 +20,8 @@ The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Researc
 {% capture text %}
 <ul class="updates">
   <li>
-    <em>2025-09-17</em> —
-    <a href="/join"><strong>PhD studentships are now available → click for more information.</strong></a>
+    <em>2025-10-26</em> —
+    <a href="/join"><strong>Fully funded PhD studentships now available, including: "Mapping the Quantum Landscape of 2D Materials, One Atom at a Time" → click for more information.</strong></a>
   </li>
 
   {% assign shown = 0 %}
