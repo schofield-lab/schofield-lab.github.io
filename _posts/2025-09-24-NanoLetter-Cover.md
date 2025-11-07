@@ -2,7 +2,7 @@
 title: "Our research featured on the cover of Nano Letters"
 description: "Our research featured on the cover of Nano Letters"
 tags: [research, publications, news]
-image: /images/blog/2025-09-24_nanoletters_cover.jpg
+image: /images/blog/2025/2025-09-24_nanoletters_cover.jpg
 author: steven-schofield
 ---
 
@@ -21,6 +21,6 @@ If you are interested in **joining our group**, more information is available [h
 
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2025-09-24_nanoletters_cover.jpg' | relative_url }}" alt="Nano Letters cover image">
+  <img src="{{ '/images/blog/2025/2025-09-24_nanoletters_cover.jpg' | relative_url }}" alt="Nano Letters cover image">
   <figcaption>Our research featured on the cover of Nano Letters (Vol. 25, Issue 38) showing acceptor wave functions in silicon</figcaption>
 </figure>  

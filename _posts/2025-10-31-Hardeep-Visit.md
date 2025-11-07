@@ -2,7 +2,7 @@
 title: "A Successful Research Visit from IISc Bangalore"
 description: "Hardeep Singh’s six-week visit strengthens our collaboration on 2D materials."
 tags: [news, visitors, collaboration]
-image: /images/blog/2025-10-31_hardeep.jpg
+image: /images/blog//2025/2025-10-31_hardeep.jpg
 author: steven-schofield
 ---
 
@@ -13,7 +13,7 @@ It has been a pleasure hosting Hardeep in our lab. During his visit, he learned 
 Hardeep brought to our lab valuable knowledge and skills related to the preparation of 2D materials for optical measurements, and he will leave with an entirely new skill set in preparing samples for ultrahigh-vacuum conditions and performing atomic-scale measurements with STM. The knowledge exchange facilitated by his visit extends beyond sample preparation—the initial stages of analysing the data he obtained have already introduced him to new concepts in condensed matter physics, and it will be exciting to see how this develops as the work of processing, analysing, and interpreting the data continues. Hardeep also participated actively in our weekly group meetings, giving a talk on his previous research and contributing thoughtfully to discussions on the work of other group members.
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2025-10-31_hardeep.jpg' | relative_url }}" alt="Hardeep Singh in the STM lab">
+  <img src="{{ '/images/blog/2025/2025-10-31_hardeep.jpg' | relative_url }}" alt="Hardeep Singh in the STM lab">
   <figcaption>Hardeep in the STM lab during his six-week visit to UCL.</figcaption>
 </figure>
 
@@ -22,6 +22,6 @@ The goals of his visit were to investigate defects in molybdenum disulfide (MoS<
 In addition to the STM work, Hardeep received training to access several of our other laboratories, including facilities for optical microscopy—equipment similar to what he regularly uses at IISc. These complementary techniques allow us to study our samples across vastly different length scales, from optical to atomic resolution. Through this combined work, we are developing the capability to investigate monolayer 2D samples alongside bulk materials, broadening the scope of our joint research. It will be exciting to see how the analysis of our data proceeds over the coming months as we simultaneously develop plans for the measurements we will make during Hardeep’s return visit in 2026.
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2025-10-31_hardeep_mos2.png' | relative_url }}" alt="STM image of MoS2 obtained during Hardeep's visit">
+  <img src="{{ '/images/blog/2025/2025-10-31_hardeep_mos2.png' | relative_url }}" alt="STM image of MoS2 obtained during Hardeep's visit">
   <figcaption>Atomic-resolution STM image of molybdenum disulfide (MoS<sub>2</sub>) obtained during Hardeep’s visit.</figcaption>
 </figure>

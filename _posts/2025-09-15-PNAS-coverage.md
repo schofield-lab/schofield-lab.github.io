@@ -2,7 +2,7 @@
 title: "Our research highlighted at PNAS Journal Club"
 description: "Our research highlighted at PNAS Journal Club"
 tags: [research, publications, news]
-image: /images/blog/2025-09-15_pnas.jpg
+image: /images/blog/2025/2025-09-15_pnas.jpg
 author: steven-schofield
 ---
 
@@ -14,7 +14,7 @@ The article provides a clear and accessible discussion of how our experimental a
 - You can read the full research paper at [Nano Letters](https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02675).
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2025-09-15_pnas.jpg' | relative_url }}" alt="PNAS Journal Club screenshot">
+  <img src="{{ '/images/blog/2025/2025-09-15_pnas.jpg' | relative_url }}" alt="PNAS Journal Club screenshot">
   <figcaption>PNAS Journal Club article on our work</figcaption>
 </figure>
 
