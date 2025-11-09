@@ -22,6 +22,6 @@ The goals of his visit were to investigate defects in molybdenum disulfide (MoS<
 In addition to the STM work, Hardeep received training to access several of our other laboratories, including facilities for optical microscopy—equipment similar to what he regularly uses at IISc. These complementary techniques allow us to study our samples across vastly different length scales, from optical to atomic resolution. Through this combined work, we are developing the capability to investigate monolayer 2D samples alongside bulk materials, broadening the scope of our joint research. It will be exciting to see how the analysis of our data proceeds over the coming months as we simultaneously develop plans for the measurements we will make during Hardeep’s return visit in 2026.
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2025/2025-10-31_hardeep_mos2.png' | relative_url }}" alt="STM image of MoS2 obtained during Hardeep's visit">
+  <img src="{{ '/images/blog/2025/2025-10-31_hardeep_mos2.jpg' | relative_url }}" alt="STM image of MoS2 obtained during Hardeep's visit">
   <figcaption>Atomic-resolution STM image of molybdenum disulfide (MoS<sub>2</sub>) obtained during Hardeep’s visit.</figcaption>
 </figure>
