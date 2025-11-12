@@ -25,6 +25,7 @@ If you’d like to join our group, please [email Professor Schofield](/contact) 
   title=""
   text=text
   flip=false
+  caption="Pictured is [Eleanor Crane](https://linkedin.com/in/eleanorcrane) operating our LT-STM during her PhD studies at UCL. Ella is now a lecturer at King's College London."
 %}
 
 
