@@ -45,5 +45,11 @@
     max-width: 400px;
   }
 }
+.feature-caption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.25em;
+  text-align: center;
+}
 
 /*# sourceMappingURL=feature.css.map */
