@@ -6,7 +6,9 @@ image: /images/blog/2025/2025-11-07_Flatte-Niels.jpeg
 author: steven-schofield
 ---
 
-We were delighted to host [Prof. Michael E. Flatté](https://physics.uiowa.edu/people/michael-flatte) from the University of Iowa for his recent visit to UCL. Michael is a long-standing collaborator and regular visitor to our group. This visit combined two highlights: continuing our collaborative work with his PhD student, Niels van Venrooij, and delivering an invited seminar to the Condensed Matter and Materials Physics (CMMP) group.
+We were delighted to host [Prof. Michael E. Flatté](https://physics.uiowa.edu/people/michael-flatte) from the University of Iowa for his recent visit to UCL. 
+
+Michael is a long-standing collaborator and regular visitor to our group. This visit combined two highlights: continuing our collaborative work with his PhD student, Niels van Venrooij, and delivering an invited seminar to the Condensed Matter and Materials Physics (CMMP) group.
 
 Niels is undertaking a research visit with us, working on projects that bridge experiment and theory. One of these, now nearing completion, examines interference effects in photoemission from silicon nanostructures. He is also developing new models to describe correlations in dilute dopant networks—an important step toward understanding the collective behaviour of dopants in semiconductors.
 
