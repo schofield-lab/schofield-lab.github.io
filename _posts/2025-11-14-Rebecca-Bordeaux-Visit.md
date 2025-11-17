@@ -26,7 +26,7 @@ The first step in preparing the SAMs is to produce what are known as template-st
   <figcaption>Preparing and imaging a template-stripped gold substrate prior to forming the self-assembled monolayer.</figcaption>
 </figure>
 
-The next stage was to prepare the SAMs. Freshly exposed gold substrates were immersed in a solution of the SCO compound in ethanol, with a small amount of triethylamine to activate the molecules for binding to the gold surface. The vials were purged with nitrogen and left sealed for 24 hours to allow the SAMs to form. After incubation, the substrates were rinsed with methanol, dried under nitrogen, and, after being mounted on STM sample plates, transferred into UHV where they were degassed overnight. 
+The next stage was to prepare the SAMs. Freshly exposed gold substrates were immersed in a solution of the SCO compound in methanol, with a small amount of triethylamine to activate the molecules for binding to the gold surface. The vials were purged with nitrogen and left sealed for 24 hours to allow the SAMs to form. After incubation, the substrates were rinsed with methanol, dried under nitrogen, and, after being mounted on STM sample plates, transferred into UHV where they were degassed overnight. 
 
 The STM data we obtained during this short visit were promising. We imaged extended atomically flat regions of clean gold on the pristine template-stripped samples and resolved the surface structure of the SAMs prepared under several different conditions. Imaging and tunnelling spectroscopy were performed both at room temperature and at 77 K.
 
