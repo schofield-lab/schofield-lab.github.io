@@ -1,23 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1088/1361-648X/ae0be1
-  title: Future of Condensed Matter Physics for the Next 10 Years
+  title: Future of condensed matter physics for the next 10 years<sup>*</sup>
   authors:
-  - Jonathan P Bird
+  - Jonathan Bird
   - Jinguang Cheng
-  - Chun-gang Duan
+  - Chun-Gang Duan
   - Thomas Frederiksen
   - Gerhard Kahl
   - Gianfranco Pacchioni
   - Je-Geun Park
-  - Talat S. Rahman
+  - Talat S Rahman
   - Steven R Schofield
   - Krishnendu Sengupta
   - Xiaoshan Xu
   - Jin Zhao
   - Peter A Dowben
   publisher: 'Journal of Physics: Condensed Matter'
-  date: '2025-09-25'
+  date: '2025-10-20'
   link: https://doi.org/g944bs
   orcid: 0000-0002-0727-3015
   plugin: sources.py
