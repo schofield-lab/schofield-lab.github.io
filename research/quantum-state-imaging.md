@@ -14,14 +14,20 @@ revealing their symmetry, spatial extent, and interactions with the surrounding 
 
 Our work combines:
 
-- UHV cryogenic STM (atomic-resolution imaging and spectroscopy) 
+- Ultrahigh vacuum (UHV) cryogenic STM (atomic-resolution imaging and spectroscopy) 
 - Semiconductors and two-dimensional (2D) materials
 - Donors, acceptors, deep centre defects
-- tight-binding and effective-mass theory
-- density functional theory
+- Tight-binding, effective-mass theory, and density functional theory (via collaboration)
 
 Together, these approaches allow us to probe and understand the real-space wave functions
 of individual impurities and engineered atomic-scale structures.
+
+<div class="image-center" style="text-align: center; margin: 2rem 0;">
+  <img src="/images/research/quantum-state-imaging/example1.jpg" alt="Description of image" style="max-width: 100%; height: auto;">
+  <div class="caption" style="font-size: 0.9rem; color: #555; margin-top: 0.5rem;">
+    Figure 1: STM image of a single arsenic donor state on Si(001) showing anisotropic wavefunction amplitudes.
+  </div>
+</div>
 
 ---
 ## Selected publications
