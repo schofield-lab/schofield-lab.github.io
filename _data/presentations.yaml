@@ -3,6 +3,9 @@
   group: schofield
   image: images/research/2025-11-SRS-IOP-NPTG-thumbnail.jpg
   link: /assets/slides/2025-11-SRS-IOP-NPTG.pdf
-  description: This talk covers recent advances in scanning tunnelling microscopy and spectroscopy for imaging quantum states of dopants and defects in semiconductors and 2D materials, as well as insights from soft X-ray ARPES into buried semiconductor interfaces and δ-doped layers.
+  description: >
+    A tour of atomic-scale fabrication with STM, real-space imaging of dopant and
+    defect quantum states, and soft X-ray ARPES studies of buried interfaces and
+    δ-doped layers.
   tags:
     - 

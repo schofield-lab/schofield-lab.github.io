@@ -1,5 +1,5 @@
 - title: Quantum state imaging
-  subtitle: STM visualisation of dopant and defect wave functions in semiconductors
+  subtitle: STM visualisation of dopant and defect wave functions in semiconductors and two-dimensional (2D) materials
   group: research
   image: images/research/arsenic_in_silicon.jpg
   link: /research/quantum-state-imaging/
@@ -7,14 +7,14 @@
     Imaging the quantum states of single dopants and defects with atomic-resolution
     STM to uncover their symmetry, spatial extent, and electronic behaviour.
 
-  tags:
-    - STM
-    - dopants
-    - defects
-    - quantum-states
+  # tags:
+  #   - STM
+  #   - dopants
+  #   - defects
+  #   - quantum-states
 
-- title: Quantum states beneath the surface
-  subtitle: How we uncover the electronic structure of hidden atomic-scale devices
+- title: Hidden electronic structure
+  subtitle: How we uncover the electronic structure of hidden atomic-scale structures in semiconductors
   group: research
   image: images/research/silicon_arpes.jpg
   link: /research/sxarpes/
@@ -22,11 +22,11 @@
     We probe the electronic structure of quantum systems buried inside silicon by
     using soft X-ray ARPES to access their full three-dimensional band structure.
 
-  tags:
-    - electronic-structure
-    - buried-interfaces
-    - quantum-states
-    - synchrotron
+  # tags:
+  #   - electronic-structure
+  #   - buried-interfaces
+  #   - quantum-states
+  #   - synchrotron
 
 
 # - title: Quantum state imaging

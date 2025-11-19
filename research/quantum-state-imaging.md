@@ -14,10 +14,11 @@ revealing their symmetry, spatial extent, and interactions with the surrounding 
 
 Our work combines:
 
-- UHV cryogenic STM (atomic-resolution imaging and spectroscopy)  
-- tight-binding and effective-mass theory  
-- delta-doped silicon systems and 2D materials  
-- ARPES and synchrotron-based measurements  
+- UHV cryogenic STM (atomic-resolution imaging and spectroscopy) 
+- Semiconductors and two-dimensional (2D) materials
+- Donors, acceptors, deep centre defects
+- tight-binding and effective-mass theory
+- density functional theory
 
 Together, these approaches allow us to probe and understand the real-space wave functions
 of individual impurities and engineered atomic-scale structures.

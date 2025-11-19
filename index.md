@@ -77,6 +77,32 @@ The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Researc
 We investigate atomic and nanoscale structure in semiconductors and 2D materials using surface-sensitive probes and simulation. Our aim is to understand—and ultimately control—quantum behaviour in these systems, enabling future electronic and quantum technologies.
 {%
   include button.html
+  link="research"
+  text="Learn about our research"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/teaser/teaser-research.jpg"
+  link="research"
+  title="Research"
+  text=text
+  flip=true
+%}
+
+
+---
+
+{% capture text %}
+
+We investigate atomic and nanoscale structure in semiconductors and 2D materials using surface-sensitive probes and simulation. Our aim is to understand—and ultimately control—quantum behaviour in these systems, enabling future electronic and quantum technologies.
+{%
+  include button.html
   link="publications"
   text="Read our publications"
   icon="fa-solid fa-arrow-right"
@@ -92,7 +118,7 @@ We investigate atomic and nanoscale structure in semiconductors and 2D materials
   link="publications"
   title="Publications"
   text=text
-  flip=true
+  flip=false
 %}
 
 ---
@@ -120,7 +146,38 @@ We are a research group at University College London working at the atomic scale
   link="team"
   title="Our Team"
   text=text
+  flip=true
 %}
+
+---
+
+{% capture text %}
+
+We are always keen to hear from students and researchers who want to explore quantum
+phenomena at the atomic scale—whether through STM, ARPES, or theory. If you're
+interested in joining a collaborative and curiosity-driven research environment,
+we’d be delighted to hear from you.
+
+{%
+  include button.html
+  link="join"
+  text="Join the group"
+  icon="fa-solid fa-arrow-right"
+  flip=false
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/teaser/teaser-join2.jpg"
+  link="join"
+  title="Join the group"
+  text=text
+  flip=false
+%}
+
 
 
 <!-- 
