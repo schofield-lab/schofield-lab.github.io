@@ -9,7 +9,7 @@ nav:
   tooltip: Research
 ---
 
-## Research overview
+# {% include icon.html icon="fa-solid fa-wrench" %}Research overview
 
 Our group studies the quantum properties of matter at the atomic scale, with a focus on
 scanning tunnelling microscopy (STM), angle-resolved photoemission spectroscopy (ARPES),
@@ -18,10 +18,19 @@ and the theory of defects and dopants in semiconductors and 2D materials.
 This page will gradually collect short summaries of our main research themes together with
 selected talks and presentations.
 
----
 
-## Selected research presentations
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
-**17 November 2025 – Quantum Meets Nano Workshop, Institute of Physics, London, UK**  
-*Imaging and Understanding Quantum States in Semiconductors and 2D Materials*  
-Steven R. Schofield (invited) · **[Download / view slides (PDF)](/assets/slides/2025-11-SRS-IOP-NPTG.pdf)**
+<!-- {% include search-info.html %} -->
+
+{% include section.html %}
+
+## Selected Research Topics
+
+{% include list.html component="card" data="research" filter="group == 'research'" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
