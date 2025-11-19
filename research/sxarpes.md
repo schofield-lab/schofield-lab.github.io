@@ -53,7 +53,7 @@ obtained by any other technique.
 ---
 
 
-## Related publications
+## Selected publications
 
 {% assign all_citations = site.data.citations | default: empty %}
 {% assign sx_pubs = all_citations | where_exp: "c", "c.sxarpes" %}

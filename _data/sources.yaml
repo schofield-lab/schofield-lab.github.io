@@ -18,11 +18,13 @@
   description: This paper reports the unanticipated discovery of a new atomic-scale quantum dot state in silicon, created by atomic manipulation on a hydrogen-terminated surface, providing key insights into atomic-scale quantum dot behaviour.
   date: 2013-04-03
   image: /images/publications/41467_2013_Article_BFncomms2679_Fig6_HTML.jpg
+  quantumstateimaging: true
 
 - id: doi:10.1002/anie.202213982
   type: paper
   description: This paper reports that arsenic incorporates into Ge(001) at room temperature, addressing a key challenge for scalable donor-based quantum devices.
   image: /images/publications/anie202213982-toc-0001-m.jpg
+  molecular_adsorption: true
 
 - id: doi:10.1002/advs.202302101
   type: paper
@@ -34,6 +36,7 @@
   type: paper
   description: This paper reports the first observation of a charge density wave ground state in a semiconducting transition metal dichalcogenide, providing new insight into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
+  quantumstateimaging: true
 
 - id: doi:10.1103/PhysRevLett.91.136104
   type: paper
@@ -44,6 +47,7 @@
   type: paper
   image: /images/publications/nanofada901f15_lr.jpg
   description: This roadmap reviews 25 years of progress since Kane’s proposal for donor-based qubits in silicon, charting advances, challenges, and future directions in atomic-scale semiconductor quantum technologies.
+  molecular_adsorption: true
 
 - id: doi:10.1038/s41467-024-44790-6
   type: paper
@@ -53,6 +57,7 @@
 - id: doi:10.1021/acs.jpcc.3c03916
   type: paper
   image: /images/publications/images_large_jp3c03916_0006.jpeg
+  molecular_adsorption: true
 
 - id:  doi:10.1126/sciadv.adf5997
   type: paper
@@ -61,6 +66,7 @@
 - id: doi:10.1063/5.0145772
   type: paper
   image: /images/publications/151601_1_5.0145772.figures.online.f2.jpg
+  molecular_adsorption: true
 
 - id: doi:10.1021/acs.jpcc.1c07115
   type: paper
@@ -137,6 +143,7 @@
 - id: doi:10.1063/1.4939124
   type: paper
   image: /images/publications/014705_1_f4.jpeg
+  molecular_adsorption: true
 
 - id: doi:10.1039/c6cp04328c
   type: paper
@@ -149,6 +156,7 @@
 - id: doi:10.1088/0953-8984/27/5/054002
   type: paper
   image: /images/publications/cm501155f06_online.jpg
+  molecular_adsorption: true
 
 - id: doi:10.1021/nn3039484
   type: paper
@@ -170,6 +178,7 @@
 - id: doi:10.1103/PhysRevB.88.205203
   type: paper
   image: /images/publications/PhysRevB.88.205203.png
+  quantumstateimaging: true
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper

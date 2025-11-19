@@ -13,11 +13,16 @@ nav:
 
 {% capture text %}
 
-We’re always keen to hear from motivated students and researchers who would like to join our group. Our research combines experiment and theory at the atomic scale to understand semiconductors and 2D materials, within a collaborative environment where you’ll develop strong expertise while contributing to cutting-edge research.
+We’re always keen to hear from motivated students and researchers interested in joining, visiting, or collaborating with our group.
 
-If you’d like to join our group, please [email Professor Schofield](/contact) with your CV and transcript — and, if you wish, a brief note about any research areas that particularly interest you. Together, we can explore possible projects and identify the funding route that best fits your background and goals. A few of the main options are listed below.
+Our work combines atomic-scale experiment and theory to understand semiconductors and 2D materials, within a collaborative and supportive research environment.
+
+If you’re a prospective PhD student — or an MSci/undergraduate looking for a project — please [email Professor Schofield](/contact) with your **CV and transcript**. We can discuss possible project directions and identify the funding route that best suits your background and goals. A few of the main schemes are listed below.
+
+We also host international visitors and collaborators. Previous postdocs and PhD visitors have joined us from Australia, India, France, and the USA. If you’re interested in exploring a joint visit or applying for funding together, please feel free to get in touch.
 
 {% endcapture %}
+
 
 {%
   include feature.html
@@ -25,13 +30,13 @@ If you’d like to join our group, please [email Professor Schofield](/contact) 
   title=""
   text=text
   flip=false
-  caption="Pictured is [Eleanor Crane](https://linkedin.com/in/eleanorcrane) operating our LT-STM during her PhD studies at UCL. Ella is now a lecturer at King's College London."
+  caption="Pictured is [Eleanor Crane](https://linkedin.com/in/eleanorcrane) operating our LT-STM during her PhD studies at UCL. Ella is now an Assistant Professor (lecturer) at King's College London."
 %}
 
 
 {% include section.html %}
 
-## PhD Opportunities at a Glance
+## PhD Studentship Opportunities at a Glance
 
 - **[UCL EPSRC Landscape Award (UELA)](#uela)** — *New!* Fully funded for 4 years (fees + enhanced stipend + additional research training and travel support). Open to Home & International applicants.  → Our project: **[*Mapping the Quantum Landscape of 2D Materials, One Atom at a Time*](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1677.html)** — application deadline **13:00 UK time, Monday 05-Jan-2026**.  
 

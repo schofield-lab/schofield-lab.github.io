@@ -1,23 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1088/1361-648X/ae0be1
-  title: Future of condensed matter physics for the next 10 years<sup>*</sup>
+  title: Future of Condensed Matter Physics for the Next 10 Years
   authors:
-  - Jonathan Bird
+  - Jonathan P Bird
   - Jinguang Cheng
-  - Chun-Gang Duan
+  - Chun-gang Duan
   - Thomas Frederiksen
   - Gerhard Kahl
   - Gianfranco Pacchioni
   - Je-Geun Park
-  - Talat S Rahman
+  - Talat S. Rahman
   - Steven R Schofield
   - Krishnendu Sengupta
   - Xiaoshan Xu
   - Jin Zhao
   - Peter A Dowben
   publisher: 'Journal of Physics: Condensed Matter'
-  date: '2025-10-20'
+  date: '2025-09-25'
   link: https://doi.org/g944bs
   orcid: 0000-0002-0727-3015
   plugin: sources.py
@@ -111,6 +111,7 @@
   description: "This roadmap reviews 25 years of progress since Kane\u2019s proposal\
     \ for donor-based qubits in silicon, charting advances, challenges, and future\
     \ directions in atomic-scale semiconductor quantum technologies."
+  molecular_adsorption: true
 - id: doi:10.1002/adma.202312282
   title: "Single\u2010Atom Control of Arsenic Incorporation in Silicon for High\u2010\
     Yield Artificial Lattice Fabrication"
@@ -208,6 +209,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/images_large_jp3c03916_0006.jpeg
+  molecular_adsorption: true
 - id: doi:10.1126/sciadv.adf5997
   title: 'Resistless EUV lithography: Photon-induced oxide patterning on silicon'
   authors:
@@ -246,6 +248,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/151601_1_5.0145772.figures.online.f2.jpg
+  molecular_adsorption: true
 - id: doi:10.1002/anie.202213982
   title: Room Temperature Incorporation of Arsenic Atoms into the Germanium (001)
     Surface**
@@ -266,6 +269,7 @@
   description: This paper reports that arsenic incorporates into Ge(001) at room temperature,
     addressing a key challenge for scalable donor-based quantum devices.
   image: /images/publications/anie202213982-toc-0001-m.jpg
+  molecular_adsorption: true
 - id: doi:10.1002/ange.202213982
   title: Room Temperature Incorporation of Arsenic Atoms into the Germanium (001)
     Surface**
@@ -339,6 +343,7 @@
     state in a semiconducting transition metal dichalcogenide, providing new insight
     into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
+  quantumstateimaging: true
 - id: doi:10.1088/1361-648X/abe6dd
   title: Determination of the preferred reaction pathway of acetophenone on Si(001)
     using photoelectron diffraction
@@ -545,6 +550,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/014705_1_f4.jpeg
+  molecular_adsorption: true
 - id: doi:10.1103/PhysRevB.93.195304
   title: STM and DFT study on formation and characterization of Ba-incorporated phases
     on a Ge(001) surface
@@ -618,6 +624,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/cm501155f06_online.jpg
+  molecular_adsorption: true
 - id: doi:10.1088/0953-8984/27/5/050301
   title: Organic molecules on inorganic surfaces
   authors:
@@ -736,6 +743,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/PhysRevB.88.205203.png
+  quantumstateimaging: true
 - id: doi:10.1021/jp311261r
   title: Phenyl Attachment to Si(001) via STM Manipulation of Acetophenone
   authors:
@@ -773,6 +781,7 @@
     quantum dot state in silicon, created by atomic manipulation on a hydrogen-terminated
     surface, providing key insights into atomic-scale quantum dot behaviour.
   image: /images/publications/41467_2013_Article_BFncomms2679_Fig6_HTML.jpg
+  quantumstateimaging: true
 - id: doi:10.1063/1.4772508
   title: Studying atomic scale structural and electronic properties of ion implanted
     silicon samples using cross-sectional scanning tunneling microscopy

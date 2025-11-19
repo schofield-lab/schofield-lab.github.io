@@ -155,13 +155,13 @@ We are a research group at University College London working at the atomic scale
 
 We are always keen to hear from students and researchers who want to explore quantum
 phenomena at the atomic scale—whether through STM, ARPES, or theory. If you're
-interested in joining a collaborative and curiosity-driven research environment,
+interested in joining, visiting, or collaborating in a curiosity-driven research environment,
 we’d be delighted to hear from you.
 
 {%
   include button.html
   link="join"
-  text="Join the group"
+  text="Join, Visit, or Collaborate"
   icon="fa-solid fa-arrow-right"
   flip=false
   style="bare"
@@ -173,7 +173,7 @@ we’d be delighted to hear from you.
   include feature.html
   image="images/teaser/teaser-join2.jpg"
   link="join"
-  title="Join the group"
+  title="Join, Visit, or Collaborate"
   text=text
   flip=false
 %}

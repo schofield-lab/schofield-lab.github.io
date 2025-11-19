@@ -22,6 +22,20 @@
     We probe the electronic structure of quantum systems buried inside silicon by
     using soft X-ray ARPES to access their full three-dimensional band structure.
 
+
+- title: Atomic-scale semiconductor chemistry
+  subtitle: How molecules bond and react on semiconductor surfaces
+  group: research
+  image: images/research/triphenyl_bismuth_silicon.jpg
+  link: /research/molecular-adsorption/
+  description: >
+    We investigate how individual molecules adsorb, bond, and react on semiconductor
+    surfaces using atomic-resolution STM combined with first-principles DFT modelling.
+    This work underpins the development of atomically precise dopant incorporation
+    in semiconductors and lays the foundation for atomic-scale electronic devices.
+
+
+
   # tags:
   #   - electronic-structure
   #   - buried-interfaces

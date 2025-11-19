@@ -24,7 +24,7 @@ Together, these approaches allow us to probe and understand the real-space wave 
 of individual impurities and engineered atomic-scale structures.
 
 ---
-## Related publications
+## Selected publications
 
 {% assign all_citations = site.data.citations | default: empty %}
 {% assign qs_pubs = all_citations | where_exp: "c", "c.quantumstateimaging" %}
