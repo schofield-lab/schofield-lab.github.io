@@ -5,53 +5,36 @@ layout: default
 topic_id: sxarpes
 ---
 
-## Probing the electronic structure of devices hidden inside silicon
 
-Many of the quantum systems we study are **buried deep beneath the surface of a
-semiconductor crystal**—δ-doped layers only a few atoms thick, engineered quantum wells,
-and atomically sharp interfaces where new electronic states emerge.
+## Measuring the thickness of δ-doped layers with SX-ARPES
 
-These structures are too small to see with optical microscopes, too deep for STM, and too
-complex to understand from electrical measurements alone. Yet their **electronic structure**
-strongly determines how they behave as quantum devices.
+We can create atomically thin δ-doping planes in silicon and germanium that are highly
+conducting and useful for building atomic-scale electronic and quantum devices. However,
+measuring the true thickness of these layers is difficult. Techniques such as secondary
+ion mass spectrometry (SIMS) do not have the spatial resolution needed to distinguish
+layers just a few atomic planes thick.
 
-Our goal is to *reveal what is happening inside the crystal*.
+To address this challenge, we use **soft X-ray ARPES (SX-ARPES)**. The relatively high
+photon energies (300–800 eV) allow us to probe electronic states located several
+nanometres beneath the surface while still resolving their momentum structure across
+multiple Brillouin zones.
 
----
+By analysing the energy and momentum of electrons confined in the two-dimensional
+potential formed by the dopant layer, we find that the **electronic thickness** of these
+δ-layers is only about **5 Å**, or roughly **three silicon crystal planes**. This is
+possible because the photoemission intensity is related to the real-space wave function
+through a Fourier transform, which allows SX-ARPES to reveal how tightly the electrons are
+confined.
 
-## How we “see” inside a solid
+![SX-ARPES band dispersion of a δ-doped silicon layer](/images/research/sxarpes/silicon_delta_band_dispersion.jpg){: style="display:block; margin-left:auto; margin-right:auto; max-width:60%;" }
 
-We use **soft X-ray angle-resolved photoemission spectroscopy** (SX-ARPES) to access the
-full three-dimensional momentum structure of electrons inside these buried layers.
+*Figure: SX-ARPES measurement from a silicon crystal containing a δ-doped layer 2 nm
+beneath the surface. The two-dimensionally confined δ-band pocket can be seen near the
+conduction-band minimum at the X-point, revealing the quantum well formed by the dopant
+atoms.*  
+{: style="text-align:center; color:#555; font-size:0.9rem;"}
 
-At soft X-ray energies, the photoelectrons originate from much deeper below the surface
-than in conventional ARPES. This allows us to:
-
-- **Probe electronic states in δ-doped layers and buried interfaces**  
-- **Map their full band structure, including the out-of-plane momentum (k₋z)**  
-- **Distinguish the contributions of specific atomic species or orbitals**  
-
-In effect, SX-ARPES acts as a **non-destructive microscope for quantum states inside a
-solid**, revealing how electrons move, couple, and reorganise in engineered atomic-scale
-structures.
-
----
-
-## What we study
-
-We apply SX-ARPES to understand:
-
-- Ultra-doped silicon δ-layers and their confined electron liquids  
-- Designed semiconductor heterostructures and quantum wells  
-- Buried two-dimensional materials and van der Waals interfaces  
-- Interface states that only exist a few atomic layers beneath the surface  
-
-Our measurements, combined with detailed modelling, provide a **real- and
-momentum-space picture** of these hidden quantum systems—information that cannot be
-obtained by any other technique.
-
----
-
+More detail can be found in our publications. 
 
 ## Selected publications
 
