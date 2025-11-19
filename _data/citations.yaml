@@ -1,23 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1088/1361-648X/ae0be1
-  title: Future of condensed matter physics for the next 10 years<sup>*</sup>
+  title: Future of Condensed Matter Physics for the Next 10 Years
   authors:
-  - Jonathan Bird
+  - Jonathan P Bird
   - Jinguang Cheng
-  - Chun-Gang Duan
+  - Chun-gang Duan
   - Thomas Frederiksen
   - Gerhard Kahl
   - Gianfranco Pacchioni
   - Je-Geun Park
-  - Talat S Rahman
+  - Talat S. Rahman
   - Steven R Schofield
   - Krishnendu Sengupta
   - Xiaoshan Xu
   - Jin Zhao
   - Peter A Dowben
   publisher: 'Journal of Physics: Condensed Matter'
-  date: '2025-10-20'
+  date: '2025-09-25'
   link: https://doi.org/g944bs
   orcid: 0000-0002-0727-3015
   plugin: sources.py
@@ -45,6 +45,7 @@
   description: This paper presents the first STM imaging and spectroscopy of hydrogenic
     acceptor wave functions in silicon, with effective-mass and tight-binding theory
     confirming their square-ring-like symmetry and acceptor character.
+  quantumstateimaging: true
   image: /images/publications/images_large_nl5c02675_0004.jpg
 - id: doi:10.1088/2399-1984/ada901
   title: Roadmap on atomic-scale semiconductor devices
@@ -185,6 +186,7 @@
     \ to probe two-dimensional electron liquids in silicon, revealing their properties\u2014\
     including quantum confinement thickness\u2014and showcasing the thinnest technological\
     \ electron liquid to date (0.45 nm)."
+  sxarpes: true
   image: /images/publications/advs6137-fig-0003-m.jpg
 - id: doi:10.1021/acs.jpcc.3c03916
   title: Adsorption and Thermal Decomposition of Triphenyl Bismuth on Silicon (001)
@@ -313,6 +315,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  quantumstateimaging: true
   image: /images/publications/jp1c07115_0005.webp
 - id: doi:10.1021/acs.nanolett.1c00677
   title: Charge Density Waves in Electron-Doped Molybdenum Disulfide
@@ -458,6 +461,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  quantumstateimaging: true
   image: /images/publications/PhysRevB.95.075408.png
 - id: doi:10.1126/sciadv.1602586
   title: Nondestructive imaging of atomically thin nanostructures buried in silicon
@@ -707,6 +711,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  quantumstateimaging: true
   image: /images/publications/012001.jpg
 - id: doi:10.1103/PhysRevB.88.205203
   title: Magnetic anisotropy of single Mn acceptors in GaAs in an external magnetic

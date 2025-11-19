@@ -5,6 +5,7 @@
 - id: doi:10.1021/acs.nanolett.5c02675
   type: paper
   description: This paper presents the first STM imaging and spectroscopy of hydrogenic acceptor wave functions in silicon, with effective-mass and tight-binding theory confirming their square-ring-like symmetry and acceptor character.
+  quantumstateimaging: true
   image: /images/publications/images_large_nl5c02675_0004.jpg
 
 - id: doi:10.1002/adma.202312282
@@ -26,6 +27,7 @@
 - id: doi:10.1002/advs.202302101
   type: paper
   description: This study demonstrates, for the first time, a non-destructive method to probe two-dimensional electron liquids in silicon, revealing their properties—including quantum confinement thickness—and showcasing the thinnest technological electron liquid to date (0.45 nm).
+  sxarpes: true
   image: /images/publications/advs6137-fig-0003-m.jpg
 
 - id: doi:10.1021/acs.nanolett.1c00677
@@ -62,6 +64,7 @@
 
 - id: doi:10.1021/acs.jpcc.1c07115
   type: paper
+  quantumstateimaging: true
   image: /images/publications/jp1c07115_0005.webp
 
 - id: doi:10.1088/1361-648X/abe6dd
@@ -120,6 +123,7 @@
 
 - id: doi:10.1103/PhysRevB.95.075408
   type: paper
+  quantumstateimaging: true
   image: /images/publications/PhysRevB.95.075408.png
 
 - id: doi:10.1021/acs.jpcc.6b10485
@@ -160,6 +164,7 @@
 
 - id:  doi:10.1088/0953-8984/26/1/012001
   type: paper
+  quantumstateimaging: true
   image: /images/publications/012001.jpg
 
 - id: doi:10.1103/PhysRevB.88.205203

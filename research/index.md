@@ -29,8 +29,11 @@ selected talks and presentations.
 
 {% include list.html component="card" data="research" filter="group == 'research'" %}
 
+{% include list.html component="card" data="research" filter="group == 'moreresearch'" style="small" %}
+
 {% include section.html %}
 
-## More
+## Research Presentations
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+{% include list.html component="card" data="presentations" filter="group == 'schofield'" %}

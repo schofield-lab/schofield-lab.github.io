@@ -1,47 +1,39 @@
 - title: Quantum state imaging
-  subtitle: Scanning tunnelling microscopy probing the extended quantum states of dopant atoms in semiconductors
+  subtitle: STM visualisation of dopant and defect wave functions in semiconductors
   group: research
   image: images/research/arsenic_in_silicon.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - 
+  link: /research/quantum-state-imaging/
+  description: >
+    Imaging the quantum states of single dopants and defects with atomic-resolution
+    STM to uncover their symmetry, spatial extent, and electronic behaviour.
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - STM
+    - dopants
+    - defects
+    - quantum-states
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Quantum states beneath the surface
+  subtitle: How we uncover the electronic structure of hidden atomic-scale devices
+  group: research
+  image: images/research/silicon_arpes.jpg
+  link: /research/sxarpes/
+  description: >
+    We probe the electronic structure of quantum systems buried inside silicon by
+    using soft X-ray ARPES to access their full three-dimensional band structure.
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - software
+    - electronic-structure
+    - buried-interfaces
+    - quantum-states
+    - synchrotron
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
+# - title: Quantum state imaging
+#   subtitle: Scanning tunnelling microscopy probing the extended quantum states of dopant atoms in semiconductors
+#   group: moreresearch
+#   image: images/research/arsenic_in_silicon.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   tags:
+#     - 
