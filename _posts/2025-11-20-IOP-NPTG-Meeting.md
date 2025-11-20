@@ -1,7 +1,7 @@
 ---
 title: "Steven Gives Invited Talk at the IOP Quantum Meets Nanoscale Workshop 2025"
 description: "Reflections on the IOP Quantum Meets Nanoscale Workshop, including an invited talk on quantum states in semiconductors and 2D materials."
-tags: [news, conferences, invited-talks, quantum, nanoscale]
+tags: [news, conferences, invited-talks]
 image: /images/blog/2025/2025-11-20-IOP-NPTG-Meeting.jpg
 author: steven-schofield
 ---
