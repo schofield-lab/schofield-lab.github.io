@@ -17,9 +17,9 @@ We’re always keen to hear from motivated students and researchers interested i
 
 Our work combines atomic-scale experiment and theory to understand semiconductors and 2D materials, within a collaborative and supportive research environment.
 
-If you’re a prospective PhD student — or an MSci/undergraduate looking for a project — please [email Professor Schofield](/contact) with your **CV and transcript**. We can discuss possible project directions and identify the funding route that best suits your background and goals. A few of the main schemes are listed below.
+If you’re a prospective PhD student -- or an MSci/undergraduate looking for a project -- please [email Professor Schofield](/contact) with your **CV and transcript**. We can discuss possible project directions and, for PhD students, identify the funding route that best suits your background and goals. A few of the main schemes are listed below.
 
-We also host international visitors and collaborators. Previous postdocs and PhD visitors have joined us from Australia, India, France, and the USA. If you’re interested in exploring a joint visit or applying for funding together, please feel free to get in touch.
+We also host international visitors and collaborators. Previous postdocs and PhD visitors have joined us from the UK, Australia, India, France, and the USA. If you’re interested in exploring a joint visit or applying for funding together, please feel free to get in touch.
 
 {% endcapture %}
 
