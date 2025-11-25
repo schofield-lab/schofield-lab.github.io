@@ -1,23 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1088/1361-648X/ae0be1
-  title: Future of condensed matter physics for the next 10 years<sup>*</sup>
+  title: Future of Condensed Matter Physics for the Next 10 Years
   authors:
-  - Jonathan Bird
+  - Jonathan P Bird
   - Jinguang Cheng
-  - Chun-Gang Duan
+  - Chun-gang Duan
   - Thomas Frederiksen
   - Gerhard Kahl
   - Gianfranco Pacchioni
   - Je-Geun Park
-  - Talat S Rahman
+  - Talat S. Rahman
   - Steven R Schofield
   - Krishnendu Sengupta
   - Xiaoshan Xu
   - Jin Zhao
   - Peter A Dowben
   publisher: 'Journal of Physics: Condensed Matter'
-  date: '2025-10-20'
+  date: '2025-09-25'
   link: https://doi.org/g944bs
   orcid: 0000-0002-0727-3015
   plugin: sources.py
@@ -112,28 +112,88 @@
     \ for donor-based qubits in silicon, charting advances, challenges, and future\
     \ directions in atomic-scale semiconductor quantum technologies."
   molecular_adsorption: true
-- id: doi:10.1002/adma.202312282
-  title: "Single\u2010Atom Control of Arsenic Incorporation in Silicon for High\u2010\
-    Yield Artificial Lattice Fabrication"
+- id: doi:10.1088/2399-1984/ADE6B7
+  title: Roadmap on atomically-engineered quantum platforms
   authors:
-  - Taylor J. Z. Stock
-  - Oliver Warschkow
-  - Procopios C. Constantinou
-  - David R. Bowler
-  - Steven R. Schofield
-  - Neil J. Curson
-  publisher: Advanced Materials
-  date: '2024-03-22'
-  link: https://doi.org/g8kwxh
+  - Soo-hyon Phark
+  - Bent Weber
+  - Yasuo Yoshida
+  - Patrick R Forrester
+  - Robertus J G Elbertse
+  - Joseph A Stroscio
+  - Hao Wang
+  - Kai Yang
+  - Leo Gross
+  - Shantanu Mishra
+  - Fabian Paschke
+  - Katharina Kaiser
+  - Shadi Fatayer
+  - Jascha Repp
+  - Harry L Anderson
+  - "Diego Pe\xF1a"
+  - Florian Albrecht
+  - Franz J Giessibl
+  - Roman Fasel
+  - "Joaqu\xEDn Fern\xE1ndez-Rossier"
+  - Shigeki Kawai
+  - Laurent Limot
+  - "Nicol\xE1s Lorente"
+  - "Berthold J\xE4ck"
+  - Haonan Huang
+  - Joachim Ankerhold
+  - Christian R Ast
+  - Martina Trahms
+  - Clemens B Winkelmann
+  - Katharina J Franke
+  - Martina O Soldini
+  - Glenn Wagner
+  - Titus Neupert
+  - "Felix K\xFCster"
+  - Souvik Das
+  - Stuart S P Parkin
+  - Paolo Sessi
+  - Zhenyu Wang
+  - Vidya Madhavan
+  - Rupert Huber
+  - Gagandeep Singh
+  - Fabio Donati
+  - Stefano Rusponi
+  - Harald Brune
+  - Eufemio Moreno-Pineda
+  - Mario Ruben
+  - Wolfgang Wernsdorfer
+  - Wantong Huang
+  - Kwan Ho Au-Yeung
+  - Philip Willke
+  - Andreas J Heinrich
+  - Susanne Baumann
+  - Sebastian Loth
+  - Lukas M Veldman
+  - Sander Otte
+  - Christoph Wolf
+  - Lisanne Sellies
+  - Steven R Schofield
+  - "Michael E Flatt\xE9"
+  - Joris G Keizer
+  - Michelle Y Simmons
+  publisher: Nano Futures
+  date: '2025-09-30'
+  link: https://doi.org/g98mgs
   orcid: 0000-0002-0727-3015
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: "This work demonstrates deterministic placement of single arsenic dopants\
-    \ in silicon with 97 \xB1 2% yield, advancing the scalable assembly of atomically\
-    \ precise quantum devices."
-  image: /images/publications/adma202312282-fig-0001-m.jpg
-- id: doi:10.1038/s41467-024-44790-6
+  image: /images/publications/ADE6B7.jpg
+- id: wosuid:PPRN:158566363
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:158566363
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-024-44790-6
   title: EUV-induced hydrogen desorption as a step towards large-scale silicon quantum
     device patterning
   authors:
@@ -158,7 +218,76 @@
     on Si(001):H, bridging atomic-precision STM lithography with scalable semiconductor
     manufacturing techniques.
   image: /images/publications/41467_2024_44790_Fig5_HTML.png.webp
-- id: doi:10.1002/advs.202302101
+- id: wosuid:PPRN:100926309
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:100926309
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ADMA.202312282
+  title: "Single\u2010Atom Control of Arsenic Incorporation in Silicon for High\u2010\
+    Yield Artificial Lattice Fabrication"
+  authors:
+  - Taylor J. Z. Stock
+  - Oliver Warschkow
+  - Procopios C. Constantinou
+  - David R. Bowler
+  - Steven R. Schofield
+  - Neil J. Curson
+  publisher: Advanced Materials
+  date: '2024-03-22'
+  link: https://doi.org/g8kwxh
+  orcid: 0000-0002-0727-3015
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: "This work demonstrates deterministic placement of single arsenic dopants\
+    \ in silicon with 97 \xB1 2% yield, advancing the scalable assembly of atomically\
+    \ precise quantum devices."
+  image: /images/publications/adma202312282-fig-0001-m.jpg
+- id: doi:10.1021/ACS.JPCC.3C03916
+  title: Adsorption and Thermal Decomposition of Triphenyl Bismuth on Silicon (001)
+  authors:
+  - Eric A. S. Lundgren
+  - Carly Byron
+  - Procopios Constantinou
+  - Taylor J. Z. Stock
+  - Neil J. Curson
+  - Lars Thomsen
+  - Oliver Warschkow
+  - Andrew V. Teplyakov
+  - Steven R. Schofield
+  publisher: The Journal of Physical Chemistry C
+  date: '2023-08-14'
+  link: https://doi.org/g93mkz
+  orcid: 0000-0002-0727-3015
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/images_large_jp3c03916_0006.jpeg
+  molecular_adsorption: true
+- id: doi:10.1063/5.0145772
+  title: Bismuth trichloride as a molecular precursor for silicon doping
+  authors:
+  - Eric A. S. Lundgren
+  - Rebecca Conybeare
+  - Taylor J. Z. Stock
+  - Neil J. Curson
+  - Oliver Warschkow
+  - Steven R. Schofield
+  publisher: Applied Physics Letters
+  date: '2023-04-10'
+  link: https://doi.org/g93mk3
+  orcid: 0000-0002-0727-3015
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/151601_1_5.0145772.figures.online.f2.jpg
+  molecular_adsorption: true
+- id: doi:10.1002/ADVS.202302101
   title: "Momentum\u2010Space Imaging of Ultra\u2010Thin Electron Liquids in \u03B4\
     \u2010Doped Silicon"
   authors:
@@ -189,28 +318,33 @@
     \ electron liquid to date (0.45 nm)."
   sxarpes: true
   image: /images/publications/advs6137-fig-0003-m.jpg
-- id: doi:10.1021/acs.jpcc.3c03916
-  title: Adsorption and Thermal Decomposition of Triphenyl Bismuth on Silicon (001)
+- id: doi:10.1002/AELM.202201212
+  title: "Non\u2010Destructive X\u2010Ray Imaging of Patterned Delta\u2010Layer Devices\
+    \ in Silicon"
   authors:
-  - Eric A. S. Lundgren
-  - Carly Byron
-  - Procopios Constantinou
-  - Taylor J. Z. Stock
-  - Neil J. Curson
-  - Lars Thomsen
-  - Oliver Warschkow
-  - Andrew V. Teplyakov
+  - "Nicol\xF2 D'Anna"
+  - Dario Ferreira Sanchez
+  - Guy Matmon
+  - Jamie Bragg
+  - Procopios C. Constantinou
+  - Taylor J.Z. Stock
+  - Sarah Fearn
   - Steven R. Schofield
-  publisher: The Journal of Physical Chemistry C
-  date: '2023-08-14'
-  link: https://doi.org/g93mkz
+  - Neil J. Curson
+  - Marek Bartkowiak
+  - Y. Soh
+  - Daniel Grolimund
+  - Simon Gerber
+  - Gabriel Aeppli
+  publisher: Advanced Electronic Materials
+  date: '2023-03-25'
+  link: https://doi.org/hbb97w
   orcid: 0000-0002-0727-3015
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: /images/publications/images_large_jp3c03916_0006.jpeg
-  molecular_adsorption: true
-- id: doi:10.1126/sciadv.adf5997
+  image: /images/publications/aelm202201212-fig-0002-m.jpg
+- id: doi:10.1126/SCIADV.ADF5997
   title: 'Resistless EUV lithography: Photon-induced oxide patterning on silicon'
   authors:
   - Li-Ting Tseng
@@ -231,25 +365,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/sciadv.adf5997-f1.jpg
-- id: doi:10.1063/5.0145772
-  title: Bismuth trichloride as a molecular precursor for silicon doping
-  authors:
-  - Eric A. S. Lundgren
-  - Rebecca Conybeare
-  - Taylor J. Z. Stock
-  - Neil J. Curson
-  - Oliver Warschkow
-  - Steven R. Schofield
-  publisher: Applied Physics Letters
-  date: '2023-04-10'
-  link: https://doi.org/g93mk3
-  orcid: 0000-0002-0727-3015
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: /images/publications/151601_1_5.0145772.figures.online.f2.jpg
-  molecular_adsorption: true
-- id: doi:10.1002/anie.202213982
+- id: doi:10.1002/ANIE.202213982
   title: Room Temperature Incorporation of Arsenic Atoms into the Germanium (001)
     Surface**
   authors:
@@ -270,23 +386,7 @@
     addressing a key challenge for scalable donor-based quantum devices.
   image: /images/publications/anie202213982-toc-0001-m.jpg
   molecular_adsorption: true
-- id: doi:10.1002/ange.202213982
-  title: Room Temperature Incorporation of Arsenic Atoms into the Germanium (001)
-    Surface**
-  authors:
-  - Emily V. S. Hofmann
-  - Taylor J. Z. Stock
-  - Oliver Warschkow
-  - Rebecca Conybeare
-  - Neil J. Curson
-  - Steven R. Schofield
-  publisher: Angewandte Chemie
-  date: '2023-01-10'
-  link: https://doi.org/g93mk5
-  orcid: 0000-0002-0727-3015
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1088/1361-648X/ac5a24
+- id: doi:10.1088/1361-648X/AC5A24
   title: 'Atomic and molecular functionalisation of technological materials: an introduction
     to nanoscale processes on semiconductor surfaces'
   authors:
@@ -300,28 +400,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-- id: doi:10.1021/acs.jpcc.1c07115
-  title: Substitutional Tin Acceptor States in Black Phosphorus
-  authors:
-  - Mark Wentink
-  - Julian Gaberle
-  - Martik Aghajanian
-  - Arash A. Mostofi
-  - Neil J. Curson
-  - Johannes Lischner
-  - Steven R. Schofield
-  - Alexander L. Shluger
-  - Anthony J. Kenyon
-  publisher: The Journal of Physical Chemistry C
-  date: '2021-10-11'
-  link: https://doi.org/g69xwn
-  orcid: 0000-0002-0727-3015
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  quantumstateimaging: true
-  image: /images/publications/jp1c07115_0005.webp
-- id: doi:10.1021/acs.nanolett.1c00677
+- id: doi:10.1021/ACS.NANOLETT.1C00677
   title: Charge Density Waves in Electron-Doped Molybdenum Disulfide
   authors:
   - Mohammed K. Bin Subhan
@@ -344,7 +423,7 @@
     into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
   quantumstateimaging: true
-- id: doi:10.1088/1361-648X/abe6dd
+- id: doi:10.1088/1361-648X/ABE6DD
   title: Determination of the preferred reaction pathway of acetophenone on Si(001)
     using photoelectron diffraction
   authors:
@@ -364,7 +443,46 @@
   file: sources.yaml
   type: paper
   image: /images/publications/cmabe6ddf2_online.jpg
-- id: doi:10.1021/acsnano.9b08943
+- id: doi:10.1021/ACS.JPCC.1C07115
+  title: Substitutional Tin Acceptor States in Black Phosphorus
+  authors:
+  - Mark Wentink
+  - Julian Gaberle
+  - Martik Aghajanian
+  - Arash A. Mostofi
+  - Neil J. Curson
+  - Johannes Lischner
+  - Steven R. Schofield
+  - Alexander L. Shluger
+  - Anthony J. Kenyon
+  publisher: The Journal of Physical Chemistry C
+  date: '2021-10-11'
+  link: https://doi.org/g69xwn
+  orcid: 0000-0002-0727-3015
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  quantumstateimaging: true
+  image: /images/publications/jp1c07115_0005.webp
+- id: doi:10.1016/J.APSUSC.2021.149961
+  title: The formation of a Sn monolayer on Ge(1 0 0) studied at the atomic scale
+  authors:
+  - Emily V.S. Hofmann
+  - Emilio Scalise
+  - Francesco Montalenti
+  - Taylor J.Z. Stock
+  - Steven R. Schofield
+  - Giovanni Capellini
+  - Leo Miglio
+  - Neil J. Curson
+  - Wolfgang M. Klesse
+  publisher: Applied Surface Science
+  date: '2021-09-01'
+  link: https://doi.org/hbb97x
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACSNANO.9B08943
   title: Atomic-Scale Patterning of Arsenic in Silicon by Scanning Tunneling Microscopy
   authors:
   - Taylor J. Z. Stock
@@ -386,7 +504,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/nn9b08943_0005.webp
-- id: doi:10.1021/acs.jpcc.9b04954
+- id: doi:10.1021/ACS.JPCC.9B04954
   title: "Dissociation of CH<sub>3</sub>\u2013O as a Driving Force for Methoxyacetophenone\
     \ Adsorption on Si(001)"
   authors:
@@ -405,7 +523,16 @@
   file: sources.yaml
   type: paper
   image: /images/publications/images_medium_jp9b04954_0006.gif
-- id: doi:10.1016/j.apsusc.2017.11.058
+- id: wosuid:PPRN:50178504
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:50178504
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.APSUSC.2017.11.058
   title: Higher order reconstructions of the Ge(001) surface induced by a Ba layer
   authors:
   - W. Koczorowski
@@ -424,7 +551,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/1-s2.0-S0169433217333019-gr1.jpg
-- id: doi:10.1103/PhysRevB.97.155306
+- id: doi:10.1103/PHYSREVB.97.155306
   title: Two- to three-dimensional crossover in a dense electron liquid in silicon
   authors:
   - Guy Matmon
@@ -447,7 +574,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/PhysRevB.97.155306.png
-- id: doi:10.1103/PhysRevB.95.075408
+- id: doi:10.1103/PHYSREVB.95.075408
   title: Exact location of dopants below the Si(001):H surface from scanning tunneling
     microscopy and density functional theory
   authors:
@@ -468,7 +595,16 @@
   type: paper
   quantumstateimaging: true
   image: /images/publications/PhysRevB.95.075408.png
-- id: doi:10.1126/sciadv.1602586
+- id: wosuid:PPRN:12341897
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:12341897
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/SCIADV.1602586
   title: Nondestructive imaging of atomically thin nanostructures buried in silicon
   authors:
   - Georg Gramse
@@ -489,7 +625,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/1602586-f1.jpeg
-- id: doi:10.1021/acs.jpcc.6b10485
+- id: doi:10.1021/ACS.JPCC.6B10485
   title: "Adsorption and Dissociation of a Bicyclic Tertiary Diamine, Triethylenediamine,\
     \ on a Si(100)-2 \xD7 1 Surface"
   authors:
@@ -509,7 +645,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/images_medium_jp-2016-104854_0008.gif
-- id: doi:10.1039/c6cp04328c
+- id: doi:10.1039/C6CP04328C
   title: Orientation and stability of a bi-functional aromatic organic molecular adsorbate
     on silicon
   authors:
@@ -551,7 +687,7 @@
   type: paper
   image: /images/publications/014705_1_f4.jpeg
   molecular_adsorption: true
-- id: doi:10.1103/PhysRevB.93.195304
+- id: doi:10.1103/PHYSREVB.93.195304
   title: STM and DFT study on formation and characterization of Ba-incorporated phases
     on a Ge(001) surface
   authors:
@@ -588,7 +724,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.91.235319
+- id: doi:10.1103/PHYSREVB.91.235319
   title: 'Initial growth of Ba on<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>Ge</mml:mi><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:math>:
     An STM and DFT study'
   authors:
@@ -606,25 +742,6 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1088/0953-8984/27/5/054002
-  title: "Manipulating the orientation of an organic adsorbate on silicon: a NEXAFS\
-    \ study of acetophenone on Si(0\u20090\u20091)"
-  authors:
-  - Kane M O'Donnell
-  - Oliver Warschkow
-  - Asif Suleman
-  - Adam Fahy
-  - Lars Thomsen
-  - Steven R Schofield
-  publisher: 'Journal of Physics: Condensed Matter'
-  date: '2014-11-21'
-  link: https://doi.org/g93mmh
-  orcid: 0000-0002-0727-3015
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: /images/publications/cm501155f06_online.jpg
-  molecular_adsorption: true
 - id: doi:10.1088/0953-8984/27/5/050301
   title: Organic molecules on inorganic surfaces
   authors:
@@ -647,7 +764,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/acs.jpcc.5b01493
+- id: doi:10.1021/ACS.JPCC.5B01493
   title: Water-Induced, Spin-Dependent Defects on the Silicon (001) Surface
   authors:
   - Phillip V. Smith
@@ -700,6 +817,25 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1088/0953-8984/27/5/054002
+  title: "Manipulating the orientation of an organic adsorbate on silicon: a NEXAFS\
+    \ study of acetophenone on Si(0\u20090\u20091)"
+  authors:
+  - Kane M O'Donnell
+  - Oliver Warschkow
+  - Asif Suleman
+  - Adam Fahy
+  - Lars Thomsen
+  - Steven R Schofield
+  publisher: 'Journal of Physics: Condensed Matter'
+  date: '2014-11-21'
+  link: https://doi.org/g93mmh
+  orcid: 0000-0002-0727-3015
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: /images/publications/cm501155f06_online.jpg
+  molecular_adsorption: true
 - id: doi:10.1088/0953-8984/26/1/012001
   title: Investigating individual arsenic dopant atoms in silicon using low-temperature
     scanning tunnelling microscopy
@@ -720,7 +856,7 @@
   type: paper
   quantumstateimaging: true
   image: /images/publications/012001.jpg
-- id: doi:10.1103/PhysRevB.88.205203
+- id: doi:10.1103/PHYSREVB.88.205203
   title: Magnetic anisotropy of single Mn acceptors in GaAs in an external magnetic
     field
   authors:
@@ -744,7 +880,7 @@
   type: paper
   image: /images/publications/PhysRevB.88.205203.png
   quantumstateimaging: true
-- id: doi:10.1021/jp311261r
+- id: doi:10.1021/JP311261R
   title: Phenyl Attachment to Si(001) via STM Manipulation of Acetophenone
   authors:
   - Steven R. Schofield
@@ -761,7 +897,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/images_medium_jp-2012-11261r_0006.gif
-- id: doi:10.1038/ncomms2679
+- id: doi:10.1038/NCOMMS2679
   title: Quantum engineering at the silicon surface using dangling bonds
   authors:
   - S. R. Schofield
@@ -798,7 +934,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/m_012107_1_f1.jpeg
-- id: doi:10.1021/ja3026399
+- id: doi:10.1021/JA3026399
   title: Guided Self-Assembly of Metal Atoms on Silicon Using Organic-Molecule Templating
   authors:
   - Daniel R. Belcher
@@ -814,7 +950,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/images_medium_ja-2012-026399_0004.gif
-- id: doi:10.1021/nn3039484
+- id: doi:10.1021/NN3039484
   title: Site-Dependent Ambipolar Charge States Induced by Group V Atoms in a Silicon
     Surface
   authors:
@@ -832,7 +968,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/images_medium_nn-2012-039484_0006.gif
-- id: doi:10.1021/jp208247m
+- id: doi:10.1021/JP208247M
   title: Slab Thickness Effects for the Clean and Adsorbed Ge(001) Surface with Comparison
     to Si(001)
   authors:
@@ -846,7 +982,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.84.153302
+- id: doi:10.1103/PHYSREVB.84.153302
   title: 'Acetic acid on silicon (001): An exercise in chemical analogy'
   authors:
   - O. Warschkow
@@ -860,7 +996,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/ncomms1574
+- id: doi:10.1038/NCOMMS1574
   title: Charge density waves in the graphene sheets of the superconductor CaC6
   authors:
   - K.C. Rahnejat
@@ -895,7 +1031,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.84.041306
+- id: doi:10.1103/PHYSREVB.84.041306
   title: Model system for controlling strain in silicon at the atomic scale
   authors:
   - Philipp Studer
@@ -910,7 +1046,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.susc.2009.10.028
+- id: doi:10.1016/J.SUSC.2009.10.028
   title: "Comment on \u201CTransformation of C-type defects on surface at room temperature\
     \ STM/STS study [Surf. Sci. 602 (2008) 2835]\u201D"
   authors:
@@ -940,7 +1076,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1039/b815542a
+- id: doi:10.1039/B815542A
   title: 'Acetone on silicon (001): ambiphilic molecule meets ambiphilic surface'
   authors:
   - Oliver Warschkow
@@ -970,7 +1106,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevLett.103.189702
+- id: doi:10.1103/PHYSREVLETT.103.189702
   title: "Radny<i>et\_al.</i>Reply:"
   authors:
   - M. W. Radny
@@ -998,7 +1134,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.susc.2008.08.027
+- id: doi:10.1016/J.SUSC.2008.08.027
   title: Interaction of acetone with the Si(001) surface
   authors:
   - S.A. Saraireh
@@ -1012,7 +1148,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevLett.100.246807
+- id: doi:10.1103/PHYSREVLETT.100.246807
   title: Valence Surface Electronic States on Ge(001)
   authors:
   - M. W. Radny
@@ -1028,7 +1164,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/PhysRevLett.100.246807.png
-- id: doi:10.1103/PhysRevB.77.201305
+- id: doi:10.1103/PHYSREVB.77.201305
   title: Water on silicon (001):<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
     display="inline"><mml:mi>C</mml:mi></mml:math>defects and initial steps of surface
     oxidation
@@ -1054,7 +1190,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/ja0719069
+- id: doi:10.1021/JA0719069
   title: "Organic Bonding to Silicon via a Carbonyl Group:\u2009 New Insights from\
     \ Atomic-Scale Images"
   authors:
@@ -1090,7 +1226,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.76.155302
+- id: doi:10.1103/PHYSREVB.76.155302
   title: Single hydrogen atoms on the Si(001) surface
   authors:
   - M. W. Radny
@@ -1109,7 +1245,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.susc.2007.06.054
+- id: doi:10.1016/J.SUSC.2007.06.054
   title: 'Towards hybrid silicon-organic molecular electronics: The stability of acetone
     on the Si(001) surface'
   authors:
@@ -1133,7 +1269,25 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.74.113311
+- id: doi:10.1380/EJSSNT.2006.609
+  title: Atomic-scale observation and control of the reaction of phosphine with silicon
+  authors:
+  - S. R. Schofield
+  - N. J. Curson
+  - M. Y. Simmons
+  - O. Warschkow
+  - N. A. Marks
+  - H. F. Wilson
+  - D. R. McKenzie}
+  - P. V. Smith
+  - M. W. Radny
+  publisher: e-Journal of Surface Science and Nanotechnology
+  date: '2006-01-01'
+  link: https://doi.org/cd37sx
+  orcid: 0000-0002-0727-3015
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PHYSREVB.74.113311
   title: 'Importance of charging in atomic resolution scanning tunneling microscopy:
     Study of a single phosphorus atom in a<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
     display="inline"><mml:mrow><mml:mi>Si</mml:mi><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:math>surface'
@@ -1154,7 +1308,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/jp054646v
+- id: doi:10.1021/JP054646V
   title: Phosphine Dissociation and Diffusion on Si(001) Observed at the Atomic Scale
   authors:
   - Steven R. Schofield
@@ -1173,7 +1327,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.susc.2005.10.031
+- id: doi:10.1016/J.SUSC.2005.10.031
   title: 'Phosphorus and hydrogen atoms on the (001) surface of silicon: A comparative
     scanning tunnelling microscopy study of surface species with a single dangling
     bond'
@@ -1189,7 +1343,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.74.195310
+- id: doi:10.1103/PHYSREVB.74.195310
   title: 'Thermal dissociation and desorption of<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"
     display="inline"><mml:mrow><mml:mi mathvariant="normal">P</mml:mi><mml:msub><mml:mi
     mathvariant="normal">H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>on
@@ -1211,7 +1365,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.72.195323
+- id: doi:10.1103/PHYSREVB.72.195323
   title: "Observation of substitutional and interstitial phosphorus on clean<mml:math\
     \ xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mrow><mml:mi\
     \ mathvariant=\"normal\">Si</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>100</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mtext>\u2212\
@@ -1232,7 +1386,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.72.125328
+- id: doi:10.1103/PHYSREVB.72.125328
   title: 'Phosphine adsorption and dissociation on the Si(001) surface: An<i>ab initio</i>survey
     of structures'
   authors:
@@ -1280,7 +1434,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevLett.93.226102
+- id: doi:10.1103/PHYSREVLETT.93.226102
   title: Phosphine Dissociation on the Si(001) Surface
   authors:
   - H. F. Wilson
@@ -1300,7 +1454,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/PhysRevLett.93.226102.png
-- id: doi:10.1103/PhysRevB.69.195303
+- id: doi:10.1103/PHYSREVB.69.195303
   title: STM characterization of the Si-P heterodimer
   authors:
   - N. J. Curson
@@ -1315,7 +1469,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.69.085312
+- id: doi:10.1103/PHYSREVB.69.085312
   title: "Split-off dimer defects on the<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"\
     \ display=\"inline\"><mml:mi mathvariant=\"normal\">Si</mml:mi><mml:mn/><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo><mml:mn>2</mml:mn><mml:mo>\xD7\
     </mml:mo><mml:mn>1</mml:mn></mml:math>surface"
@@ -1335,7 +1489,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1021/nl048808v
+- id: doi:10.1021/NL048808V
   title: Toward Atomic-Scale Device Fabrication in Silicon Using Scanning Probe Microscopy
   authors:
   - Frank J. Ruess
@@ -1364,7 +1518,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevLett.91.136104
+- id: doi:10.1103/PHYSREVLETT.91.136104
   title: Atomically Precise Placement of Single Dopants in Si
   authors:
   - S. R. Schofield
@@ -1416,7 +1570,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1098/rsta.2003.1221
+- id: doi:10.1098/RSTA.2003.1221
   title: Progress in silicon-based quantum computing
   authors:
   - R. G. Clark
@@ -1638,7 +1792,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.64.161401
+- id: doi:10.1103/PHYSREVB.64.161401
   title: Towards the fabrication of phosphorus qubits for a silicon quantum computer
   authors:
   - "J. L. O\u2019Brien"
@@ -1657,7 +1811,7 @@
   orcid: 0000-0002-0727-3015
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1103/PhysRevB.62.10199
+- id: doi:10.1103/PHYSREVB.62.10199
   title: "Energetics of single- and double-layer steps on the<mml:math xmlns:mml=\"\
     http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi mathvariant=\"\
     normal\">Si</mml:mi><mml:mn/><mml:mo>(</mml:mo><mml:mn>001</mml:mn><mml:mo>)</mml:mo><mml:mn>2</mml:mn><mml:mo>\xD7\

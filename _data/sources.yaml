@@ -8,37 +8,37 @@
   quantumstateimaging: true
   image: /images/publications/images_large_nl5c02675_0004.jpg
 
-- id: doi:10.1002/adma.202312282
+- id: doi:10.1002/ADMA.202312282
   type: paper
   description: This work demonstrates deterministic placement of single arsenic dopants in silicon with 97 ± 2% yield, advancing the scalable assembly of atomically precise quantum devices.
   image: /images/publications/adma202312282-fig-0001-m.jpg
 
-- id: doi:10.1038/ncomms2679
+- id: doi:10.1038/NCOMMS2679
   type: paper
   description: This paper reports the unanticipated discovery of a new atomic-scale quantum dot state in silicon, created by atomic manipulation on a hydrogen-terminated surface, providing key insights into atomic-scale quantum dot behaviour.
   date: 2013-04-03
   image: /images/publications/41467_2013_Article_BFncomms2679_Fig6_HTML.jpg
   quantumstateimaging: true
 
-- id: doi:10.1002/anie.202213982
+- id: doi:10.1002/ANIE.202213982
   type: paper
   description: This paper reports that arsenic incorporates into Ge(001) at room temperature, addressing a key challenge for scalable donor-based quantum devices.
   image: /images/publications/anie202213982-toc-0001-m.jpg
   molecular_adsorption: true
 
-- id: doi:10.1002/advs.202302101
+- id: doi:10.1002/ADVS.202302101
   type: paper
   description: This study demonstrates, for the first time, a non-destructive method to probe two-dimensional electron liquids in silicon, revealing their properties—including quantum confinement thickness—and showcasing the thinnest technological electron liquid to date (0.45 nm).
   sxarpes: true
   image: /images/publications/advs6137-fig-0003-m.jpg
 
-- id: doi:10.1021/acs.nanolett.1c00677
+- id: doi:10.1021/ACS.NANOLETT.1C00677
   type: paper
   description: This paper reports the first observation of a charge density wave ground state in a semiconducting transition metal dichalcogenide, providing new insight into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
   quantumstateimaging: true
 
-- id: doi:10.1103/PhysRevLett.91.136104
+- id: doi:10.1103/PHYSREVLETT.91.136104
   type: paper
   description: This seminal paper presents the first demonstration of atomically precise dopant placement in a semiconductor, laying the foundation for modern atomic-scale quantum electronic devices.
   image: /images/publications/PRL_schofield_2003.png
@@ -49,17 +49,17 @@
   description: This roadmap reviews 25 years of progress since Kane’s proposal for donor-based qubits in silicon, charting advances, challenges, and future directions in atomic-scale semiconductor quantum technologies.
   molecular_adsorption: true
 
-- id: doi:10.1038/s41467-024-44790-6
+- id: doi:10.1038/S41467-024-44790-6
   type: paper
   description: This work demonstrates resist-free EUV-induced hydrogen desorption on Si(001):H, bridging atomic-precision STM lithography with scalable semiconductor manufacturing techniques.
   image: /images/publications/41467_2024_44790_Fig5_HTML.png.webp
 
-- id: doi:10.1021/acs.jpcc.3c03916
+- id: doi:10.1021/ACS.JPCC.3C03916
   type: paper
   image: /images/publications/images_large_jp3c03916_0006.jpeg
   molecular_adsorption: true
 
-- id:  doi:10.1126/sciadv.adf5997
+- id:  doi:10.1126/SCIADV.ADF5997
   type: paper
   image: /images/publications/sciadv.adf5997-f1.jpg
 
@@ -68,75 +68,76 @@
   image: /images/publications/151601_1_5.0145772.figures.online.f2.jpg
   molecular_adsorption: true
 
-- id: doi:10.1021/acs.jpcc.1c07115
+- id: doi:10.1021/ACS.JPCC.1C07115
   type: paper
   quantumstateimaging: true
   image: /images/publications/jp1c07115_0005.webp
 
-- id: doi:10.1088/1361-648X/abe6dd
+- id: doi:10.1088/1361-648X/ABE6DD
   type: paper
   image: /images/publications/cmabe6ddf2_online.jpg
 
-- id: doi:10.1088/1361-648X/ac5a24
+- id: doi:10.1088/1361-648X/AC5A24
   type: paper
 
-- id: doi:10.1021/acsnano.9b08943
+- id: doi:10.1021/ACSNANO.9B08943
   type: paper
   image: /images/publications/nn9b08943_0005.webp
 
-- id: doi:10.1038/ncomms1574
+- id: doi:10.1038/NCOMMS1574
   type: paper
   image: /images/publications/41467_2011_Article_BFncomms1574_Fig3_HTML.jpg.webp
 
 - id: doi:10.1063/1.4884654
   type: paper
   image: /images/publications/253102_1_f3.jpeg
-- id: doi:10.1021/nl048808v
+
+- id: doi:10.1021/NL048808V
   type: paper
   image: /images/publications/images_medium_nl048808vn00001.gif
 
-- id: doi:10.1021/ja3026399
+- id: doi:10.1021/JA3026399
   type: paper
   image: /images/publications/images_medium_ja-2012-026399_0004.gif
 
-- id: doi:10.1021/ja0719069
+- id: doi:10.1021/JA0719069
   type: paper
   image: /images/publications/images_medium_ja0719069n00001.gif
 
-- id: doi:10.1103/PhysRevLett.93.226102
+- id: doi:10.1103/PHYSREVLETT.93.226102
   type: paper
   image: /images/publications/PhysRevLett.93.226102.png
 
-- id: doi:10.1103/PhysRevLett.100.246807
+- id: doi:10.1103/PHYSREVLETT.100.246807
   type: paper
   image: /images/publications/PhysRevLett.100.246807.png
 
-- id: doi:10.1126/sciadv.1602586  
+- id: doi:10.1126/SCIADV.1602586
   type: paper
   image: /images/publications/1602586-f1.jpeg
 
-- id: doi:10.1021/acs.jpcc.9b04954
+- id: doi:10.1021/ACS.JPCC.9B04954
   type: paper
   image: /images/publications/images_medium_jp9b04954_0006.gif
 
-- id: doi:10.1103/PhysRevB.97.155306
+- id: doi:10.1103/PHYSREVB.97.155306
   type: paper
   image: /images/publications/PhysRevB.97.155306.png
 
-- id:  doi:10.1016/j.apsusc.2017.11.058
+- id:  doi:10.1016/J.APSUSC.2017.11.058
   type: paper
   image: /images/publications/1-s2.0-S0169433217333019-gr1.jpg
 
-- id: doi:10.1103/PhysRevB.95.075408
+- id: doi:10.1103/PHYSREVB.95.075408
   type: paper
   quantumstateimaging: true
   image: /images/publications/PhysRevB.95.075408.png
 
-- id: doi:10.1021/acs.jpcc.6b10485
+- id: doi:10.1021/ACS.JPCC.6B10485
   type: paper
   image: /images/publications/images_medium_jp-2016-104854_0008.gif
 
-- id: doi:10.1103/PhysRevB.93.195304
+- id: doi:10.1103/PHYSREVB.93.195304
   type: paper
   image: /images/publications/PhysRevB.93.195304.png
 
@@ -145,11 +146,11 @@
   image: /images/publications/014705_1_f4.jpeg
   molecular_adsorption: true
 
-- id: doi:10.1039/c6cp04328c
+- id: doi:10.1039/C6CP04328C
   type: paper
   image: /images/publications/c6cp04328c.jpeg
 
-- id: doi:10.1021/acs.jpcc.5b01493
+- id: doi:10.1021/ACS.JPCC.5B01493
   type: paper
   image: /images/publications/images_medium_jp-2015-01493w_0011.gif
 
@@ -158,11 +159,11 @@
   image: /images/publications/cm501155f06_online.jpg
   molecular_adsorption: true
 
-- id: doi:10.1021/nn3039484
+- id: doi:10.1021/NN3039484
   type: paper
   image: /images/publications/images_medium_nn-2012-039484_0006.gif
 
-- id: doi:10.1021/jp311261r
+- id: doi:10.1021/JP311261R
   type: paper
   image: /images/publications/images_medium_jp-2012-11261r_0006.gif
 
@@ -175,10 +176,18 @@
   quantumstateimaging: true
   image: /images/publications/012001.jpg
 
-- id: doi:10.1103/PhysRevB.88.205203
+- id: doi:10.1103/PHYSREVB.88.205203
   type: paper
   image: /images/publications/PhysRevB.88.205203.png
   quantumstateimaging: true
+
+- id: doi:10.1088/2399-1984/ADE6B7
+  type: paper
+  image: /images/publications/ADE6B7.jpg
+
+- id: doi:10.1002/AELM.202201212
+  type: paper
+  image: /images/publications/aelm202201212-fig-0002-m.jpg
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
