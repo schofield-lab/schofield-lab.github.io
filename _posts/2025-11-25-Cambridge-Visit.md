@@ -1,5 +1,5 @@
 ---
-title: "Visit from Cambridge Collaborators to Test the UCL Vacuum Suitcase"
+title: "Cambridge Team Visits UCL to Begin SHeM Sample-Transfer Tests"
 description: "A collaborative visit from Jack Kelsall and Ke Wang to test a vacuum suitcase for transporting H–Si(001) samples for SHeM imaging."
 tags: [news, visitors, collaboration]
 image: /images/blog/2025/2025-11-25-Cambridge-Visit.jpg
