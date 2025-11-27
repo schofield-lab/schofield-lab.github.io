@@ -1,7 +1,7 @@
 ---
 title: "Our research featured on the cover of Nano Letters"
 description: "Our research featured on the cover of Nano Letters"
-tags: [research, publications, news]
+tags: [research, publications, news, Acceptor, Silicon]
 image: /images/blog/2025/2025-09-24_nanoletters_cover.jpg
 author: steven-schofield
 ---

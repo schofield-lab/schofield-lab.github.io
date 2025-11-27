@@ -1,7 +1,7 @@
 ---
 title: "Visiting Researcher Dr Rebecca Rodrigues de Miranda (ICMCB Bordeaux) Introduces the Lab to Spin-Crossover Self-Assembled Monolayers (SCO-SAMs)"
 description: "Rebecca Rodrigues de Miranda’s two-week visit explores spin-crossover compounds on gold surfaces using STM."
-tags: [news, visitors, collaboration, molecular-electronics]
+tags: [news, visitors, collaboration, molecular-electronics, Bordeaux]
 image: /images/blog/2025/2025-11-14_Rebecca_ICMBC.jpg
 author: steven-schofield
 ---

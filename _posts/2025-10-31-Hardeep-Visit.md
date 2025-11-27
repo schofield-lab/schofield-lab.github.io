@@ -1,7 +1,7 @@
 ---
 title: "A Successful Research Visit from IISc Bangalore"
 description: "Hardeep Singh’s six-week visit strengthens our collaboration on 2D materials."
-tags: [news, visitors, collaboration]
+tags: [news, visitors, collaboration, IISc, MoS2]
 image: /images/blog//2025/2025-10-31_hardeep.jpg
 author: steven-schofield
 ---

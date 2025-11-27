@@ -1,7 +1,7 @@
 ---
 title: "CMMP Seminar by Prof. Michael Flatté (U. Iowa / TU Eindhoven)"
 description: "Michael Flatté’s visit to UCL sparks fresh discussion on the challenges facing semiconductor-based quantum computing."
-tags: [news, visitors, seminars, collaboration]
+tags: [news, visitors, seminars, collaboration, Quantum, Silicon]
 image: /images/blog/2025/2025-11-07_Flatte-Niels.jpeg
 author: steven-schofield
 ---

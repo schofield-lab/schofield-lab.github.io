@@ -1,7 +1,7 @@
 ---
 title: "Our research highlighted at PNAS Journal Club"
 description: "Our research highlighted at PNAS Journal Club"
-tags: [research, publications, news]
+tags: [research, publications, news, Acceptor, Silicon]
 image: /images/blog/2025/2025-09-15_pnas.jpg
 author: steven-schofield
 ---
