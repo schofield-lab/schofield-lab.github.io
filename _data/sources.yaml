@@ -37,6 +37,7 @@
   description: This paper reports the first observation of a charge density wave ground state in a semiconducting transition metal dichalcogenide, providing new insight into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
   quantumstateimaging: true
+  twodmaterials: true
 
 - id: doi:10.1103/PHYSREVLETT.91.136104
   type: paper
@@ -71,6 +72,7 @@
 - id: doi:10.1021/ACS.JPCC.1C07115
   type: paper
   quantumstateimaging: true
+  twodmaterials: true
   image: /images/publications/jp1c07115_0005.webp
 
 - id: doi:10.1088/1361-648X/ABE6DD
@@ -87,7 +89,7 @@
 - id: doi:10.1038/NCOMMS1574
   type: paper
   image: /images/publications/41467_2011_Article_BFncomms1574_Fig3_HTML.jpg.webp
-
+  twodmaterials: true
 - id: doi:10.1063/1.4884654
   type: paper
   image: /images/publications/253102_1_f3.jpeg

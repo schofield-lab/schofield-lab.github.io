@@ -35,6 +35,17 @@
     in semiconductors and lays the foundation for atomic-scale electronic devices.
 
 
+- title: Two-dimensional (2D) Materials
+  subtitle: Quantum states, defects, and correlated phases in atomically thin systems
+  group: research
+  image: images/research/twodmaterials/cac6.jpg
+  link: /research/2d-materials/
+  description: >
+    We use low-temperature STM/STS to identify and manipulate atomic-scale defects in
+    two-dimensional materials. Our work spans the imaging of substitutional impurities,
+    mapping of hydrogenic defect states, and the discovery of emergent phases such as
+    charge density waves in heavily electron-doped MoS₂.
+
 
   # tags:
   #   - electronic-structure

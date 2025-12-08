@@ -15,7 +15,7 @@ Our group studies the quantum properties of matter at the atomic scale, with a f
 scanning tunnelling microscopy (STM), angle-resolved photoemission spectroscopy (ARPES),
 and the theory of defects and dopants in semiconductors and 2D materials.
 
-This page will gradually collect short summaries of our main research themes together with
+This page presnts short summaries of our main research themes together with
 selected talks and presentations.
 
 
@@ -29,13 +29,12 @@ selected talks and presentations.
 
 {% include list.html component="card" data="research" filter="group == 'research'" %}
 
-{% include list.html component="card" data="research" filter="group == 'moreresearch'" style="small" %}
+<!-- {% include list.html component="card" data="research" filter="group == 'moreresearch'" style="small" %} -->
+
 
 {% include section.html %}
 
 <a id="presentations"></a>
 ## Research Presentations
-
-
 
 {% include list.html component="card" data="presentations" filter="group == 'schofield'" %}

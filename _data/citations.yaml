@@ -1,23 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1088/1361-648X/ae0be1
-  title: Future of condensed matter physics for the next 10 years<sup>*</sup>
+  title: Future of Condensed Matter Physics for the Next 10 Years
   authors:
-  - Jonathan Bird
+  - Jonathan P Bird
   - Jinguang Cheng
-  - Chun-Gang Duan
+  - Chun-gang Duan
   - Thomas Frederiksen
   - Gerhard Kahl
   - Gianfranco Pacchioni
   - Je-Geun Park
-  - Talat S Rahman
+  - Talat S. Rahman
   - Steven R Schofield
   - Krishnendu Sengupta
   - Xiaoshan Xu
   - Jin Zhao
   - Peter A Dowben
   publisher: 'Journal of Physics: Condensed Matter'
-  date: '2025-10-20'
+  date: '2025-09-25'
   link: https://doi.org/g944bs
   orcid: 0000-0002-0727-3015
   plugin: sources.py
@@ -423,6 +423,7 @@
     into CDW formation mechanisms.
   image: /images/publications/images_large_nl1c00677_0005.jpg
   quantumstateimaging: true
+  twodmaterials: true
 - id: doi:10.1088/1361-648X/ABE6DD
   title: Determination of the preferred reaction pathway of acetophenone on Si(001)
     using photoelectron diffraction
@@ -463,6 +464,7 @@
   file: sources.yaml
   type: paper
   quantumstateimaging: true
+  twodmaterials: true
   image: /images/publications/jp1c07115_0005.webp
 - id: doi:10.1016/J.APSUSC.2021.149961
   title: The formation of a Sn monolayer on Ge(1 0 0) studied at the atomic scale
@@ -1016,6 +1018,7 @@
   file: sources.yaml
   type: paper
   image: /images/publications/41467_2011_Article_BFncomms1574_Fig3_HTML.jpg.webp
+  twodmaterials: true
 - id: doi:10.1063/1.3551618
   title: "Dimer pinning and the assignment of semiconductor\u2013adsorbate surface\
     \ structures"
