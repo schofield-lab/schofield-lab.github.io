@@ -29,7 +29,7 @@ We also host international visitors and collaborators. Previous postdocs and PhD
   image="images/teaser/teaser-join.jpg"
   title=""
   text=text
-  flip=false
+  flip=true
   caption="Pictured is [Eleanor Crane](https://linkedin.com/in/eleanorcrane) operating our LT-STM during her PhD studies at UCL. Ella is now an Assistant Professor (lecturer) at King's College London."
 %}
 
