@@ -21,7 +21,8 @@ The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Researc
 <ul class="updates">
   <li>
     <em>📌 2026-01-05</em> —
-    <a href="/join#csc"><strong>Applications are now invited from Chinese nationals for PhD studentships funded through the Chinese Scholarship Council (CSC) scheme. Deadline: 12 January 2026. → click for more information.</strong></a>
+    <a href="/join"><strong>PhD positions available: (1) general applications via the CDT in Quantum Computation and Quantum Communications (QC2, deadline 2 Feb); (2) Chinese nationals may also apply via the Chinese Scholarship Council (CSC, deadline 14 Jan). → click for details.</strong></a>
+
   </li>
 
   {% assign shown = 0 %}
