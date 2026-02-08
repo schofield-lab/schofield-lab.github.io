@@ -19,12 +19,14 @@ The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Researc
 
 {% capture text %}
 <ul class="updates">
-  <li>
+
+<!--   <li>
     <em>📌 2026-01-05</em> —
     <a href="/join"><strong>PhD positions available: (1) general applications via the CDT in Quantum Computation and Quantum Communications (QC2, deadline 2 Feb); (2) Chinese nationals may also apply via the Chinese Scholarship Council (CSC, deadline 14 Jan). → click for details.</strong></a>
 
   </li>
-
+ -->
+ 
   {% assign shown = 0 %}
   {% for post in updates %}
     {% if post.tags contains 'news' %}
