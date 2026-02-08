@@ -38,11 +38,17 @@ The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Researc
         {% endif %}
       </li>
       {% assign shown = shown | plus: 1 %}
-      {% if shown == 6 %}{% break %}{% endif %}
+      {% if shown == 4 %}{% break %}{% endif %}
     {% endif %}
   {% endfor %}
+<li>
+    <em>📌 Earlier posts</em> —
+      <a href="/blog"><strong>View all news and announcements on our blog</strong></a>
+</li>
 </ul>
 {% endcapture %}
+
+
 
 {%
   include feature_text.html
