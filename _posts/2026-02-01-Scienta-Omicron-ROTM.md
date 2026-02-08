@@ -1,7 +1,7 @@
 ---
 title: "Our Work Recognised as Scienta Omicron's Result of the Month"
 description: "Our STM measurements of anisotropic acceptor wave functions in silicon are recognised as Scienta Omicron’s Result of the Month for February 2026."
-tags: [news, research, STM, silicon, dopants, Omicron]
+tags: [news, research, STM, silicon, acceptor, Omicron]
 image: /images/blog/2026/2026-02-01-Scienta-Omicron-ROTM-teaser.jpg
 author: steven-schofield
 ---
