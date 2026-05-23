@@ -1,6 +1,30 @@
+- title: Expanding the Palette for Atomically Precise Semiconductor Devices
+  subtitle: Steven R. Schofield (Invited), 13 May 2026, IOP Webinar — Atomic-Scale Devices and Quantum Platforms
+  group: schofield-video
+  image: images/research/2026-05-13-IOP-webinar-thumbnail.jpg
+  link: https://www.youtube.com/watch?v=YS4loeyS-Pc
+  description: >
+    An short invited talk covering recent advances in atomically precise semiconductor device
+    fabrication and quantum state imaging, delivered as part of the IOP Webinar series
+    on Atomic-Scale Devices and Quantum Platforms.
+  tags:
+    -
+
+- title: Seeing the Quantum World — Electrons, Atoms, and Tunnelling Microscopy
+  subtitle: Steven R. Schofield, 21 May 2026, Public Lecture for Visiting High School Students, University College London
+  group: schofield-video
+  image: images/research/outreach-public-lecture-thumbnail.jpg
+  link: https://www.youtube.com/watch?v=R5-v0t46rMw
+  description: >
+    A public lecture covering wave–particle duality, the double-slit experiment with electrons,
+    quantum tunnelling, and scanning tunnelling microscopy, finishing with the vision of using
+    quantum states in semiconductors as the building blocks of a quantum computer.
+  tags:
+    -
+
 - title: Imaging and Understanding Quantum States in Semiconductors and 2D Materials
   subtitle: Steven R. Schofield (Invited), 17 November 2025, Quantum Meets Nano Workshop, Institute of Physics, London, UK
-  group: schofield
+  group: schofield-slides
   image: images/research/2025-11-SRS-IOP-NPTG-thumbnail.jpg
   link: /assets/slides/2025-11-SRS-IOP-NPTG.pdf
   description: >
@@ -8,4 +32,4 @@
     defect quantum states, and soft X-ray ARPES studies of buried interfaces and
     δ-doped layers.
   tags:
-    - 
+    -

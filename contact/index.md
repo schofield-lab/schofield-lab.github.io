@@ -5,7 +5,7 @@ description: "Get in touch with the Schofield Group at UCL. Find our email, post
 image: /images/share.jpg
 image_alt: "Contact the Schofield Group at UCL"
 nav:
-  order: 6
+  order: 7
   tooltip: Email, address, and location
 ---
 

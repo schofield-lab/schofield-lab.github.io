@@ -5,7 +5,7 @@ description: "Meet the Schofield Group at UCL — a collaborative team of resear
 image: /images/share.jpg
 image_alt: "The Schofield Group research team at UCL"
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 

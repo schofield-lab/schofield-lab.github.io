@@ -5,7 +5,7 @@ description: "Join the Schofield Group at UCL to work on atomic-scale quantum na
 image: /images/share.jpg         # 1200×630 JPG/PNG (no transparency)
 image_alt: "Schofield Group — atomic-scale research at UCL"
 nav:
-  order: 5
+  order: 6
   tooltip: Join Our Team!
 ---
 

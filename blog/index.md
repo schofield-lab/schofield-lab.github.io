@@ -2,7 +2,7 @@
 title: Blog
 permalink: /blog/
 nav:
-  order: 4
+  order: 5
   tooltip: Musings and miscellany
 ---
 
