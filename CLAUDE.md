@@ -87,7 +87,7 @@ Publications flow: `_data/sources.yaml` → `_cite/cite.py` → `_data/citations
 
 ## Typical Content Changes
 
-- **New blog post**: create `_posts/YYYY-MM-DD-slug.md` with front matter `title`, `description`, `tags`, `image`, `author`.
+- **New blog post**: create `_posts/YYYY-MM-DD-slug.md` with front matter `title`, `description`, `tags`, `image`, `author`. The post body must open with a single standalone sentence followed by a blank line before the rest of the first paragraph — this is what appears as the post summary on listing pages.
 - **New publication**: add entry to `_data/sources.yaml`; citations are rebuilt by CI.
 - **New team member**: create `_members/name.md` following the pattern of existing members.
 - **News on homepage**: posts tagged `news` appear automatically; the homepage shows the 4 most recent.
