@@ -2,7 +2,7 @@
 title: "Inside the Ring: Nine Years on the Swiss Light Source Proposal Review Committee"
 description: "Reflecting on nine years of service on the Proposal Review Committee of the Swiss Light Source, as the committee gathers at PSI for its first full in-person meeting since the SLS2.0 upgrade."
 tags: [news, synchrotron, Switzerland, SLS]
-image: /images/blog/2026/2026-05-08_PRC_clock.jpg
+image: /images/blog/2026/2026-05-08_PRC_clock_v2.jpg
 author: steven-schofield
 ---
 
@@ -28,6 +28,6 @@ Standing inside the ring, the sheer density of the infrastructure is striking. I
 Part of our two-day meeting was an evening farewell dinner, where Professor Gabriel Aeppli, Director of Photon Science at PSI and a close personal collaborator, gave a warm speech acknowledging the outgoing committee members. It was a genuinely warm occasion, and a good opportunity to reflect on the breadth of science the committee has helped support over the years. We were each presented with a commemorative engraved metal clock featuring the layout of the SLS 2.0 beamlines, a fitting keepsake that now sits on my office wall.
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2026/2026-05-08_PRC_clock.jpg' | relative_url }}" alt="Commemorative engraved metal clock presented to outgoing SLS PRC members, featuring the layout of the SLS 2.0 beamlines">
+  <img src="{{ '/images/blog/2026/2026-05-08_PRC_clock_v2.jpg' | relative_url }}" alt="Commemorative engraved metal clock presented to outgoing SLS PRC members, featuring the layout of the SLS 2.0 beamlines">
   <figcaption>The commemorative engraved metal clock presented to outgoing committee members, featuring the layout of the SLS 2.0 beamlines.</figcaption>
 </figure>
