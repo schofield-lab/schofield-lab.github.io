@@ -45,3 +45,18 @@
     δ-doped layers.
   tags:
     -
+
+- title: Towards Arsenic in Germanium Quantum Devices
+  subtitle: >
+    Sean T. J. Egan (Presenting), David Schrago, A. Georgia Predila, Byron B. Gamble,
+    Yasin Ekinci, Steven R. Schofield, 3–7 August 2026, Nanosciences@Surfaces Summer
+    School, Cavendish Laboratory, University of Cambridge
+  group: schofield-poster
+  image: images/research/2026-08-Egan-TFSG-Summer-School-poster-thumbnail.jpg
+  link: /assets/posters/2026-08-Egan-TFSG-Summer-School-Poster.pdf
+  description: >
+    STM-characterised δ-layer fabrication of arsenic in germanium, from surface
+    preparation and arsine dosing through MBE overgrowth and Hall bar patterning,
+    en route to scalable atomic-precision quantum devices.
+  tags:
+    -

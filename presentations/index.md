@@ -24,3 +24,9 @@ Selected research seminars and public lectures from the group.
 ## Presentations — Slides Only
 
 {% include list.html component="card" data="presentations" filter="group == 'schofield-slides'" %}
+
+{% include section.html %}
+
+## Poster Presentations
+
+{% include list.html component="card" data="presentations" filter="group == 'schofield-poster'" %}
