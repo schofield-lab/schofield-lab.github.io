@@ -14,6 +14,23 @@ figure.blog-image figcaption {
   margin-top: 0.5rem;
 }
 
+.blog-image-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem auto;
+}
+
+.blog-image-row figure.blog-image {
+  margin: 0;
+  width: 260px;
+}
+
+.blog-image-row figure.blog-image img {
+  width: 260px;
+}
+
 .post-info {
   display: flex;
   align-items: center; /* vertical centering across the row */
