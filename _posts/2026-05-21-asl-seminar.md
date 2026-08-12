@@ -2,7 +2,7 @@
 title: "High School Students from the American School in London Visit the Lab"
 description: "A group of high school physics students and their teachers from the American School in London visited UCL for a seminar on quantum physics and a tour of our scanning tunnelling microscopy laboratories."
 tags: [news, outreach]
-image: /images/blog/2026/2026-05-21-asl-seminar-georgia.jpg
+image: /images/blog/2026/2026-05-21-asl-seminar.jpg
 author: steven-schofield
 ---
 
