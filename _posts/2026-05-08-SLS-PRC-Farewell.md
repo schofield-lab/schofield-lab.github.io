@@ -2,7 +2,7 @@
 title: "Inside the Ring: Nine Years on the Swiss Light Source Proposal Review Committee"
 description: "Reflecting on nine years of service on the Proposal Review Committee of the Swiss Light Source, as the committee gathers at PSI for its first full in-person meeting since the SLS2.0 upgrade."
 tags: [news, synchrotron, Switzerland, SLS]
-image: /images/blog/2026/2026-05-08_PRC_clock_v2.jpg
+image: /images/blog/2026/2026-05-08_PRC_ring.png
 author: steven-schofield
 ---
 
