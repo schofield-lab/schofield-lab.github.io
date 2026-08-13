@@ -19,11 +19,6 @@
     <span class="post-date">
       <i class="fa fa-calendar"></i> {{ include.published | date: "%B %e, %Y" }}
     </span>
-    {% if include.updated %}
-      <span class="post-updated">
-        <i class="fa fa-sync"></i> {{ include.updated | date: "%B %e, %Y" }}
-      </span>
-    {% endif %}
   </div>
 
   {% if include.tags %}

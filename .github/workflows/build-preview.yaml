@@ -31,6 +31,10 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
+          # full history needed so jekyll-last-modified-at can compute
+          # accurate per-page dates (a shallow clone makes every page
+          # look like it was modified in the latest commit)
+          fetch-depth: 0
 
       - name: Install Ruby packages
         if: github.event.action != 'closed'
