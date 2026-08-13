@@ -31,3 +31,11 @@
   text-align: center;
   white-space: nowrap;
 }
+
+.post-info .post-tags {
+  flex-basis: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
