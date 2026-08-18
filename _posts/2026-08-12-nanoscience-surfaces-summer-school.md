@@ -2,7 +2,7 @@
 title: "Nanoscience@Surfaces Summer School 2026"
 description: "Sean reports back from the Nanoscience@Surfaces Summer School 2026 in Cambridge, covering XPS, STM, and SEM workshops, and his poster."
 tags: [news, conferences, invited-talks, cambridge, stm, students, collaboration, seminars]
-image: /images/blog/2026/2026-08-12-nanoscience-summer-school.png
+image: /images/blog/2026/2026-08-12-nanoscience-summer-school.jpg
 author: sean-egan
 ---
 
@@ -11,7 +11,7 @@ Last week, I had the opportunity to attend the Nanoscience@Surfaces Summer Schoo
 The school was held at the newly-relocated Cavendish Lab, in the Ray Dolby Centre - an absolutely stunning building, and furthermore an incredibly spacious one (which it's difficult not to be a little envious of, coming from a central London institution!). The whole event was organised by Jack Kelsall, whom I knew beforehand as one of our collaborators in the surfaces group at Cambridge, and Viv Thomas, from the IoP. Putting together all the moving parts of a conference seemed like an incredibly tricky task from my perspective, but they managed it very well. Thank you, Jack and Viv!
 
 <figure class="blog-image">
-  <img src="{{ '/images/blog/2026/2026-08-12-nanoscience-summer-school.png' | relative_url }}" alt="Foyer and staircase inside the Ray Dolby Centre at the Cavendish Laboratory">
+  <img src="{{ '/images/blog/2026/2026-08-12-nanoscience-summer-school.jpg' | relative_url }}" alt="Foyer and staircase inside the Ray Dolby Centre at the Cavendish Laboratory">
   <figcaption>Inside the Ray Dolby Centre, Cambridge.</figcaption>
 </figure>
 
