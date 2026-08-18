@@ -1390,8 +1390,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1103/PHYSREVB.72.125328
-  title: 'Phosphine adsorption and dissociation on the Si(001) surface: An<i>ab initio</i>survey
-    of structures'
+  title: "Phosphine adsorption and dissociation on the Si(001) surface: An\n     \
+    \               <i>ab initio</i>\n                    survey of structures"
   authors:
   - O. Warschkow
   - H. F. Wilson
