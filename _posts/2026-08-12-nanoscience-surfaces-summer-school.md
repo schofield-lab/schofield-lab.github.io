@@ -12,7 +12,7 @@ The school was held at the newly-relocated Cavendish Lab, in the Ray Dolby Centr
 
 <figure class="blog-image">
   <img src="{{ '/images/blog/2026/2026-08-12-nanoscience-summer-school.jpg' | relative_url }}" alt="Foyer and staircase inside the Ray Dolby Centre at the Cavendish Laboratory">
-  <figcaption>Inside the Ray Dolby Centre, Cambridge.</figcaption>
+  <figcaption>Summer school attendees inside the Ray Dolby Centre, Cambridge.</figcaption>
 </figure>
 
 The talks and workshops given throughout the week provided interesting insight into many experimental techniques used for the characterisation of surfaces - from the familiar to the alien. There were many great talks given, to the point that it's difficult to single out specific highlights, but one I found interesting was Shaoliang Guan's talk and workshop on XPS - especially the use of near-atmospheric-pressure techniques. As someone planning to perform XPS experiments myself at the PSI next year, I was amazed by implementation in an atmosphere over ten orders of magnitude higher than normal. In NAP-XPS, UHV is maintained in the electron analyser using differential pumping whilst the sample is exposed to a gas, which allows for characterisation of reactions on surfaces as they occur. For me, though, the interest is mostly academic - I have more than enough UHV science to get through on silicon and germanium, at least for the time being.
