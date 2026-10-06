@@ -69,10 +69,28 @@ Our work is centred on the ultrahigh vacuum low-temperature scanning tunnelling 
 </ul>
 
 
-## PhD 
+## PhD – Primary Supervision
 
 <ul>
-{% for alum in site.data.alumni.phd %}
+{% assign primary_phd = site.data.alumni.phd | where_exp: "alum", "alum.supervision == 'Primary supervisor'" %}
+{% for alum in primary_phd %}
+  <li>
+    <strong>{{ alum.name }}</strong> ({{ alum.years }})  
+    <br>
+    Thesis: <em>{{ alum.thesis }}</em>  
+    {% if alum.destination %}
+    <br>
+    Post-PhD Destination: {{ alum.destination }}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+## PhD – Secondary Supervision
+
+<ul>
+{% assign secondary_phd = site.data.alumni.phd | where_exp: "alum", "alum.supervision != 'Primary supervisor'" %}
+{% for alum in secondary_phd %}
   <li>
     <strong>{{ alum.name }}</strong> ({{ alum.years }})  
     <br>
