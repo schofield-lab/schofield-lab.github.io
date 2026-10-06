@@ -11,7 +11,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-person-chalkboard" %}Presentations
 
-Selected research seminars and public lectures from the group.
+Invited and plenary talks, research seminars, public lectures, and posters from the group.
 
 {% include section.html %}
 

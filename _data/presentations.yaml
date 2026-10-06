@@ -22,6 +22,19 @@
   tags:
     -
 
+- title: Dopants at the Atomic Limit in Silicon and Germanium
+  subtitle: Steven R. Schofield (Plenary), 27 September – 2 October 2026, GADEST 2026, San Servolo Island, Venice, Italy
+  group: schofield-slides
+  image: images/research/2026-09-GADEST-thumbnail.jpg
+  link: /assets/slides/2026-09-SRS-GADEST-2026.pdf
+  description: >
+    Plenary lecture on atomic-scale dopant systems in silicon and germanium, covering
+    STM and SX-ARPES studies of dopant incorporation, electronic structure, and
+    quantum confinement, together with theoretical modelling of anisotropic dopant
+    wavefunctions.
+  tags:
+    -
+
 - title: Scanning Tunnelling Microscopy (STM)
   subtitle: Steven R. Schofield, 3–7 August 2026, Nanosciences@Surfaces Summer School, Cavendish Laboratory, University of Cambridge
   group: schofield-slides
