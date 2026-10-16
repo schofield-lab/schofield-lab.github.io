@@ -50,6 +50,53 @@ Our work is centred on the ultrahigh vacuum low-temperature scanning tunnelling 
 
 {% include section.html %}
 
+# {% include icon.html icon="fa-solid fa-user-graduate" %}Current Student Supervision
+
+{% include section.html %}
+
+## PhD – Primary Supervision
+
+<ul>
+  <li>
+    <strong>Owain Pateman</strong> (October 2026 – present)
+    <br>
+    Thesis topic: <em>Atomic-scale imaging of quantum defects in two-dimensional materials</em>
+  </li>
+  <li>
+    <strong>Byron Gamble</strong> (October 2025 – present)
+    <br>
+    Thesis topic: <em>STM studies and device fabrication for quantum materials, co-supervised with A*STAR, Singapore</em>
+  </li>
+  <li>
+    <strong>Sean Egan</strong> (October 2025 – present)
+    <br>
+    Thesis topic: <em>Atomic-scale quantum science for scalable quantum technology using silicon- and germanium-based devices</em>
+  </li>
+  <li>
+    <strong>Georgia Predila</strong> (October 2023 – present)
+    <br>
+    Thesis topic: <em>Arsenic δ-doped layers in germanium studied by STM and SX-ARPES</em>
+  </li>
+</ul>
+
+## MSci and MSc Students
+
+<ul>
+  <li>Awaiting new enrolments for 2026/27</li>
+</ul>
+
+## Natural Sciences Literature Review Projects
+
+<ul>
+  <li>
+    <strong>Sasha Temple</strong> (October 2026 – present) · NSci
+    <br>
+    Literature Review Topic: <em>Tip-induced chemistry and nanographenes</em>
+  </li>
+</ul>
+
+{% include section.html %}
+
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Alumni
 
 {% include section.html %}
@@ -119,9 +166,29 @@ Our work is centred on the ultrahigh vacuum low-temperature scanning tunnelling 
 ## MSci and MSc Students
 
 <ul>
-{% for student in site.data.alumni.masters %}
+{% assign msci_msc_alumni = site.data.alumni.masters | where_exp: "student", "student.degree != 'Natural Sciences'" %}
+{% for student in msci_msc_alumni %}
   <li>
-    <strong>{{ student.name }}</strong> ({{ student.years }}) · {{ student.degree }}{% if student.thesis %} — <em>{{ student.thesis }}</em>{% endif %}
+    <strong>{{ student.name }}</strong> ({{ student.years }}) · {{ student.degree }}
+    {% if student.thesis %}
+    <br>
+    Thesis: <em>{{ student.thesis }}</em>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+## Natural Sciences Literature Review Projects
+
+<ul>
+{% assign natsci_alumni = site.data.alumni.masters | where_exp: "student", "student.degree == 'Natural Sciences'" %}
+{% for student in natsci_alumni %}
+  <li>
+    <strong>{{ student.name }}</strong> ({{ student.years }}) · NSci
+    {% if student.thesis %}
+    <br>
+    Thesis: <em>{{ student.thesis }}</em>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>

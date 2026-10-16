@@ -105,18 +105,18 @@ visitors:
 masters:
   - name: Zeyu Cheng
     years: "2024 – 2025"
-    degree: "MSc (Research Masters)"
+    degree: "MSc"
     thesis: "Molecular adsorption for atomic-scale device fabrication."
 
   - name: Jay Patel
     years: "2024 – 2025"
-    degree: "MSci (Integrated Masters)"
+    degree: "MSci"
     thesis: "Machine learning for scanning tunnelling microscopy image recognition."
 
   - name: Adam Klička
     years: "2024 – 2025"
     degree: "Natural Sciences"
-    thesis: "Solid-state quantum computation (Review Topic)"
+    thesis: "Increasing the performance of electrostatically-defined semiconductor quantum dot spin qubits in large qubit arrays"
 
   - name: Daniel Waisman
     years: "2023 – 2024"
@@ -176,8 +176,9 @@ masters:
     degree: "MSci"
 
   - name: Max Kirsch
-    years: "2017 – 2018"
-    degree: "MSci"
+    years: "2016 – 2017"
+    degree: "Natural Sciences"
+    thesis: "Atomic Scale Quantum Dots"
 
   - name: Jack Trent
     years: "2016 – 2017"
