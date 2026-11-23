@@ -82,7 +82,16 @@ Our work is centred on the ultrahigh vacuum low-temperature scanning tunnelling 
 ## MSci and MSc Students
 
 <ul>
-  <li>Awaiting new enrolments for 2026/27</li>
+  <li>
+    <strong>Hannah Iqbal Miah</strong> (October 2026 – present) · MSc Advanced Materials Science
+    <br>
+    Thesis topic: <em>First-principles study of precursor molecule adsorption and incorporation on silicon surfaces</em>
+  </li>
+  <li>
+    <strong>Amitoj Singh</strong> (October 2026 – present) · MSc Quantum Technologies
+    <br>
+    Thesis topic: <em>Machine learning analysis of atomic-resolution STM images for quantum device fabrication on silicon</em>
+  </li>
 </ul>
 
 ## Natural Sciences Literature Review Projects
