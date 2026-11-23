@@ -38,12 +38,12 @@ We also host international visitors and collaborators. Previous postdocs and PhD
 
 ## PhD Studentship Opportunities at a Glance
 
-- **[UCL EPSRC Landscape Award (UELA)](#uela)** — *New!* Fully funded for 4 years (fees + enhanced stipend + additional research training and travel support). Open to Home & International applicants.  → Our project: **[*Mapping the Quantum Landscape of 2D Materials, One Atom at a Time*](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1677.html)** — application deadline **13:00 UK time, Monday 05-Jan-2026**.  
+- **[UCL EPSRC Doctoral Landscape Award (UELA)](#uela)** — *New!* Fully funded for 4 years (fees + enhanced stipend + additional research training and travel support). Open to Home fee status applicants for our project.  → Our project: **[*Atomic-Precision Acceptor Qubits in Silicon*](https://www.ucl.ac.uk/study/doctoral-school/funding/epsrc-doctoral-funding/epsrc-prospective-doctoral-students/ucl-epsrc-doctoral-landscape-award-uela-studentships#projects)** — application deadline **12:00 (noon) UK time, Friday 8 January 2027**.  
 
-- **[UCL Research Excellence Scholarship (RES)](#res)** — Fully funded (fees + stipend, 4 years). Open to outstanding candidates from any country. Deadline: January.  
-- **[China Scholarship Council – UCL Joint Research Scholarship](#csc)** — Fully funded (fees + stipend). For citizens of China. Deadline: early January.  
+- **[UCL Research Excellence Scholarship (RES)](#res)** — Fully funded (fees + stipend, 4 years). Open to outstanding UK Home and international candidates. Deadline: **Friday 8 January 2027**.  
+- **[China Scholarship Council – UCL Joint Research Scholarship](#csc)** — Fully funded (fees + stipend). For citizens and permanent residents of China. Apply first for the Faculty Dean's Prize by **Wednesday 13 January 2027**.  
 - **[CDT in Quantum Computation and Quantum Communications (QC2)](#cdt)** — Fully funded (fees + stipend). 1 year taught courses + 3 years research. Open to UK and international applicants. Apply directly via the CDT.  
-- **[UCL Research Opportunity Scholarship (ROS)](#ros)** — Fully funded (fees + stipend). For UK/Home applicants from Black, Asian, and minority ethnic backgrounds. Deadline: January.  
+- **[UCL Research Opportunity Scholarship (ROS)](#ros)** — Fully funded (fees + stipend). For UK-permanent residents from Black, Asian, and minority ethnic backgrounds, with financial need considered. Deadline: **Friday 8 January 2027**.  
 - **[Other schemes or self-funded](#future)** — External studentships (usually fully funded) or self-funded opportunities that may arise from time to time.  
 
 
@@ -52,15 +52,16 @@ We also host international visitors and collaborators. Previous postdocs and PhD
 ---
 
 {% capture text %}
-We’re excited to announce a **fully funded PhD studentship** available through the [UCL EPSRC Landscape Award (UELA)](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships), focused on **quantum properties of defects in two-dimensional (2D) materials**.  
+We’re excited to announce a **fully funded PhD studentship** available through the [UCL EPSRC Doctoral Landscape Award (UELA)](https://www.ucl.ac.uk/study/doctoral-school/funding/epsrc-doctoral-funding/epsrc-prospective-doctoral-students/ucl-epsrc-doctoral-landscape-award-uela-studentships#projects), focused on **boron acceptor qubits in silicon**.  
 
-- **Project:** *Mapping the Quantum Landscape of 2D Materials, One Atom at a Time*  *(Project ID: 2531bd1677)*  
-- **Funding:** Four year studentship with full tuition fees + **enhanced stipend** (at least **£23,466** in 2026/27) + **Research Training Support Grant (RTSG)** for consumables and travel.  
-- **Eligibility:** Open to both **UK Home** and **International** applicants who meet UCL’s PhD entry requirements.  
-- **Application timeline:** Applications are open now. **Deadline 13:00 UK time, Monday 05-Jan-2026**  
-- **How to apply:** [Contact us](/contact) early to discuss your interests and supervision before [submitting your application through the main UELA page.](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships) Note, that, unlike all other UCL studentship schemes, your application to this scheme will be anonymised at the point that you submit your application and through the initial shortlisting stage.
+- **Project:** *Atomic-Precision Acceptor Qubits in Silicon*  *(Project ID: 2531cs1110, EPSRC theme: Quantum Technologies)*  
+- **The science:** The hole bound to a boron acceptor inherits strong spin-orbit coupling from the silicon valence band, which offers all-electrical control and readout. You will aim to achieve the first atomic-precision placement of individual acceptor dopants in silicon, using hydrogen desorption lithography and controlled boron trichloride surface processes. The boron atoms will be encapsulated by molecular beam epitaxy overgrowth, and the wave functions of the buried acceptors probed directly with STM. The project includes collaboration with the Paul Scherrer Institute (PSI), Switzerland.  
+- **Funding:** Four year studentship with full tuition fees + **enhanced stipend** + **Research Training Support Grant (RTSG)** for consumables and travel.  
+- **Eligibility:** This is a standard UELA project, so only applicants with **Home fee status** can apply. Candidates are responsible for assessing their own fee status. We are looking for a graduate in physics, chemistry or materials science; full training will be provided.  
+- **Application timeline:** Applications are open now. **Deadline 12:00 (noon) UK time, Friday 8 January 2027.** You can apply for up to three UELA projects, and two references must be submitted by the deadline.  
+- **How to apply:** [Contact us](/contact) early to discuss your interests and the project before [submitting your application through the main UELA page.](https://www.ucl.ac.uk/study/doctoral-school/funding/epsrc-doctoral-funding/epsrc-prospective-doctoral-students/ucl-epsrc-doctoral-landscape-award-uela-studentships#projects)
 
-This experimental PhD will explore how individual atomic defects in 2D materials give rise to remarkable quantum behaviour — including single-photon emission and spin localisation — using **ultrahigh-vacuum cryogenic scanning tunnelling microscopy (STM)** and complementary techniques. The project offers a unique opportunity to work at the intersection of **condensed matter physics, surface science, and quantum technologies**.
+This experimental PhD uses **ultrahigh-vacuum scanning tunnelling microscopy (STM)** and complementary techniques, and sits at the intersection of **condensed matter physics, surface science, and quantum technologies**.
 {% endcapture %}
 {%
   include feature_text.html
@@ -74,9 +75,9 @@ This experimental PhD will explore how individual atomic defects in 2D materials
 {% capture text %}
 We encourage applications to the [UCL Research Excellence Scholarship (RES)](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship), which supports outstanding PhD students from any country.  
 - **Funding:** Full tuition fees + stipend for 4 years  
-- **Eligibility:** First-class (or expected first-class) undergraduate degree or equivalent, with strong potential for research excellence  
-- **Application timeline:** Usually **January** (check official page for current deadline)  
-- **How to apply:** [Contact us](/contact) well ahead of the deadline to discuss project options and support for your application  
+- **Eligibility:** Open to UK Home and international students. The scheme is extremely competitive, so we only recommend it for outstanding candidates, typically with a first-class (or expected first-class) undergraduate degree or equivalent and strong potential for research excellence  
+- **Application timeline:** **Deadline Friday 8 January 2027**  
+- **How to apply:** [Contact us](/contact) well ahead of the deadline. New for 2027/28: (1) apply for admission to the relevant UCL degree programme by 8 January, including a research proposal (we suggest one page, written as a lay summary, which we can help you with); and (2) submit the RES cover sheet, and nothing else, to the London Centre for Nanotechnology. Your CV, transcripts and references are taken directly from your admissions application. See the [RES page](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship) for the cover sheet and details  
 {% endcapture %}
 {%
   include feature_text.html
@@ -91,9 +92,9 @@ We encourage applications to the [UCL Research Excellence Scholarship (RES)](htt
 We welcome applications through the [China Scholarship Council – UCL Joint Research Scholarship](https://www.ucl.ac.uk/scholarships/china-scholarship-council-ucl-joint-research-scholarship).  
 
 - **Funding:** Full tuition fees + stipend (per CSC/UCL scheme terms)  
-- **Eligibility:** Citizens of the People’s Republic of China who meet CSC and UCL requirements  
-- **Application timeline:** Usually **early January** (check official page for current deadline)  
-- **How to apply:** [Contact us](/contact) well in advance of the deadline to discuss potential projects  
+- **Eligibility:** Citizens and permanent residents of the People’s Republic of China at the time of application, who meet CSC and UCL requirements. In our experience, successful candidates have usually studied at a top Chinese university  
+- **Application timeline:** Apply first for fee funding under the Faculty's Dean's Prize by **Wednesday 13 January 2027**  
+- **How to apply:** [Contact us](/contact) well in advance of the deadline. The Dean's Prize application needs a CV, a research proposal and two references, using the forms on the [Dean's Prize page](https://www.ucl.ac.uk/scholarships/ucl-deans-prize-faculty-mathematical-physical-sciences). We submit these to the London Centre for Nanotechnology on your behalf  
 {% endcapture %}
 
 {%
@@ -127,12 +128,12 @@ Another route into our group is through the [UCL EPSRC Centre for Doctoral Train
 ---
 
 {% capture text %}
-We encourage eligible candidates to consider the [UCL Research Opportunity Scholarship (ROS)](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship), which supports **Black, Asian and minority ethnic** postgraduate researchers and includes a mentoring programme delivered with the Windsor Fellowship.  
+We encourage eligible candidates to consider the [UCL Research Opportunity Scholarship (ROS)](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship), which supports **Black, Asian and minority ethnic** postgraduate research students and includes a mentoring programme delivered with the Windsor Fellowship.  
 
 - **Funding:** Full tuition fees + stipend  
-- **Eligibility:** Applicants from **Black, Asian and minority ethnic backgrounds** who are eligible for UK/Home fees and are UK-permanent residents  
-- **Application timeline:**  Usually **January** (check official page for current deadline)  
-- **How to apply:** [Contact us](/contact) well ahead of the deadline to discuss suitable projects and nomination steps  
+- **Eligibility:** Applicants from **Black, Asian and minority ethnic backgrounds** who are UK-permanent residents. Financial need is also part of the selection criteria  
+- **Application timeline:**  **Deadline Friday 8 January 2027**  
+- **How to apply:** [Contact us](/contact) well ahead of the deadline. Apply for admission to the relevant UCL degree programme by 8 January, and submit the ROS cover sheet, and nothing else, to the London Centre for Nanotechnology. The cover sheet is on the [ROS page](https://www.ucl.ac.uk/scholarships/ucl-research-opportunity-scholarship)  
 {% endcapture %}
 
 {%

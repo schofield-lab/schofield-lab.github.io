@@ -12,6 +12,23 @@ The [UCL Schofield](https://profiles.ucl.ac.uk/11379-steven-r-schofield) Researc
 {% include section.html %}
 
 
+{% comment %} Studentship opportunities: edit or remove this block as schemes open and close {% endcomment %}
+{% capture text %}
+🚀 [**Fully funded PhD studentship: *Atomic-Precision Acceptor Qubits in Silicon*.**]({{ '/join/#uela' | relative_url }}) Place individual boron acceptors in silicon with atomic precision and image their wave functions by STM, in collaboration with the Paul Scherrer Institute. Available through the UCL EPSRC Doctoral Landscape Award (UELA), Home fee status only. **Deadline: 12:00 UK time, Friday 8 January 2027.**
+
+🎓 See also: other PhD funding opportunities, including the [UCL Research Excellence Scholarship (RES)]({{ '/join/#res' | relative_url }}) for exceptional candidates of any fee status, the [China Scholarship Council (CSC)]({{ '/join/#csc' | relative_url }}) joint scholarship for outstanding students with an undergraduate degree from China, and the [CDT in Quantum Computation and Quantum Communications (QC2)]({{ '/join/#cdt' | relative_url }}). [Full details]({{ '/join/' | relative_url }})
+{% endcapture %}
+
+{%
+  include feature_text.html
+  id="studentships"
+  title="PhD Studentship Opportunities - NEW!"
+  text=text
+%}
+
+{% include section.html %}
+
+
 {% comment %} Pull latest posts tagged 'news' and render a short list {% endcomment %}
 {% assign updates = site.tags['news'] | default: empty %}
 {% assign updates = updates | sort: 'date' | reverse %}
